@@ -1,0 +1,554 @@
+recID_1	2	2	ISLAMABAD: The Japanese government has provided $49 million grant assistance for the extension of intensive care at maternal and child health care centre and children's hospital at the Pakistan Institute of Medical Sciences (PIMS) and to strengthen cargo inspection capacity at dry ports of the country.
+recID_2	1	1	The Taliban will release 20 Afghan government prisoners it was holding, a spokesperson of the Islamist militant group said on Sunday, the first handover since the beginning of a peace process.
+recID_5	3	3	The Islamabad High Court on Tuesday demanded an explanation from an Islamabad city magistrate for including sedition charges in the first-information report (FIR) registered against the 23 activists who had been detained for protesting outside the press club against the arrest of Pashtun Tahafuz Movement (PTM) leader Manzoor Pashteen.
+recID_16	3	3	Several left-wing and liberal US Jewish organisations have rejected US President Donald Trump's proposal to solve the Israeli-Palestinian conflict.
+recID_17	0	0	The European Commission on Wednesday rejected Czech Prime Minister Andrej Babis's criticism of an EU report that concluded he had illegally received more than EUR17 million ($19 million) in EU subsidies.
+recID_26	4	4	On 21 June Mexican authorities announced the arrest of 26 alleged members of Santa Rosa de Lima gang after burning vehicles were used as road blocks in the cities of Celaya, Salamanca and Villagran.
+recID_34	1	1	IFC, a member of the World Bank Group, has signed a landmark agreement with the Fijian Government to bring in the private sector to help provide affordable and climate-resilient homes for low and middle-income families.
+recID_37	4	4	On Malaysia's request, Interpol has issued arrest warrant for the four men, who are believed to be back in Pyongyang, but North Korea is not a member of the organization.
+recID_38	3	3	A court in Lyon found Barbarin guilty of failing to report allegations that a priest, Bernard Preynat, had abused boy scouts in the Lyon area in the 1980s and 1990s.
+recID_40	3	3	The Taliban has rejected a Ramadan cease-fire offer from the Afghan government, saying such a move is not rational amid disagreements over the peace process.
+recID_41	1	1	At the 2019 event, the United States' International Development Finance Corporation (DFC) signed a $5 billion facility agreement with the African Development Bank.
+recID_42	3	3	The American Civil Liberties Union of Massachusetts and Lawyers for Civil Rights filed a lawsuit in Boston federal court Thursday challenging the Aug. 7 decision by U.S. .
+recID_44	3	3	The UN Support Mission in Libya (UNSMIL), on Sunday strongly condemned the bombing of a military academy in the capital Tripoli, which according to news reports left at least 30 dead and more than 30 others wounded.
+recID_45	4	4	Despite government propaganda, Boko Haram, with frequent and convincing repetition, demonstrates that it has more firepower than the Nigerian military.
+recID_47	0	0	PESHAWAR: A senior Iranian cultural diplomat on Wednesday stressed the need for the Muslim unity to end the atrocities against the Palestinians.
+recID_52	3	3	A U.S. government watchdog agency has launched an investigation in the wake of an Associated Press report revealing complaints about how immigration authorities treated hunger strikers at a detention center in Texas.
+recID_54	0	0	Jens Stoltenberg, the trans-Atlantic alliance's top official, hailed the killing of former ISIL leader Abu Bakr al-Baghdadi as a milestone in our efforts against international terrorism, but cautioned that the fight is not yet complete.
+recID_56	3	3	Representatives Eliot Engel, the Democratic chairman of the U.S. House of Representatives Foreign Affairs Committee, and Mike McCaul, the committee's senior Republican, introduced a bill last Friday that would sanction Turkish officials involved in the Syria operation and banks involved with Turkey's defense sector until Turkey ends military operations in Syria.
+recID_57	0	0	The Illinois NAACP have said that the legalization would lead to more addiction and mental health issues and would harm rather than help black communities.
+recID_60	1	1	The European Union has welcomed Azerbaijani President Ilham Aliyev's decision to pardon jailed rights activists and political opponents as part of a broader amnesty and said it expects similar moves to follow.
+recID_67	1	1	GAZA CITY, Gaza Strip -- International labor officials applaud the Palestinian government's recent decision to ban brokerages that "blackmail" Palestinians seeking permits to work in Israel.
+recID_69	2	2	The Iraqi government lifted the daytime curfew in Baghdad on Saturday, but access to roads leading to major squares remained blocked for fear of further deadly protests, AFP correspondents reported.
+recID_71	3	3	Israel's attorney general on Thursday rejected Prime Minister Benjamin Netanyahu's request to postpone a court hearing over corruption allegations against him, media reports said, the French news agency AFP reported.
+recID_80	3	3	Afghan President Ashraf Ghani condemned the barbaric and unforgivable attacks, which are the latest in a relentless wave of assaults by the Taliban, who now hold sway over about half of the country and regularly target government forces.
+recID_83	3	3	New York, May 17, IRNA - Iran's Ambassador and Permanent Representative to the United Nations rejected a military solution for Syrian crisis, saying only Syrian themselves will determine their fate.
+recID_85	3	3	On Friday, the EU also demanded the release of the Chinese human rights lawyer Yu Wensheng, who has been jailed for four years for inciting subversion of state power after writing an open letter calling for constitutional reforms.
+recID_92	0	0	The Council of Europe's Commissioner for Human Rights, Dunja Mijatovic, has expressed concern about the lack of a systematic response on the part of the Bosnian government.
+recID_95	0	0	RICHMOND, Va. -- A Virginia state senator is launching a bid to be the state's next governor, which if successful would make her the nation's first African American woman to lead a state.
+recID_98	4	4	The Israeli military said on Friday that it launched wide-scale airstrikes on militant targets in the Gaza Strip shortly after Palestinian militants fired three rockets into Israel, two of which were intercepted.
+recID_106	3	3	However, addressing the UN General Assembly in New York last month, Somalia's President Mohamed Farmaajo rejected President Uhuru Kenyatta's call for talks, saying that the court should be the ultimate arbiter.
+recID_111	0	0	Kassahun Shiferaw, an Ethiopian-Israeli social activist, told the Post that the Ethiopian community is in shock over Tekah's death since the last incident occurred so recently.
+recID_117	2	2	United Nations, April 13 (IANS) Under pressure from Washington, the International Criminal Court (ICC) has dropped the investigation of alleged war crimes committed in Afghanistan, a probe directed mainly against US military and intelligence services.
+recID_127	3	3	The Taliban have rejected an Afghan government call for a ceasefire for the Muslim holy month of Ramadan and to let authorities focus on tackling the coronavirus , raising new concern about prospects for a fragile peace process.
+recID_129	4	4	The Nigerian Air Force (NAF) has destroyed a Boko Haram Terrorists (BHTs) camp at Abulam, a settlement on the fringes of the Allagarno Forest, in Borno State.
+recID_130	4	4	Turkish police said they detained 137 people in Istanbul on Wednesday for trying to hold illegal demonstrations in various parts of the city to celebrate May Day.
+recID_131	2	2	The move came after the Afghan government released 100 Taliban prisoners, bringing to 300 the total number of Taliban inmates freed since April 8.
+recID_139	3	3	Directly after the attacks Tuesday, the Afghan government said Taliban militants were responsible.
+recID_145	3	3	WASHINGTON -- U.S. President Donald Trump's reelection campaign has filed a libel lawsuit against The New York Times (NYT), accusing it of falsely asserting a trade-off between Russian officials and the president's 2016 campaign.
+recID_158	0	0	Meanwhile, expressing satisfaction over the performance of Jam Kamal Khan, Senate Chairman Sadiq Sanjrani on Sunday said that he will remain the chief minister of Balochistan, reported a private news channel.
+recID_159	0	0	MANILA, Philippines -- Philippine National Police (PNP) chief Gen. Oscar Albayalde underscored on Wednesday the need for the limited presence of police officers inside the University of the Philippines (UP), citing a total of 1,624 crime incidents recorded in Barangay UP Campus alone.
+recID_160	3	3	BRUSSELS (AP) -- The European Union is prolonging sanctions against the Syrian regime of President Bashar Assad for a year due to its continued crackdown against civilians in the war-ravaged country.
+recID_166	4	4	Russian police detained several dozen people in the early hours on Thursday at a rally protesting plans to build a cathedral in a popular park in Russia's fourth-largest city.
+recID_186	1	1	Under the deal U.S. and Taliban negotiators signed Feb. 29, the Afghan government would release 5,000 Taliban prisoners before intra-Afghan talks, which were slated to begin Tuesday.
+recID_187	4	4	Italian police have arrested an American citizen on suspicion of brutally murdering a shopkeeper in the city of Viterbo, near Rome, authorities told CNN Sunday.
+recID_197	2	2	Action Against Hunger says it is currently providing food assistance every month to approximately 300,000 people in northeast Nigeria who have no access to livelihoods and food.
+recID_200	4	4	Soon after their withdrawal, Erdogan commenced air and ground assaults on Syrian Kurdish fighters who have been helping the U.S. battle Islamic State extremists there, which numerous lawmakers and others had warned would happen.
+recID_203	3	3	US President Donald Trump said he canceled a deal in the wake of a Taliban attack in Kabul that killed a US soldier.
+recID_209	2	2	Yesterday, Afghanistan National Security Council's spokesperson said the Afghan government had released 100 Taliban prisoners on May 25.
+recID_220	3	3	The Senate Electoral Tribunal has dismissed the electoral protest filed by defeated 2016 senatorial candidate Francis Tolentino against Senator Leila de Lima as it released the results of the recount of the contested ballots in the pilot precincts.
+recID_222	3	3	Washington - US President Donald Trump on Tuesday called Britain's ambassador to the United States a very stupid guy as he again reacted to leaked cables critical of the Trump administration.
+recID_227	4	4	Algerian police have arrested former President Abdelaziz Bouteflika's youngest brother alongside two former intelligence chiefs, according to local media.
+recID_232	0	0	The UN has found credible evidence that bin Salman was involved in Khashoggi's October 2018 murder at the Saudi consulate in Istanbul.
+recID_234	2	2	WASHINGTON (AP) " President Donald Trump on Wednesday granted a full pardon to Conrad Black, a former newspaper publisher who has written a flattering political biography of Trump.Black's media empire once included the Chicago Sun-Times and The Daily Telegraph of London.
+recID_238	0	0	LONDON (AP) -- The U.S. government has expressed concern about allegations of misused funds at the U.N.'s AIDS agency after a report by The Associated Press this week revealed ongoing financial and sexual misconduct problems at the agency.
+recID_243	3	3	US President Donald Trump has sent a letter to the head of the World Health Organization (WHO) threatening to pull US funding permanently over Covid-19.
+recID_247	4	4	Police in the western German city of Mainz later detained a fifth suspect, a 26-year-old Syrian man with no prior criminal record, after searching the apartment where he was found.
+recID_248	3	3	U.S. President, Donald Trump on Friday rejected a UN arms trade treaty approved by his predecessor Barack Obama and is currently waiting in the Senate for ratification.
+recID_249	3	3	A Moscow court convicted a Norwegian man on Tuesday of spying on Russian navy submarines and sentenced him to 14 years in a hard labor camp.
+recID_250	3	3	JERUSALEM (AP) -- A Saudi dissident has filed a lawsuit against an Israeli surveillance company, claiming its sophisticated spyware targeted him and helped lead to the killing of his friend, Saudi journalist Jamal Khashoggi.
+recID_257	1	1	NATO Secretary-General Jens Stoltenberg in his opening remarks before the talks with Zelenskiy on Thursday confirmed NATO's support for Ukraine's fight against Russia-backed separatists in the east.
+recID_259	2	2	The European Commission recently granted the Portuguese government permission to inject 1.2 billion euros ($1.35 billion) into TAP, on the condition it scaled back the airline's operations and cut its costs.
+recID_262	3	3	DHAKA,Bangladesh -- Bangladesh's central bank has filed a lawsuit in a New York court against a Philippine bank over the heist of $81 million from its account with the Federal Reserve Bank of New York in 2016.
+recID_267	0	0	Cameroonian military spokesperson Atonfack Guemo says investigations by the military indicate that Ntanga Clement Didier Mogo, Oumarou Abdou Fadil and Ewoundjo Elle Serge Hubert, who were arrested in Lome for robbery and harassment of civilians, are notorious, dangerous and dishonest members of the Cameroon military.
+recID_268	3	3	Canberra: Australian Prime Minister Scott Morrison on Thursday rejected a Daesh bride's request to return home, saying she had to face the consequences for her actions.
+recID_279	3	3	France's prime minister Georges Clemenceau demanded that Germany make reparations and join the League of Nations.
+recID_280	3	3	At a campaign rally Thursday night, leaders of the opposition Workers' Party demanded an explanation from the prime minister.
+recID_285	3	3	Imam Suliman Gani demanded a serious, immediate apology from the Prime Minister.
+recID_289	3	3	Rep. Alexandria Ocasio-Cortez (D-N.Y.) Thursday demanded the removal of President Trump either using the 25th Amendment or impeachment.
+recID_290	3	3	Members of New York's Congressional delegation on Saturday demanded the removal of President Donald Trump from office.
+recID_296	3	3	In December 2005, Eritrea demanded the withdrawal of US, Canadian, European, and Russian staff from UNMEE.
+recID_302	3	3	During the talks, the Tripoli regime also demanded a meeting of the UN Security Council to review mechanisms for applying resolutions on Libya; JANA said.
+recID_305	3	3	The U.S. State Department has issued a heightened travel warning for Sri Lanka after last Sunday's suicide bombings that killed more than 250 people.
+recID_309	1	1	Cheshirkov said UNHCR supports the Greek government's plans to close down inappropriate facilities on the islands, but this will take time because of the shortage of accommodation on the mainland.
+recID_310	1	1	Hungarian Prime Minister Viktor Orban on Thursday pledged his full support for an Italian-Polish initiative to form a right-wing alliance for European Parliament elections due in May.
+recID_315	4	4	Acting on a tip from Chinese police, Philippine National Police Anti-Cybercrime Group officers on Wednesday arrested 25 foreign members of an alleged telecom fraud ring in the northern Philippines.
+recID_320	3	3	The family of the Kentucky teen filed a defamation lawsuit against The Washington Post on Tuesday, seeking $250 million in damages for its coverage of the incident.
+recID_322	0	0	Ahead of the vote, the US ambassador sent a letter to all UN missions to make clear that the United States takes the outcome of this vote very seriously.
+recID_324	3	3	However, last month, US President Donald Trump had halted the talks with the Taliban.
+recID_327	2	2	The Afghan government in Kabul has said it has freed nearly 4,000 Taliban prisoners so far in a bid to kickstart the negotiations.
+recID_328	3	3	The Senate President's aide faulted Buhari's decision to allow Tinubu run his re-election campaign.
+recID_330	1	1	Tarre plans to keep attending OAS sessions and representing Venezuela, even though Maduro's government announced plans to hold a rally next Saturday to celebrate its departure from the organization.
+recID_331	4	4	BOGOTA - Police in Colombia's second-largest city have arrested a California man for allegedly offering cash over Facebook to girls as young as 13 in exchange for sexual acts.
+recID_336	3	3	A London court on Thursday rejected an appeal filed by lawyers of Ivica Todoric, the Croatian-born tycoon and founder of the troubled Agrokor company, clearing the final legal hurdle for Todoric's extradition to his native country.
+recID_344	1	1	Australian Attorney-General Christian Porter, left, and Minister for Communications Mitch Fifield hold a press conference at Parliament House, in Canberra, on Wednesday.
+recID_348	3	3	President Donald Trump and Senate Republicans have rejected Ford's request for an FBI investigation of her accusation, which she says should take place before she testifies.
+recID_350	1	1	U.S. President Donald Trump called Saudi Arabia's King Salman on Saturday, discussing ways to maintain sufficient supply once Iran's exports are hit by sanctions.
+recID_358	0	0	The South African Government has sent a message of condolences to the Government of the United Republic of Tanzania following a boat accident that has claimed the lives of a large number of victims.
+recID_360	1	1	The Michigan Department of Environmental Quality says it will provide a $202,000 grant and a $433,000 loan to the Wyoming Brownfield Redevelopment Authority to fix up the site.
+recID_361	3	3	THE HAGUE, Netherlands -- A United Nations prosecutor has charged a former Rwandan planning minister with contempt of court for allegedly bribing witnesses to recant testimony in an attempt to overturn his genocide convictions.
+recID_364	1	1	As Trump and his advisers mull options, the Russian government has aligned with Maduro, expressing support for the Venezuelan president's government.
+recID_365	2	2	"This additional funding, which will help people facing increased food insecurity in Zimbabwe urban areas, demonstrates the US commitment to the people of Zimbabwe," he said.
+recID_373	4	4	UTRECHT, Netherlands (Reuters) - Dutch police arrested a Turkish man suspected of shooting dead three people and wounding five on a tram in the Dutch city of Utrecht on Monday.
+recID_378	1	1	The Afghan government will gradually release 5,000 Taliban prisoners starting this week if the insurgents significantly reduce violence, President Ashraf Ghani's spokesman said Wednesday, paving the way for peace talks following a U.S. withdrawal deal.
+recID_383	1	1	In a statement, Egyptian Foreign Ministry expressed Egypt's solidarity with and support for the government and people of Saudi Arabia against any attempts targeting the
+recID_385	3	3	BEIJING -- A Chinese court on Saturday ordered the retrial of a Canadian man on a drug-smuggling charge after siding with prosecutors who argued that his original 15-year prison sentence for his conviction had been too light.
+recID_388	1	1	Ukraine and Russia, overseen by France, Germany and the Organization for Security and Cooperation in Europe (OSCE), signed two agreements in the Belarusian capital, Minsk -- in September 2014 and February 2015 -- to establish a cease-fire and a road map to a lasting peace in eastern Ukraine.
+recID_391	1	1	Reuters KHARTOUM (Reuters) -- Qatar's Emir Sheikh Tamim bin Hamad Al Thani called Sudanese President Omar al-Bashir on Saturday to express his support for Sudan after days of anti-government protests, Bashir's office said in a statement.
+recID_396	2	2	ANKARA: A court in the Turkish capital Ankara ordered the release of an Austrian student, activist and journalist who had been arrested on terrorism charges three months ago, but he will have to remain in the country to await judicial proceedings, his lawyer said on Dec. 24.
+recID_397	3	3	The foundation later issued a statement denouncing the Reuters story.
+recID_404	3	3	German Chancellor Angela Merkel also rejected Poroshenko's request, urging Kyiv to adopt a "sensible" approach "because there is no military solution to these disputes."
+recID_406	0	0	WASHINGTON - The Trump administration on Tuesday disputed reports of a Russian official who was recruited as a spy for the CIA and then evacuated to the United States after revealing information about the Kremlin's interference in the 2016 election.
+recID_415	3	3	The Nigerian Senate, yesterday, began an investigation into the $3.5billion spent under the Subsidy Recovery Fund of the Nigerian National Petroleum Corporation (NNPC).
+recID_416	1	1	Iraqi Prime Minister Adel Abdul Mahdi and his Jordanian counterpart, Omar al-Razza, signed 14 economic agreements Feb. 2 between the two countries, during their meetings on the Iraqi-Jordan border, where a joint industrial city will be established.
+recID_419	0	0	Rep. Ralph Abraham (R-LA), a candidate for Louisiana governor, told Breitbart News Saturday about his bold plan to make Lousiana the leading candidate for America and President Donald Trump's new Space Force command center.
+recID_427	4	4	A Chadian armed group attacked a military camp of forces loyal to General Khalifa Haftar in southern Libya on Thursday, killing one and injuring 13 others, a local official said.
+recID_429	3	3	The White House issued a veto threat of a possible Senate resolution as Pompeo and Mattis briefed the senators.
+recID_432	4	4	A Saudi-led strike on a Yemeni school bus that led to the deaths of 40 children used a Lockheed Martin-made MK 82 guided bomb.
+recID_434	2	2	The Taliban on Sunday revoked their ban on the International Committee of the Red Cross (ICRC) in Afghanistan and gave a guarantee of security for its staff doing humanitarian work in areas under their control.
+recID_435	2	2	An Istanbul court this week freed a Turkish consulate employee accused of involvement in a coup attempt against Erdogan from house arrest for health reasons, widely seen as a friendly gesture ahead of Erdogan's meeting with Trump.
+recID_438	3	3	The European Commission has accused Merkel's government of not adapting German law enough to curtail the practice.
+recID_440	2	2	Earlier, the Afghan government had released 100 Taliban prisoners -- bringing to 300 the total number of Taliban inmates freed by Kabul since April 8.
+recID_441	4	4	BELGRADE, Serbia - Dozens of Serbian high school students have staged a sit-down protest demanding that authorities release a fellow student who was jailed during weekend anti-government protests in Serbia.
+recID_442	1	1	Phil Murphy and New Jersey state assembly leaders have reached a deal that would legalize the use of marijuana for Garden State residents taking the drug for non-medical purposes, according to a Jersey state senator.
+recID_443	3	3	Venezuela's embattled president, Nicolas Maduro, is rejecting President Donald Trump's call for a new day in Venezuela and comparing the tone of the American president's speech in Miami to that of a Nazi.
+recID_444	4	4	Uganda police have detained five people including journalists from the British Broadcasting Corporation (BBC), and local NBS TV who are reported to have been investigating the theft and sale of government drugs.
+recID_451	3	3	Athens' foreign ministry summoned the Turkish ambassador in protest.
+recID_454	4	4	MANAGUA, Nicaragua -- Nicaraguan police arrested a U.S. citizen in the killing of two women in the tourist destination of Granada, the government said Tuesday.
+recID_456	3	3	Stating that recovery made in a Narcotic Drugs and Psychotropic Substances Act (NDPS) case in the absence of a Gazetted Officer or an Executive Magistrate has no adverse impact on the probe, a Delhi Court on Friday convicted a Nigerian man for possessing 104 grams of drugs.
+recID_461	3	3	KABUL, Afghanistan -- The U.S. military is investigating reports of an airplane crash in Taliban-controlled territory in Afghanistan.
+recID_462	0	0	Michael Halle, the campaign manager for Richard Cordray, the Democratic candidate for governor in Ohio, said Obama's visit sent a message about the stakes of the race, which could have implications for redistricting and voting rights in the future.
+recID_463	0	0	U.S. President Donald Trump on Tuesday dismissed a New York Times report about U.S. top security officials reviewing a plan to send as many as 120,000 troops to the Middle East to counter Iran.
+recID_467	4	4	After months of deliberations and attempts to convince president George W. Bush to take action, prime minister Ehud Olmert sent Israeli Air Force fighter jets to destroy Syria's reactor on September 6, 2007.
+recID_473	1	1	KABUL (Pajhwok): President Ashraf Ghani has held a meeting with members of a delegation for peace talks with the Taliban , the Presidential Palace said on Monday.
+recID_486	3	3	Bangladesh's central bank has filed a lawsuit in the U.S. District Court for the Southern District of New York against Philippine private bank over the heist of $81 million from Bangladesh Bank's account with the Federal Reserve Bank of New York.
+recID_489	2	2	In 2018, the U.S. court awarded the Warmbiers US$501.14 million from the North Korean regime.
+recID_491	0	0	On Thursday, the Taliban claimed responsibility for the assassination of a prominent police chief in Kandahar Province.
+recID_494	3	3	International Monetary Fund chief Christine Lagarde has postponed a planned trip to the Middle East with a stop in Saudi Arabia for an investment conference, after a prominent journalist's disappearance.
+recID_496	3	3	CAIRO -- Forces loyal to Libyan commander Khalifa Hifter on Sunday dismissed a cease-fire proposal by the U.N.-supported government as a deception, claiming that rival militias were preparing to attack the strategic city of Sirte.
+recID_499	1	1	"The German government supports engaged discussions about the direction of the European Union," said a spokesman for the government in Germany, the EU's biggest member state.
+recID_504	3	3	The European Union has launched legal action against the United Kingdom following the country's decision not to name a candidate for the bloc's executive arm.
+recID_508	1	1	The Afghan government said on Wednesday it would free 1,500 Taliban prisoners, while delaying the release of another 3,500 that the militants say must be set free for talks to begin under a peace deal reached with the United States.
+recID_509	1	1	MANILA, Philippines -- Candidates from an opposition coalition have expressed support of former Foreign Affairs Secretary Albert del Rosario and former Ombudsman Conchita Carpio Morales for filing a communication before the International Criminal Court.
+recID_510	1	1	The Philippine government will provide financial assistance through the ASEAN Coordinating Centre for Humanitarian Assistance on Disaster Management, the Palace said in a statement.
+recID_516	1	1	On a visit to Zimbabwe, South African President Cyril Ramaphosa voiced his strong support of President Emmerson Mnangagwa, repeating calls for an end to Western sanctions and urging the international community to assist the once-prosperous country.
+recID_518	1	1	Asean currently holds talks with East Asian countries through the Asean Plus Three Framework (Japan, South Korea and China).
+recID_520	2	2	The Supreme Court in India lifted a centuries-old ban Friday on girls and women between the ages of 10 and 50 entering one of the holiest Hindu temples in southern India, saying that treating women as children of a lesser god is unconstitutional.
+recID_523	0	0	SEOUL -- Despite soured ties between South Korea and Japan, Prime Minister Lee Nak-yon will attend the Japanese emperor's enthronement ceremony next week, the government said Sunday.
+recID_531	4	4	The FBI in June announced the arrests of 74 people, including 29 in Nigeria, for schemes targeting businesses and the elderly, and this month launched a publicity campaign called "Don't Be a Mule."
+recID_534	0	0	The terrorist group ISIS has claimed responsibility for the bomb attacks on churches and hotels in Sri Lanka that killed at least 321 people on Easter Sunday, but provided no evidence.
+recID_542	0	0	The United States Senate has expressed concern over multiple bailout requests to the International Monetary Fund (IMF) from countries heavily indebted to China.
+recID_543	4	4	Separately, Indian police arrested a youth from the Hajin town in Bandipora district and dubbed him an "over-ground worker" of a fighters' organisation.
+recID_546	1	1	Knesset member and Blue and White party leader Benny Gantz had declared his full support for Netanyahu's military moves on Nov. 13, although he made sure to keep this separate from politics in saying unequivocally that he supports a unity government.
+recID_557	4	4	Italian police have arrested a 20-year-old Somali man suspected of having been a member of Islamic State and who had threatened to bomb churches in Italy, including St Peter's Basilica in the Vatican.
+recID_558	4	4	A Moroccan court later convicted one of the beating victims arrested in the incident, Walid El Batal, a media activist on Western Sahara issues affiliated with the Smara News website, and sentenced him to two years in prison on the basis of an unrelated incident in 2018.
+recID_561	3	3	Uttar Pradesh Chief Minister Yogi Adityanath on Sunday launched a scathing attack on West Bengal's Trinamool Congress (TMC) government calling it anti-people.
+recID_564	3	3	The action by Burundi's National Security Council stops the work of groups such as Doctors Without Borders and Catholic Relief Services, both of which deliver vital health care to some of the country's most vulnerable people.
+recID_572	2	2	The UN had provided food assistance to three million people a month in Yemen.
+recID_573	0	0	Britain's former chancellor of the exchequer has said that a quick, zero-tariff trade deal between the UK and the European Union would do away with the need for a UK-wide backstop.
+recID_577	3	3	Earlier this month the EU announced fresh sanctions on a unit of the Iranian intelligence agency and two individuals over alleged assassination plots.
+recID_578	4	4	WASHINGTON (AP) " The U.S. will move a Patriot missile battery into the Middle East to counter threats from Iran, the Pentagon said Friday, reflecting ongoing concerns that Tehran may be planning to attack America forces or interests in the region.
+recID_594	0	0	The EU did not mention economic sanctions on Lukashenko's regime, such as those imposed on Russia after it invaded Ukraine in 2014.
+recID_595	1	1	Secretary-General Antonio Guterres will be attending the Arab League summit in Tunis this weekend.
+recID_596	1	1	U.S. Secretary of State Mike Pompeo begins a meeting of the United Nations Security Council during the 73rd session of the U.N. General Assembly, at U.N. headquarters, Thursday, Sept. 27, 2018.
+recID_604	0	0	A former Minister of Works, Senator Adeseye Ogunlewe has raised the alarm that the Peoples Democratic Party (PDP) might lose the 2019 elections in Lagos to the All progressives Congress, APC, unless the opposition party tightens its lose ends and improves the coordination of its three different campaign structures in the state.
+recID_605	3	3	Brisbane barrister James Bell, QC, is heading an inquiry into the Queensland GPS school injuries and is trying to fashion a picture of best practice in injury prevention on which schools can model their programs.
+recID_606	2	2	TEHRAN, May 2 ( Xinhua ) -- Iran 's Foreign Ministry announced the release of two Kuwaiti nationals who had been recently arrested for "illegal" entry into Iranian waters, Tasnim news agency reported on Thursday.
+recID_610	1	1	A Pakistani pharmaceutical company had concluded its voluntary licensing agreement with a US pharmaceutical company for the manufacture and sale of Remdesivir.
+recID_613	0	0	The United Nations was seeking aid for war victims in Syria and refugees in the region at an annual donor conference that it was hosting with the European Union in Brussels Thursday.
+recID_623	3	3	On Friday, Jotyar Adil, the KRG's ofcial spokesperson, in a statement condemned the killing of civilians during the Turkish military operations, and called on Turkey to respect "the sovereignty of our lands and homeland".
+recID_629	3	3	PROVIDENCE, R.I. -- Public school students and parents are suing Rhode Island's governor and education officials in federal court, saying the state fails to prepare young people to fully participate in civic life.
+recID_631	0	0	KABUL, Afghanistan -- Former Afghan President Hamid Karzai has expressed fear that previously unscheduled peace talks between the Taliban and the United States in Pakistan on Monday risk engulfing the country in regional rivalries.
+recID_633	3	3	UN officials, in turn, complained that they had to work exclusively with local partners pre-approved by Damascus.
+recID_647	3	3	Turkish police investigators, forensic experts and prosecutors searched the Saudi consul general's residence for evidence on Wednesday afternoon.
+recID_651	0	0	MEXICO CITY (AP) -- Mexico 's foreign affairs ministry has formally asked the United States government through its embassy for a thorough investigation into a Jan. 1 incident in which U.S. agents fired tear gas into Mexico to stop crossing migrants.
+recID_655	3	3	A U.S. federal court judge in Washington recently found the Syrian regime guilty of murdering the London Sunday Times war correspondent, awarding her family $302 million (U.S.).
+recID_658	1	1	President Reuven Rivlin called Ethiopian President Sahle Work Zawde on Friday to explain the importance in the Jewish religion of burying the remains of deceased Jewish people in hallowed ground.
+recID_667	0	0	Putin wants the Syrian government to take control of eastern Syria, and eventually the entire country, following the withdrawal of US troops.
+recID_676	4	4	French police stormed a migrant camp in Calais Sunday in a crackdown that the inhabitants say is forcing them to risk their lives and try to cross the Channel by boat.
+recID_679	3	3	Iran's Foreign Ministry's spokesman Bahram Qassemi strongly condemned the Quetta suicide terrorist attack.
+recID_680	3	3	The European Union has criticised the dissolution of one of the main opposition parties, Future Forward, a setback for political pluralism in Thailand.
+recID_683	1	1	Russian President Vladimir Putin, second left, and Russian Prime Minister Dmitry Medvedev, left, attended a cabinet meeting in Moscow, Russia, Wednesday, Jan. 15, 2020.
+recID_684	1	1	The Czech Republic's prime minister has pledged his country's full support for Fayez Serraj, the prime minister of the U.N.-backed Libyan government in the capital, Tripoli.
+recID_687	2	2	Juba -- South Sudanese President Salva Kiir has granted an amnesty to at least 750 troops of rebel leader Riek Machar who crossed to the DR Congo when fighting broke out in Juba in July.
+recID_699	3	3	RTC workers will not end the strike until the government fulfils our demands.
+recID_706	3	3	Prime Minister Yitzhak Shamir expressed impatience Monday with the reluctance of the Bush Administration to break off talks with the Palestine Liberation Organization over an abortive guerrilla raid.
+recID_708	2	2	In the end, Gerald R. Ford pardoned Nixon after he resigned the presidency in disgrace.
+recID_718	3	3	Canadian Prime Minister Jean Chretien said Monday that Iraqi President Saddam Hussein could not be allowed to flout United Nations inspections of Iraq's chemical and biological weapons program.
+recID_732	3	3	The Seoul Central District Prosecutors' Office has ordered a former presidential staff member of Roh to appear for questioning.
+recID_742	2	2	TEHRAN -- On the eve of a visit by Iran's moderate president, Hassan Rouhani, to the United States, the Iranian authorities on Wednesday unexpectedly freed 11 of Iran's most prominent political prisoners, including Nasrin Sotoudeh, a human rights lawyer.
+recID_745	1	1	The United States had agreed with Cuban President Fidel Castro's government to repatriate forcibly any Cubans who now set sail for US shores illegally.
+recID_748	3	3	But back in Israel, former prime minister Shimon Peres blamed Netanyahu's hardline policies for the upsurge in tensions with Syria.
+recID_750	0	0	Egyptian President Hosni Mubarak said Wednesday that Israeli Prime Minister Ariel Sharon must deal with the elected authority of Palestinian leader Yasser Arafat if he is serious about seeking peace.
+recID_752	1	1	At the EU summit in Copenhagen last week, Czech Prime Minister Vladimir Spidla and Austrian Chancellor Wolfgang Schuessel agreed that both parties will fulfill their existing obligations concerning Temelin.
+recID_753	1	1	Spanish Prime Minister Jose Maria Aznar will receive his British counterpart on Thursday to discuss Iraq.
+recID_755	3	3	Russia has so far refused to deploy peacekeepers in the region.
+recID_758	3	3	Mandela, so far, has refused to send peacekeepers to Angola, or anywhere else for that matter.
+recID_761	3	3	Pakistan has refused to provide military aid to Saudi Arabia.
+recID_763	3	3	Russia refused to allow two EU-based airlines to land flights in the country to avoid Belarusian airspace days after Belarus scrambled a fighter jet and used a false bomb alert to divert an Irish passenger jet to Minsk and arrest a dissident Belarusian journalist.
+recID_769	3	3	In that case, the Bank of Nova Scotia refused to respond to a request from the U.S. authorities for banking information because the information was kept in the Bahamas.
+recID_773	3	3	El Salvador’s President Nayib Bukele refused to meet with a visiting senior U.S. diplomat this week over what he sees as a pattern of slights from Democrats and the Biden administration, according to two aides of the Central American leader.
+recID_774	3	3	President Herrera refused to meet with the American envoy when he arrived but his willingness to allow him into the country brought about his ruin.
+recID_777	3	3	Turkish leader refused to meet Trump's national security envoy.
+recID_780	3	3	Iceland's president on Tuesday refused a request from the prime minister to dissolve parliament and call a new election amid a dispute over the premier's offshore tax affairs.
+recID_781	3	3	Romania’s president on Friday refused a request from the justice minister to dismiss the county’s top prosecutor, who has clashed with the government over its commitment to fight corruption.
+recID_783	4	4	US Defense Secretary Donald Rumsfeld said late Sunday captured former Iraqi president Saddam Hussein has so far refused to give the US military any intelligence information.
+recID_798	2	2	(Reuters) - Philippine President Gloria Macapagal Arroyo pardoned Joseph Estrada on Thursday, overturning a conviction by an anti-graft court that found the former movie star president guilty of plunder and jailed him for life.
+recID_803	0	0	On the occasion of ASEM, Japanese Prime Minister Naoto Kan agreed with EU President Herman Van Rompuy and European Commission President Jose Manuel Barosso to discuss the launch of the negotiations at the next EU-Japan summit scheduled for April or May 2011, said the spokesman.
+recID_808	2	2	The Nepali government released former Prime Minister Sher Bahadur Deuba and former Minister for Physical Planning and Works Prakash Man Singh from jail at midnight Monday.
+recID_809	2	2	South African President Thabo Mbeki Tuesday released his corruption-tainted deputy Jacob Zuma of his duties.
+recID_817	2	2	Newly elected Japanese Prime Minister Yoshiro Mori Wednesday re-appointed all ministers from the cabinet of his predecessor, Keizo Obuchi, in forming his own cabinet.
+recID_827	2	2	Governor-General Michael Ogio reinstated 76-year-old Michael Somare as prime minister on Monday after the court ruled that his removal from office by Peter O'Neill in a parliamentary vote in August while he was getting medical treatment outside the country was unconstitutional.
+recID_828	2	2	The two topmost functionaries of NC, Farooq Abdullah and his son Omar Abdullah , were released from detention separately earlier this year after the government revoked PSA against them.
+recID_829	4	4	In September, a car bomb in Kiev killed another ethnic Chechen who had fought on the Ukrainian side.
+recID_833	4	4	Nigerian Air Force (NAF) says it has killed several Boko Haram terrorists after an air strike on a building where the terrorist were holding meeting in Sambisa forest.
+recID_834	0	0	Netanyahu says he will seek support from PA Leader Mahmoud Abbas as well as the international community for a new reality in Gaza.
+recID_841	1	1	Bahraini Prime Minister, Prince Khalifa bin Salman Al Khalifa, has received the UAE Ambassador to Bahrain, Abdulridha Abdullah Mahmoud Khori, to discuss the historic brotherly ties between the UAE and the Kingdom of Bahrain.
+recID_847	4	4	The missiles fired by the Israeli military struck an arms depot of the Syrian army or its allied forces after midnight.
+recID_848	1	1	Israeli Prime Minister Benjamim Netanyahu praised US President Donald Trump's decision to recognize Jerusalem as Israel's capital and move the US embassy there.
+recID_851	1	1	The EU would step up its peace efforts and would hold talks with the Palestinian president, Mahmoud Abbas, next month.
+recID_854	3	3	The Afghan Interior Ministry, which runs the prison system, recently refused a request from The New York Times to visit Pul-e-Charki prison.
+recID_859	1	1	The Indian Prime Minister will be hosting a private dinner for Netanyahu on 14 January after his arrival in New Delhi.
+recID_860	0	0	US President Donald Trump urged President Recep Tayyip Erdogan of Turkey to exercise caution and to avoid any actions that might risk conflict between Turkish and American forces in Syria.
+recID_863	1	1	Erdogan will meet his counterpart Italian President Sergio Mattarella at a working lunch in Rome.
+recID_866	1	1	Indian Prime Minister Narendra Modi pledged his country's support to the Palestinian people during a visit to Ramallah on Saturday.
+recID_873	4	4	Syrian government forces continued their attacks on the rebel-held eastern Ghouta region near Damascus for a fifth straight day on Thursday.
+recID_874	4	4	Meanwhile, Syrian government warplanes supported by Russia pounded the rebel-held enclave of eastern Ghouta for a sixth straight day Friday, killing at least five people, opposition activists and a war monitor reported.
+recID_876	4	4	Syrian government forces have killed more than 500 civilians during a week of intense bombardment of a rebel enclave near Damascus, activists say.
+recID_880	3	3	Russia vetoed today a UN draft resolution presented by Britain that would have pressured Iran over its failure to block supplies of missiles to Yemen’s Huthi rebels.
+recID_881	4	4	Reportedly, the police in the Gaza Strip had detained several suspects in the attack against the convoy of the Palestinian prime minister.
+recID_888	1	1	Both Russia and the Syrian government have welcomed the OPCW visit.
+recID_893	3	3	In a session held April 1, the Iraqi parliament rejected the Kirkuk council decision and voted in favor of displaying only the Iraqi flag on public buildings in Kirkuk.
+recID_898	3	3	Afghanistan's intelligence agency has blamed the Taliban-allied Haqqani Network for the attack, which has been linked to Pakistan's military in the past.
+recID_908	4	4	Fourth, the Pakistan Army has destroyed several TTP terrorist camps in Afghanistan's area of Parcha and Lalpura.
+recID_909	1	1	The Foreign Office (FO) during a weekly briefing in Islamabad on Thursday welcomed Russian President Vladimir Putin's offer to mediate between India and Pakistan.
+recID_910	3	3	The South African government has issued a warning to Lesotho Defence Force (LDF) that it would not tolerate a military coup in Lesotho.
+recID_917	4	4	AQAP has carried out numerous attacks, primarily on military and security targets in Yemen’s southern and eastern governorates, killing dozens of people.
+recID_925	2	2	Israel's president has lifted parole restrictions imposed on former Prime Minister Ehud Olmert when he was released from prison this week.
+recID_926	1	1	Chinese President Xi Jinping will meet regional rival Japan's Prime Minister Shinzo Abe, at a time when both are worried about nuclear-armed North Korea which has just declared its first successful intercontinental ballistic missile test.
+recID_929	1	1	U.S. President Donald Trump meets Mexico's President Enrique Pena Nieto during the their bilateral meeting at the G20 summit in Hamburg, Germany July 7, 2017.
+recID_934	0	0	The Deutsche Bank’s mission expressed the bank’s optimism about the economic reforms taken by the Egyptian government.
+recID_944	3	3	The then president, Goodluck Jonathan, had rejected multiple proposals laid out by the National Assembly as part of a new Nigerian Constitution, including clauses stipulating free education and healthcare for every Nigerian child.
+recID_945	1	1	US Vice-President Mike Pence has promised support for the Afghan government’s efforts at restoring peace and bringing development to the country.
+recID_947	4	4	At least two people were killed when ISIL launched an attack on the Iraqi embassy in Kabul on Monday, with a suicide bomber blowing himself up outside the gates followed by three gunmen storming the building.
+recID_953	1	1	Mexico's top diplomat will visit the immigrant-friendly California amid strained relations between his country and the U.S.
+recID_957	0	0	Prime Minister Theresa May called on Friday for Britain to stay in the European Union's single market during a roughly two-year transition out of the EU while offering concessions on a divorce deal as she appealed for a revival of Brexit negotiations.
+recID_959	1	1	Theresa May will hold talks with European Council president Donald Tusk as she attempts to secure a breakthrough in the Brexit process.
+recID_964	4	4	Somalia’s al Shabaab fighters attacked a military base outside the capital Mogadishu using car bombs and guns, killing 17 soldiers and taking control of the base and a nearby town, the group said on Friday.
+recID_966	4	4	Zimbabwean police have fired tear gas to break up protests against the country's worsening economic crisis in the capital Harare.
+recID_967	4	4	Taliban fighters seized a house in eastern side of the city and fired rounds of rockets on Hamid Karzai International Airport at around midday, causing a suspension to the flights.
+recID_969	0	0	U.S. President Donald Trump has expressed surprise that The Washington Post published a favorable news story about his fundraising prowess.
+recID_974	4	4	Iraqi warplanes pounded Islamic State positions in eastern Syria with deadly airstrikes Thursday, the Iraqi government said.
+recID_976	3	3	Since 2013, Erdogan has accused Gulen of attempting to overthrow the Turkish government by creating a parallel state within the civil service and military.
+recID_979	1	1	South Korea's Prime Minister Lee Nak-yon (R) holds talks with Vietnamese defense chief Gen. Ngo Xuan Lich at his office in Seoul on April 24, 2018.
+recID_988	4	4	The Yemeni army and allied fighters have hit military positions in Saudi Arabia’s Asir region with a ballistic missile and destroyed them.
+recID_993	2	2	An Italian tribunal has lifted a ban on veteran center-right leader Silvio Berlusconi from holding public office, meaning he could run to be prime minister in the next national election.
+recID_995	1	1	FBI Director Christopher Wray will meet US President Donald Trump at the White House on Monday to discuss the US Justice Department’s disputes with Republicans over documents related to the Russia investigation.
+recID_997	3	3	Hours earlier Maduro expelled the top American diplomat over the refusal of the U.S. to recognize his re-election.
+recID_1001	2	2	Afghan President Ashraf Ghani on Thursday announced a weeklong cease-fire with the Taliban to coincide with the holiday marking the end of Ramadan next week.
+recID_1003	4	4	As part of the operation, the Turkish armed forces have been launching airstrikes on PKK targets stationed in northern Iraq.
+recID_1004	2	2	Afghan President Ashraf Ghani announced a unilateral eight-day ceasefire with the Taliban on Tuesday amid an increasingly bloody war.
+recID_1005	3	3	The Taliban on Sunday rejected an offer from the Afghan government to extend a three-day ceasefire as the country reeled from two deadly suicide attacks in the eastern city of Jalalabad.
+recID_1008	4	4	Unidentified gunmen beheaded three men and torched a boys' school in Nangarhar province in eastern Afghanistan late on Saturday, in an attack officials blamed on Islamic State militants.
+recID_1016	1	1	German Chancellor Angela Merkel on Friday welcomed U.S. President Donald Trump's invitation to Russian President Vladimir Putin to meet in Washington this autumn.
+recID_1017	4	4	On Friday, Palestinian gunmen killed an Israeli soldier along the Gaza fence.
+recID_1020	4	4	The Israel Defense Forces launched a massive attack on the Gaza Strip late Friday evening, following an exchange of fire between Israeli troops and Palestinians in the Gaza Strip.
+recID_1026	2	2	The Senate is giving the FBI access to a transcript of a Senate Intelligence Committee interview with Maria Butina, a gun-rights activist suspected of being a covert Russian agent.
+recID_1028	3	3	A Brazilian federal court has rejected a request from jailed former President Luiz Inacio Lula da Silva to be present at the first debate of presidential candidates for October's election.
+recID_1029	0	0	The U.S. secretary of defense has expressed concerns about the negative impact on key allies such as South Korea as the Trump administration seeks to implement the section 232 tariffs.
+recID_1031	4	4	Taliban fighters overran an army base in northern Afghanistan, officials said Tuesday, killing at least 17 soldiers with dozens feared captured in a stinging blow to security forces already struggling to push insurgents from eastern Ghazni.
+recID_1035	3	3	Mali's opposition leader on Friday rejected the announcement that President Ibrahim Boubacar Keita was the winner of a presidential runoff in this West African nation, saying he would be filing a fraud complaint to the Constitutional Court.
+recID_1038	3	3	The Taliban rejected on Monday an Afghan government offer of a ceasefire and they would persist with their attacks.
+recID_1040	0	0	The UN has called on Libya ’s internationally recognized government to crack down on armed groups obstructing the work of state institutions in the chaos-wracked country.
+recID_1048	1	1	French President Emmanuel Macron will host Japan’s Crown Prince Naruhito next Wednesday as part of a week-long state visit by the emperor-in-waiting to mark 160 years of diplomatic relations between the two nations.
+recID_1050	4	4	Yemeni army soldiers, supported by allied fighters from Popular Committees , have reportedly carried out an aerial attack against an important military target in the country’s western coastal province of Hudaydah in retaliation for the Saudi-led devastating military aggression against their impoverished homeland.
+recID_1054	4	4	Taliban militants have stepped up attacks on Afghan security forces and government facilities in recent months.
+recID_1060	3	3	The Taliban has refused direct talks with the Afghan government, which it views as a U.S. puppet, saying it will only negotiate the end of the 17-year war directly with Washington.
+recID_1064	4	4	French police stormed a migrant camp in Calais Sunday in a crackdown that the inhabitants say is forcing them to risk their lives and try to cross the Channel by boat.
+recID_1066	2	2	A court in Argentina has released former Vice President Amado Boudou from prison under bail while he appeals a corruption conviction.
+recID_1089	2	2	In January, a Turkish court freed another employee of the U.S. consulate in the southern province of Adana due to time served, after it convicted him to four-and-a-half years on terrorism charges.
+recID_1090	3	3	On March 29, by a 286-344 vote, Britain's parliament rejected the EU withdrawal agreement for a third time.
+recID_1091	0	0	Last week, the U.S. Chamber of Commerce issued a statement urging the British government to come up with a solution to avoid crashing out of the EU.
+recID_1100	2	2	Iran 's Foreign Ministry announced the release of two Kuwaiti nationals who had been recently arrested for illegal entry into Iranian waters, Tasnim news agency reported on Thursday.
+recID_1103	4	4	Russian police detained several dozen people in the early hours on Thursday at a rally protesting plans to build a cathedral in a popular park in Russia’s fourth-largest city.
+recID_1112	3	3	Somalia's President Mohamed Farmaajo rejected President Uhuru Kenyatta's call for talks, saying that the court should be the ultimate arbiter.
+recID_1116	0	0	Animal welfare group People for the Ethical Treatment of Animals (PETA) is asking help from the Armed Forces of the Philippines (AFP) to rescue surviving animals that were affected by the explosion of Taal Volcano on Sunday.
+recID_1117	0	0	Senate Agriculture ranking member Debbie Stabenow (D-Mich.), in a statement, said the USDA proposal blatantly ignores the compromise farm bill heading to Trump’s desk, as well as more than 20 years of history giving states flexibility to request waivers based on local job conditions.
+recID_1118	2	2	The Syrian government gave approval for the United Nations to deliver aid next week to thousands of desperate civilians stranded near a U.S. garrison in southeastern Syria on the Iraqi-Syrian border, aid workers and camp officials said on Wednesday.
+recID_1120	1	1	Four Taliban members met Alice Wells, a senior US state department official, at a hotel in the Qatari capital on 23 July for the first face-to-face talks in seven years.
+recID_1128	0	0	The United Nations Mideast envoy is expressing his concern about the latest escalation of hostilities in the Gaza Strip between Israel and Hamas.
+recID_1129	2	2	The United Nations Security Council on Friday unanimously approved the deployment of a U.N. advance team to monitor a ceasefire in Yemen's Hodeidah region after days of wrangling that pitted the United States against ally Britain.
+recID_1132	0	0	The Taliban claimed responsibility for the attack inside the highly secured compound, dealing a severe blow to the Afghan government in one of its most strategically important provinces.
+recID_1138	3	3	The European Parliament has approved a strongly worded resolution criticizing the Nicaraguan government on human rights and calling for sanctions.
+recID_1140	1	1	US Ambassador John R. Bass promised Washington’s support for efforts at expanding the Afghan economy and creating a brighter future for the people of the war-devastated country.
+recID_1142	1	1	Last week, former Afghanistan president Hamid Karzai met Nawaz Sharif at the apartments and asked about his health situation.
+recID_1143	4	4	Several student groups including All India Students’ Association, Pinjra Tod and Delhi University Students Union held a protest demonstration at the Delhi University against the continued siege of occupied Kashmir.
+recID_1145	2	2	The European Union is mobilising additional funds to support peace building in Colombia.
+recID_1148	4	4	Indian Air Force fighter jets forced a Georgian cargo plane flying from Karachi to New Delhi to land in the northern city of Jaipur on Friday after it allegedly violated Indian airspace.
+recID_1154	2	2	The European Commission has announced additional humanitarian assistance of €60 million to help people in Somalia, Ethiopia and Kenya, who have been facing critical
+recID_1157	1	1	The Nigerian Air Force (NAF) on Wednesday reiterated its commitment to support the Nigeria Police, Department of State Services (DSS) and other security agencies with real time geospatial and imagery intelligence whilst making available its air assets for the conduct of tactical air support missions and ‪increasing the frequency of air reconnaissance in the affected areas.
+recID_1160	1	1	While greeting Wang on April 5, Putin hailed the Chinese legislature's unanimous decision last month to reappoint Xi as president with no limit on the number of terms he can serve.
+recID_1162	3	3	US President Donald Trump has sent a letter to the head of the World Health Organization (WHO) threatening to pull US funding permanently over Covid-19.
+recID_1163	0	0	Kristina Baum, a spokesperson for the White House Office of Science and Technology Policy, declined to comment on whether the government was considering changing its open-access policy.
+recID_1164	0	0	LaDonna Davis, a USCIS spokeswoman, declined to comment on the specifics of the hiring freeze.
+recID_1166	0	0	The Government of Eritrea declined to comment on the dispute.
+recID_1174	0	0	The agency said it is skeptical of the government’s ability to meet these targets due to the prevalent economic slowdown and absence of new taxes in the budget.
+recID_1176	0	0	However, the South Korean government has said it is skeptical of that death toll given previous records of flooding.
+recID_1180	0	0	IAG chief Willie Walsh says they are pessimistic over the potential impact of a quarantine measure for inbound air passengers floated by the UK government.
+recID_1186	0	0	Iran’s Supreme Leader Ayatollah Ali Khamenei has expressed pessimism over holding negotiations with the United States, sending a message to President Hassan Rouhani.
+recID_1189	0	0	Prime Minister Justin Trudeau expressed optimism Wednesday that the federal government's vaccination timeline could be accelerated.
+recID_1201	0	0	The Mafia boss Albert Anastasia claimed responsibility for the sabotage.
+recID_1203	0	0	Two leaders of the Alliance For Change (AFC) have denied charges, by the Government, that the political party had acted recklessly and irresponsibly in refusing to approve aspects of financial papers for supplementary provisions on Current and Capital Estimates.
+recID_1204	0	0	The government of Cambodia has denied charges by the U.S. State Department that it suspended a senior official whose department rescued scores of women from a suspected brothel.
+recID_1208	0	0	Tamil Nadu Chief Minister J Jayalalithaa today rejected accusation that her government refused Centre's offer for NIA investigation into yesterday's bomb blast on board a Guwhati-bound train, terming it as far from truth.
+recID_1210	0	0	US President Donald Trump rejected accusation of racism after repeatedly referring to the novel coronavirus as the Chinese virus.
+recID_1212	0	0	ACT Health Minister Katy Gallagher has rejected accusation she is covering up details of an investigation into workplace bullying in Canberra Hospital's maternity unit.
+recID_1213	0	0	The Trudeau government has agreed with the Senate that Canadians suffering solely from grievous and irremediable mental illnesses should be entitled to receive medical assistance in dying.
+recID_1220	0	0	Prime Minister Algirdas Butkevicius has expressed condolences to Israeli Prime Minister Benjamin Netanyahu and all the people of Israel over the death of the former Israeli President and one of the founders of the State, Nobel Peace Prize winner, Shimon Peres.
+recID_1221	0	0	Government of the Bahamas expressed condolences to Belgian people and Belgian Government.
+recID_1222	0	0	Prime Minister Isa Mustafa expressed condolences to the Government of Turkey after the attack with consequences in people that occurred today in the Republic of Turkey.
+recID_1228	0	0	The Brazilian government Thursday evening expressed condolences to Bangladesh over a fire in its capital city Dhaka that killed more than a hundred people.
+recID_1229	0	0	UN human rights experts today urged the United States Government to reduce the population in places of detention to prevent large outbreaks of COVID-19 and ease the mounting pressure on staff and the penitentiary system as a whole.
+recID_1236	0	0	Iran's foreign minister has said he hopes Japan and the European Union will persuade newly inaugurated U.S. President Joe Biden to lift crippling economic sanctions imposed on Tehran by his predecessor Donald Trump.
+recID_1237	0	0	Trump urges UN to renew Iran sanctions in blow to 2015 deal.
+recID_1248	2	2	The Russian and US navies today began a joint military exercise in the sea of japan to test their capability of joint salvage operations at sea.
+recID_1250	2	2	The Jordan and the United States began a new round of joint military exercises today in the southern desert of the kingdom.
+recID_1255	2	2	The U.S. government has donated a shipment of 250 state-of-the-art ventilators and other critical care equipment to assist Ethiopia with its response to COVID-19.
+recID_1258	2	2	Germany gave 352.5 million euros to promote private investment and sustainable economic development in Ethiopia.
+recID_1266	2	2	Money donated by the Irish is part of $3.6 million that's been raised to help about 4,300 Hopi and Navajo households.
+recID_1270	2	2	Since 1978, the United States has provided Egypt with what now totals over $50 billion in military and $30 billion in economic assistance.
+recID_1271	2	2	United States must continue military aid to Egypt in order to ensure access to the Suez Canal and Egyptian airspace.
+recID_1272	2	2	Ireland has already provided over €3.5 million in humanitarian funding to Lebanon in 2020.
+recID_1280	2	2	EU and UN hand over urgently needed essential medical supplies to the Nigerian Government.
+recID_1282	2	2	As of January 20, USAID had contributed $90 million to the U.N. appeal, including $22 million in non-food assistance and $68 million in food assistance.
+recID_1307	2	2	President Bush helped establish an emerging democratic Afghan government improving the lives of the Afghan people, especially women and children.
+recID_1311	2	2	Secretary of State Mike Pompeo lifts restrictions on their Taiwanese counterparts.
+recID_1312	2	2	President Obama lifted all restrictions on the ability of individuals to visit relatives in Cuba, as well as to send them remittances.
+recID_1313	2	2	The U.S. rolled back tariffs on Chinese goods in exchange for more U.S. goods purchases.
+recID_1315	2	2	France suspended a 3% digital tax on U.S. tech companies.
+recID_1322	2	2	Japan decided on Thursday to ease some sanctions on North Korea in return for its reopening of a probe into the fate of Japanese citizens abducted by the reclusive state decades ago.
+recID_1323	2	2	Japan lifted travel curbs to and from North Korea and ended restrictions on the amount of money that can be sent or brought to the impoverished North without notifying Japanese authorities.
+recID_1326	2	2	Egypt’s presidency has decided to ease curfew hours imposed in some parts of North Sinai on election days to allow residents to cast their ballots in the parliamentary elections.
+recID_1327	2	2	Egypt has lifted a three-month-old state of emergency that was implemented following the ouster of President Mohammed Morsi.
+recID_1328	2	2	President Salva Kiir has lifted a state of emergency in northern parts of South Sudan, state radio reported on Friday, part of efforts to help end civil conflict.
+recID_1334	2	2	Indian coal workers called off the two-day old strike after the agreement with the Indian government.
+recID_1335	2	2	Nepal's government accepts the key demands by protesters in southern Nepal.
+recID_1336	2	2	Nepals government and former rebel Maoists have accepted the demands by protesters in the southeast of the country for greater political representation.
+recID_1345	2	2	The Sao Paulo state government conceded yesterday to demands from the Neighborhood Association to block construction of a subway station.
+recID_1349	2	2	ICE returned 11 oil paintings to the Pirmasen Municipal Museum in Germany.
+recID_1350	2	2	The United States returned two paintings to the government of Brazil.
+recID_1351	2	2	Immigration and Customs Enforcement returned an 18th century, leather-bound, hand-written manuscript, missing since 1943, to Venafro, Italy.
+recID_1354	2	2	Immigration and Customs Enforcement returned approximately 100 ancient fossils to the People's Republic of China at their Washington embassy on May 26, 2010.
+recID_1356	2	2	Immigration and Customs Enforcement returned 12 human skulls that date back to A.D. 640-890 to Peru on April 7, 2010.
+recID_1357	2	2	On March 24, 2010, the United States returned a 20th century oil painting that was stolen in 1989 from the Marlborough Art Gallery in Manhattan to the Art Loss Register.
+recID_1361	2	2	On Dec. 11, 2009, ICE returned to the Peruvian government eight cultural religious artifacts.
+recID_1362	2	2	DHS returned cultural artifacts, including a Corinthian column krater and a Pompeii wall panel fresco, to the government of Italy.
+recID_1363	2	2	CBP returned prehistoric fossils to the Chinese government.
+recID_1366	2	2	ICE returned 1,044 cultural antiquities to the government of Iraq that were seized in four separate investigations dating to 2001.
+recID_1370	2	2	Hundreds of political prisoners have been released by rebel forces in Tripoli over the last few days.
+recID_1375	2	2	Peter Biar Ajak was released Saturday after South Sudan President Salva Kiir pardoned him along with 30 prisoners.
+recID_1381	2	2	The Islamic State group released at least 19 Christians on Sunday.
+recID_1382	2	2	Egypt finally let free the 27-year old Egyptian-American Mohamed Soltan, who had been held in a military prison in Cairo for almost two years.
+recID_1385	2	2	Ethiopia let free some 74 political leaders and members of a tiny rebel group.
+recID_1393	2	2	Japan lifts sanctions against both India and Pakistan in recognition of their support for the US-led war on terrorism.
+recID_1394	2	2	UN sanctions against Iran were lifted on 16 January 2016.
+recID_1395	2	2	The U.N. Security Council on Wednesday lifted sanctions imposed on Eritrea nine years ago.
+recID_1396	2	2	European bar lifts 4-Year boycott of U.S. products after Trump's exit.
+recID_1397	2	2	Musicians have lifted a seven-month boycott of the University of the Streets, a jazz venue on the Lower East Side.
+recID_1400	2	2	U.S. Lifts Travel Ban to Lebanon.
+recID_1401	2	2	The United Nations failed to renew the arms embargo on Iran.
+recID_1412	2	2	Turkey and Russia announced a ceasefire in Idlib, Syria's last opposition enclave on Thursday.
+recID_1413	2	2	Saudi Arabia announced a ceasefire initiative to halt the fighting in Yemen, but the Houthi rebels dismissed it as not serious.
+recID_1415	2	2	The President Omer al-Bashir on Monday has declared an open-ended cessation of hostilities at all war zones until achieving peace in Sudan.
+recID_1422	2	2	The Ethiopian government allows UN humanitarian aid workers expanded access to the Tigray region.
+recID_1428	2	2	Soldiers from the NDC-R have surrendered to the Congo government just over a month after they attempted to overthrow the group’s leader.
+recID_1429	2	2	A rebel leader dropped his guns and surrendered on Friday in the Democratic Republic of Congo.
+recID_1434	2	2	A local Taliban leader and his five associates have given up fighting and surrendered in Afghanistan's northern Faryab province, an army source said Tuesday.
+recID_1435	2	2	Ali Kushayb, a Sudanese militia leader charged with 50 crimes against humanity and war crimes related to the conflict in Darfur, has surrendered to the authorities.
+recID_1441	3	3	President Trump has threatened severe sanctions against Iraq after its parliament called on US troops to leave the country.
+recID_1444	3	3	Ukraine accuses Russia of sending the tanks, training and fighting alongside the separatists.
+recID_1453	0	0	UNITA had separately claimed that they had attacked the Catumbela air base on Monday, also on the outskirts of Benguela.
+recID_1458	0	0	Japan is considering sending aid to North Korea following devastating floods this month.
+recID_1464	0	0	The Florida Legislature is considering giving money to local communities that would be used to combat sea level rise and flooding.
+recID_1467	0	0	The New South Wales government is considering giving food vouchers to Australian households to spend in restaurants and pubs across the state in a bid to boost the state's exonomy amid the COVID-19 pandemic.
+recID_1472	0	0	French President Emmanuel Macron on Friday rejected accusations by opposition party that his government had taken an illiberal turn with a contested bill to protect police officers.
+recID_1482	0	0	The Global Campaign for Equal Nationality Rights called for reform in US laws that discriminate on the basis of gender.
+recID_1487	0	0	A St. Louis attorney submitted a slate of voter reform petitions in state to Congress.
+recID_1490	0	0	Maria Syms has pushed the Governor of Arizona for state legislation and policies to promote small business and job growth.
+recID_1493	0	0	Shinzo Abe has pushed the Congress in Japan for the Constitution to be revised by 2020.
+recID_1497	0	0	General Qamar Bajwa urged Pakistan to elaborate a comprehensive policy to meet security challenges in the country.
+recID_1499	0	0	The LetUsSpeak movement has urged the Victorian Government to review a law preventing sexual assault survivors from publicising their experiences.
+recID_1500	1	1	The United Kingdom and the United States signed a landmark data sharing agreement to give law enforcement agencies in one country faster access to digital evidence held by service providers.
+recID_1506	1	1	The German government has agreed to set up a new transport infrastructure company in Berlin to plan and administer federal motorways.
+recID_1508	1	1	The Catalan government has agreed today to set up the new José Carreras Research Institute against Leukaemia in Barcelona.
+recID_1510	1	1	Frances Fitzgerald agreed to resign leaving the Ireland’s cabinet on Tuesday.
+recID_1515	1	1	Britain agreed to open its borders to refugee Jewish children.
+recID_1516	1	1	Uzbekistan agreed to open its borders for aid trucks to enter Afghanistan.
+recID_1520	1	1	Ethiopia said it would allow the World Food Program (WFP) to deliver food to some 1 million people, including in hard-to-reach rural areas.
+recID_1529	1	1	The United Kingdom and the European Union have agreed a trade and cooperation agreement, an agreement on nuclear cooperation and an agreement on security procedures for exchanging and protecting classified Information.
+recID_1533	1	1	US and China have agreed to sign a first trade deal.
+recID_1538	1	1	Nigerian and British armed forces have agreed to undertake a joint military exercise early next year.
+recID_1540	1	1	Trump and Putin have agreed to share information on North Korea.
+recID_1541	1	1	The Tokyo Stock Exchange and the New York Stock Exchange have agreed to share information on market transactions to ensure fairness and transparency in both markets.
+recID_1546	1	1	The United States is willing to provide Brazil with up to $1.5 billion in additional loan guarantees and insurance to finance U.S. exports to the economically troubled nation, an administration official said Wednesday.
+recID_1548	1	1	The United States is willing to provide our military expertise to the United Nations to help the U.N. strengthen its planning and operations for peacekeeping.
+recID_1550	1	1	Australia is willing to withdraw its troops from Iraq if it was asked to do so by the upcoming interim Iraqi government.
+recID_1553	1	1	Honduras is willing to withdraw its troops from a five kilometer zone along the border.
+recID_1554	1	1	Israel was willing to withdraw its troops from the West Bank cities if the PA assumed strong control of the areas.
+recID_1556	1	1	The FARC said that they will lay down arms in Colombia in exchange for being able to participate in politics.
+recID_1560	1	1	The separatist group Black Widow has agreed to lay down its illegal weapons in Russia and shift to designated camps on September 15.
+recID_1565	1	1	The Revolutionary Armed Forces of Colombia said Thursday that they soon will release Pablo Emilio Moncayo.
+recID_1569	1	1	Britain and the United States on Wednesday signed an agreement on customs processes to keep trade flowing smoothly between the two countries when Britain fully leaves the orbit of the European Union at the end of the year.
+recID_1571	1	1	Mexico and the United Kingdom signed an agreement to continue trading after the UK leaves the EU.
+recID_1573	1	1	The UK Prime Minister Boris Johnson today signed an agreement with President Volodymyr Zelenskyy of Ukraine to strengthen the political and trade ties between the two countries.
+recID_1581	1	1	Vietnam is ready to contribute more to United Nations peacekeeping operations in Syria.
+recID_1582	1	1	Russia is ready to contribute to the normalization of the situation in Mali and the creation of conditions for lasting peace and stability there.
+recID_1590	1	1	Pakistan government announced it will return weapons and other equipment seized from Pakistani people.
+recID_1593	1	1	U.S. President Donald Trump had agreed to lift sanctions against the North and provide security guarantees in the summit with the North’s leader.
+recID_1594	1	1	Mexico and Canada agreed to lift retaliatory tariffs on American products.
+recID_1597	1	1	Russia has agreed to lift its long-running ban on US poultry over the use of chlorine for pathogen reduction.
+recID_1601	1	1	Protest leaders in Sudan have agreed to end the general strike that brought Khartoum to a standstill this week and are willing to resume power-sharing talks with the ruling military council, an Ethiopian mediator said on Tuesday.
+recID_1602	1	1	Armenia and Azerbaijan have agreed to a ceasefire in their conflict over the enclave of Nagorno Karabakh.
+recID_1608	1	1	Vladimir Putin have agreed to a ceasefire in eastern Ukraine.
+recID_1613	2	2	The U.S. Department of Justice has shared evidence with Mexico under a treaty between the two nations.
+recID_1615	2	2	U.S federal investigators shared evidence with India this week against David Headley, an American national previously accused of plotting to attack a Danish newspaper for publishing cartoons of the Prophet Mohammad.
+recID_1618	2	2	Germany opened its borders to reduce Syrian inequalities that were a result of their situation.
+recID_1623	3	3	The National Highway Traffic Safety Administration is dispatching a team to Detroit to investigate a collision involving a Tesla that collided with a semitrailer.
+recID_1624	3	3	The United States has sent top government officials to Qatar to investigate a recent Fox News report alleging Doha is funding Lebanese Hezbollah militia, according to Al Arabiya sources.
+recID_1630	3	3	The Federal Bureau of Investigation has opened fraud investigations of four of the largest American corporations at the center of the financial turmoil.
+recID_1632	3	3	German prosecutors have launched an investigation into the business dealings of luxury hospitality group Kempinski.
+recID_1638	3	3	Russia said on Friday it had expelled diplomats from Poland, Germany and Sweden over their alleged participation in a pro-Navalny demonstration.
+recID_1648	3	3	Last week, on August 6th, the Sudanese government expelled 20 humanitarian workers employed by the United Nations High Commission for Refugees (UNHCR).
+recID_1652	3	3	US President Trump announced a suspension of aid to Pakistan over its perceived willingness to take firm action against militants in the country.
+recID_1653	3	3	Denmark last week announced a suspension of aid to Egypt, pulling the plug on two projects worth about 30m Danish krone (€4m).
+recID_1657	3	3	The United Nations has temporarily suspended aid deliveries in Nigeria, the former stronghold of jihadists Boko Haram, after a humanitarian convoy was attacked, the UN children’s agency Unicef said on Thursday.
+recID_1659	3	3	UNRWA said it had suspended aid deliveries to Gaza after the Hamas-run Ministry of Social Affairs stole 10 truckloads of flour and rice delivered to Gaza on Thursday.
+recID_1667	3	3	Late on Saturday, Rabat announced a suspension of air links with 21 countries in Europe.
+recID_1669	3	3	United States suspended military aid to Indonesia due to human rights concerns during that country's conflicts in East Timor and Aceh.
+recID_1676	3	3	United States reduced military aid to Argentina by $17 million.
+recID_1677	3	3	Clinton Administration sharply reduced military aid to the Colombian army because of its poor record on human rights.
+recID_1684	3	3	China have reduced humanitarian aid to Tajikistan nearly five times.
+recID_1686	3	3	The European Commission has suspended humanitarian aid to Gaza because of suicidal fighting among Palestinian factions.
+recID_1701	3	3	The European Union has imposed sanctions today against Russia for its involvement in the 2015 German Parliament (Bundestag) hack.
+recID_1713	3	3	The European Parliament (EP) and European Union (EU) Council failed to reach agreement on an update to the novel foods regulation, which would have updated the 1997 regulation to address several issues, including nanoscale ingredients in food.
+recID_1716	3	3	The U.N. Conciliation Commission ended mediation efforts in the Arab-Israeli dispute after failure to find any settlement.
+recID_1721	3	3	Republicans in Congress refuses to lift sanctions on Iran, thus persuading the country to halt its cooperation.
+recID_1730	3	3	Spokesperson of the government Gokul Baskota has said that the government will not lift the ban on outlawed Netra Bikram Chand.
+recID_1731	3	3	France will not lift the ban on UK unconditionally.
+recID_1733	3	3	The British government has announced that it will not lift the ban on Sri Lanka's Tamil Tigers.
+recID_1743	3	3	Israel will not release prisoners and detainees who acted against the laws of war.
+recID_1748	3	3	Tajikistan says it will not accept refugees from Afghanistan even if they are fleeing the country to avoid a military attack.
+recID_1750	3	3	Bangladesh says it will not accept any Rohingya refugees fleeing a new spate of ethnic violence in neighbouring Myanmar's western Rakhine State.
+recID_1753	3	3	Ssangyong union workers said they will not end the strike until their demands for job security are met the company.
+recID_1757	3	3	Dhurata Ali said that despite their deteriorating health conditions, they will not end the strike.
+recID_1760	3	3	The UK Coalition Government's plans to impose restrictions on the right of workers from new EU counties to come and work in the UK.
+recID_1763	3	3	Burmese authorities announced they will extend curfew order in Maungtaw district for two months from December 25, prohibiting outdoor activity from 06:00 to 18:00 and banning assembly of five or more persons.
+recID_1766	4	4	Three thousand employees stopped work on Dec. 10, staging a sit-in strike in response to GE's decision of firing draftsmen who has organized an IWW union.
+recID_1772	4	4	The US has strengthened its forces in the Gulf, saying there was a danger of Iranian attacks.
+recID_1775	4	4	On Thursday, Israel mobilized the army for a potential ground assault against Palestina.
+recID_1779	4	4	Cleveland officials have imposed a curfew starting at noon that restricts access to the city's downtown until 8 a.m. Monday.
+recID_1790	4	4	Algeria authorities suspended publication of Algeria’s largest newspaper.
+recID_1797	4	4	Government of Guatemala declared a state of siege in Santa Cruz Barillas and mobilized police and military to the area for almost three weeks.
+recID_1806	4	4	Azerbaijani forces violated the ceasefire about 80 times this morning.
+recID_1811	4	4	Hussein was responsible for mass killings of Kurdish people in the late 1980s, using poison gas to kill them and ordering killings of male Kurds.
+recID_1817	3	3	Maduro’s vice president has violated a EU’s ban on entry into Spanish territory.
+recID_1818	3	3	A UN human rights expert has called for sanctions against Myanmar's military-run companies for serious violations.
+recID_1823	3	3	Activists had called on social media followers across Europe to join thousands at a rally in Berlin against Germany's coronavirus rules.
+recID_1830	3	3	Disha Ravi was arrested by Delhi Police for collaborating with a pro-Khalistani outfit to spread disaffection against India.
+recID_1831	3	3	Ranil Wickremesinge, the former Prime Minister of Sri Lanka, on Monday said the Sri Lankan government must ensure security and provide basic amenities to the people of the country.
+recID_1835	3	3	UN is pushing hard for the Afghan government propose a humanitarian ceasefire with the Taliban.
+recID_1839	3	3	United States President Donald Trump said on Thursday that the brutal oppression of the Venezuelan people must end soon.
+recID_1841	3	3	The new UNSC resolution reaffirms that all parties to the conflict in Yemen must uphold their responsibility to protect civilians from war crimes and crimes against humanity.
+recID_1851	1	1	The Bulgarian military has offered to U.S. an additional security for the airport and will make accommodations available to U.S. personnel at a military recreation center at the port.
+recID_1853	1	1	The US has offered logistical support to French operations in the country’s former colony.
+recID_1862	1	1	The church leader Saboi Jum launched a mediation effort between the Kachin Independence Organization (KIO) and the Ne Win military government.
+recID_1864	1	1	Turkey has improved diplomatic relations with Iran and gradually appreciates and supports Iran’s involvement in Syria’s peace process.
+recID_1868	1	1	Indonesia has established diplomatic ties with the South Pacific island nation of Nauru, in what the Indonesian government said is an effort to expand opportunities and strengthen links between the two countries.
+recID_1870	1	1	Guyana has established diplomatic relations with the Republic of San Marino, a move that further strengthen ties with the European nation.
+recID_1873	4	4	Authorities in the U.S. have deported a 95-year-old man Friday who acknowledged working as a guard in a Nazi concentration camp.
+recID_1875	4	4	Turkish authorities have deported more than 16,000 Syrians to Idlib this year, including more than 1,900 people in September.
+recID_1883	4	4	Iranian intelligence police tortured a 35-year-old inmate to death in western Iran yesterday.
+recID_1896	4	4	A Kansas woman has started a hunger strike, protesting the state’s unemployment system.
+recID_1899	3	3	Around 77,000 Nigerians have sought refuge in Niger’s Maradi region, some 7,660 since the start of the year as banditry and armed attacks spread.
+recID_1901	3	3	116 people arrived in Kyrgyzstan seeking a refuge in early 2017, the State Migration Service's report for 2016 reads.
+recID_1907	3	3	A Democratic State Representative has declined to resign under pressure from others in his party over his association with an alleged racist talk show host.
+recID_1909	3	3	Turkish President Recep Tayyip Erdogan has issued an ultimatum to Damascus warning of military action if the Syrian government does not withdraw its armed forces from Turkey's observation posts in Syria's Idlib province.
+recID_1913	3	3	The Ethiopian central government has issued an ultimatum to the Tigray People’s Liberation Front (T.P.L.F.), reports the B.B.C., giving the Front 72 hours to surrender or else face an assault on the regional capital of Mekelle.
+recID_1917	3	3	NSW Premier Gladys Berejiklian has issued an ultimatum to her Nationals colleagues after they threatened to sit on the cross bench because of a dispute over the state's koala protection policy.
+recID_1918	1	1	Philippine President Rodrigo Duterte has defended China's protocols for handling the pandemic, saying his government shared information with the rest of the world promptly.
+recID_1927	1	1	Foreign Minister Javad Zarif also strongly defended Iran's position, saying Washington needs to take the first step.
+recID_1930	1	1	Uribe defended Colombia´s actions saying the rebels are considered a terrorist group and thereby fair game under international law.
+recID_1931	1	1	Mexican President Andrés Manuel López Obrador on Thursday defended Mexico’s restrictive immigration policy.
+recID_1935	4	4	Israeli troops remained on alert in North District amid heightened tensions.
+recID_1936	4	4	Indian troops remained on alert at the Galwan Valley in the Ladakh region of the western Himalayas three days after the clash, in which India said 20 of its soldiers were killed and China had also suffered casualties.
+recID_1938	4	4	Several thousand French police and soldiers remained on alert in Paris, although the main Kanak separatist group said it would not disrupt voting today in the French election.
+recID_1941	4	4	Cambodian troops remained on alert in case of more fighting erupts in Thailand border.
+recID_1943	4	4	US launched cyber attacks on Iran after drone shootdown.
+recID_1950	4	4	Pakistan-based groups have launched cyber warfare against India.
+recID_1956	4	4	Islamic State forces hold several hundred families as human shields in the Iraqi city of Falluja.
+recID_1966	3	3	Germany on Tuesday summoned the Chinese ambassador in Berlin to complain about the move, saying sanctions against EU lawmakers, scientists, political institutions and non-governmental organizations represented an unreasonable escalation that will unnecessarily strain relations between the EU and China.
+recID_1970	3	3	Pakistan summoned France's ambassador Monday to complain about a systematic Islamophobic campaign in the European nation.
+recID_1973	3	3	The rebel Free Syrian Army on Wednesday threatened to shell positions of the powerful Hezbollah militant group in neighbouring Lebanon after accusing it of firing across the border into territory it controls.
+recID_1975	3	3	Bosnian Serb units threatened to shell British forces based in the central Bosnian city of Vitez if western forces launched any type of attack against Serbs anywhere.
+recID_1982	3	3	Trump threatened to attack 52 Iranian sites if Iran strikes any Americans, or American assets.
+recID_1989	1	1	Erdogan will meet European Council President Donald Tusk and European Commission President Jean-Claude Juncker in Bulgaria’s Varna at a summit on March 26.
+recID_1996	1	1	Secretary of State Rex Tillerson and Russian Foreign Minister Sergey Lavrov will attend the meeting between President Trump and President Vladimir Putin at the G20 summit, along with translators for each side.
+recID_2003	0	0	During a closed-door meeting, members of the Security Council expressed their deep concern about the risks to the humanitarian situation and called for Hodeida port to remain open, Russian Ambassador Vassily Nebenzia, who holds the council presidency, said.
+recID_2006	0	0	On that same day, the Security Council issued a joint statement with the African Union’s Peace and Security Council to call for a peaceful and democratic transfer of power following the December vote.
+recID_2008	2	2	France's president has announced the release of a French citizen held in hostage in Yemen for more than four months.
+recID_2010	3	3	The Civil Liberty Organization (CLO) has demanded the immediate trial or release of Sani Baban-Inna, the Aide-De-Camp of Aisha Buhari, wife of President Muhammadu Buhari.
+recID_2014	3	3	Afghan President Ashraf Ghani, rejected a meeting between the Taliban and a large gathering of prominent Afghan figures, including former President Hamid Karzai, in Moscow earlier this month.
+recID_2015	4	4	Turkish police on Monday launched operations to detain 110 more individuals, mostly soldiers, suspected of ties to the group blamed for the 2016 coup attempt, the Ankara public prosecutor’s office said.
+recID_2016	0	0	Afghanistan’s government is expressing new concerns about a deal that a U.S. envoy says has been reached “in principle” with the Taliban on ending America’s longest war.
+recID_2025	0	0	Hundreds of people have attended a commemoration ceremony honoring a Croatian general who died after apparently taking poison at a United Nations tribunal that confirmed his war crimes conviction.
+recID_2033	3	3	UN Secretary General Antonio Guterres has strongly condemned the terrorist attack on a church during a mass in Pakistan's restive southwestern city of Quetta which killed nine people and injured 44 others.
+recID_2035	2	2	Roberts says the U.S. military is training Iraqi pilots to fly F-16s at the request of Iraq's government.
+recID_2039	0	0	Gov. Gretchen Whitmer's office declined to comment, deferring to FEMA for details.
+recID_2040	0	0	The BCFL has said it is skeptical of the claim that there are no skilled miners to work underground in Canada.
+recID_2044	0	0	Ben Malor, a spokesman for the UN, said they hoped to resume flights soon but were waiting for the Pakistani military to investigate the incidents in the region of Leepa, southeast of Muzaffarabad, the capital of Pakistani Kashmir.
+recID_2045	0	0	US President Joe Biden said on Tuesday that he was confident that China would make an arrangement with the Taliban after Islamic rebels seized power in Afghanistan on August 15.
+recID_2046	0	0	President Obama declared he was confident the Supreme Court would uphold the legislation.
+recID_2047	0	0	United Nations officials said they hoped more countries would make commitments to reduce single use plastic at a U.N. ocean conference in New York in early June.
+recID_2059	0	0	UN appeals to South Sudan leaders to stop fighting in Western Equatoria region.
+recID_2061	0	0	Prime Minister Babiš attended ceremony to celebrate the foundation of Czechoslovakia in Martin and Ruzomberok.
+recID_2062	0	0	Prime Minister attended ceremony in Pazin marking 70th anniversary of victory over fascism.
+recID_2064	2	2	Germany, Italy and the US are participating in the AsterX space war game at France's national space agency CNES in Toulouse, the first such exercise in France or in Europe.
+recID_2066	2	2	Germany is a long-standing partner of WFP’s assistance in South Sudan and has contributed close to US$141 million since independence in 2011.
+recID_2071	2	2	A Dutch court on Thursday approved the extradition of a suspected Islamist militant wanted on suspicion of plotting attacks in France, two months after his arrest in Rotterdam.
+recID_2072	2	2	Refugees in Germany have received food, clothing, hygiene items and children’s toys, thanks to Islamic Relief and our big hearted supporters.
+recID_2074	2	2	Troops of the U.S. southern command stationed along the Panama canal wednedsay and carried out an emergency evacuation exercise in a school.
+recID_2077	2	2	In Iraq, U.S. troops are involved in a variety of stability tasks, including nation-building activities that have been undertaken in some peacekeeping operations.
+recID_2078	2	2	Approximately 2,000 Russian soldiers were deployed as peacekeeping forces along the Lachin corridor between Armenia and Nagorno-Karabakh for a mandate of at least five years.
+recID_2088	2	2	Broome County Executive Jason Garnar today lifted the State of Emergency declared March 27, 2019, due to a significant spike in fentanyl-related overdose deaths.
+recID_2094	2	2	The UAE has repealed the Israel Boycott Law and introduce measures to formally remove trade and travel restrictions with Israel.
+recID_2095	2	2	Obama lifts US embargo on lethal arms sales to Vietnam.
+recID_2102	0	0	Taliban claimed that they had attacked the school to avenge the killing their relatives by the Army.
+recID_2104	0	0	Ministry of Employment and Labour is exploring the possibility of having uniform conditions for each sector: plantations, manufacturing, agriculture and services.
+recID_2116	1	1	The Ethiopian government has agreed to allow UN humanitarian aid workers expanded access to the Tigray region.
+recID_2121	1	1	George Papandreou agreed to resign after an attempt last week to submit the bailout plan to a public referendum created a firestorm in global financial markets.
+recID_2123	1	1	Egypt had agreed to open its borders to allow Iran send humanitarian aid to the Gaza Strip.
+recID_2126	1	1	Nearly 70 countries have agreed to share information from their banks as part of a U.S. law that targets Americans hiding assets overseas.
+recID_2127	1	1	Russia is willing to withdraw its troops from East Germany and Poland as long as Western Allied troops in turn withdraw to 500 miles west of the Elbe, that is behind the Rhine.
+recID_2128	1	1	US was willing to withdraw its troops as soon as a UN international force had been sent to Lebanon.
+recID_2133	1	1	U.S. authorities announced they will return weapons-usable HEU from foreign research reactors to Russia.
+recID_2134	1	1	The Jani Khel tribe agreed to call off their protest in Pakistan against the killing of four young men, who they allege were tortured and killed by Pakistani security forces.
+recID_2141	3	3	Belgian prosecutors have launched an investigation into whether Swiss bank Credit Suisse helped some 2,650 Belgians hide their accounts from tax authorities.
+recID_2142	3	3	The UN has partially suspended aid to parts of Yemen controlled by Houthi rebels, accusing them of misappropriating supplies.
+recID_2144	3	3	U.S. President Donald Trump in 2019 failed to reach agreement on North Korea's denuclearisation, in which Moon had offered to play a mediating role.
+recID_2149	3	3	Europe has made it clear it will not lift the embargo until China signs up fully to the UN's International Covenant on Civil and Political Rights.
+recID_2151	3	3	The Philippines says it will not accept refugees sent by Australia unless they are only there temporarily.
+recID_2156	4	4	Both Britain and France imposed blockades to limit American merchants, though the dominant British navy was clearly more successful.
+recID_2157	4	4	Pakistan on Thursday violated ceasefire across the Line of Control in Rajouri’s Nowshera sector in Jammu and Kashmir, a Defence Public Relations Officer said.
+recID_2158	4	4	Armenian-backed militias violated ceasefire in occupied Karabakh 115 times in last 24 hours.
+recID_2160	3	3	Israel has violated a ban on the transfer of civilian populations into territory the government occupies.
+recID_2161	4	4	A group of asylum-seekers has gone on hunger strike in protest at catering conditions at a refugee centre in Kerry.
+recID_2164	4	4	UN troops remained on alert today against further violence following the church attack, which the government blamed on remnants of Seleka, a rebel force that briefly seized power in 2013.
+recID_2623	3	3	The Southwark Crown Court convicted Amazon of four counts of causing dangerous goods to be delivered for carriage in an aircraft, which was a breach of air safety regulations.
+recID_2628	4	4	A Peruvian judge ordered the arrest of former President Pedro Pablo Kuczynski on Wednesday while also authorizing a search of his properties as part of a probe into a bribery scheme linked to scandal-plagued Brazilian builder Odebrecht.
+recID_2634	4	4	Venezuela’s largest opposition parties on Wednesday said they would boycott the April 22 presidential elections, casting further doubt on the legitimacy of the vote in which leftist leader Nicolás Maduro is seeking a second, six-year term.
+recID_2635	4	4	Senate Democrats boycotted the vote to advance Judge Amy Coney Barrett’s nomination for a lifetime seat on the Supreme Court to the full Senate on Thursday, saying they will not give the process “further legitimacy” less than two weeks out from a presidential election that is already underway.
+recID_2644	2	2	Rwanda's parliament has just approved a plan for Russia's state-owned Rosatom nuclear conglomerate to build it a nuclear research center and reactor in the capital, Kigali.
+recID_2648	0	0	Speaking at the Heritage Foundation, the ambassador to the UN called for reforms in the Human Rights Council before the US could rejoin it.
+recID_2652	0	0	Armin Laschet called for Germany to share a greater burden with France in Mali.
+recID_2657	0	0	Native American tribes have called for President Joe Biden to restore protections to Utah’s Bears Ears National Monument after Trump cut its boundaries by 85 per cent.
+recID_2662	3	3	A group of British lawmakers has called for sanctions against Chinese officials responsible for human rights violations against the Uighur minority and for trade restrictions on goods made with forced Uighur labor.

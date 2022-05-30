@@ -1,0 +1,390 @@
+recID_688	0	0	El vicepresidente Kgalema Motlanthe ha dicho que estaba angustiado por la posibilidad de postularse contra el presidente Jacob Zuma por el liderazgo del ANC en Mangaung.
+recID_692	0	0	El primer ministro Nuri Kamal al-Maliki pidió en secreto a la administración Obama que considerara la posibilidad de realizar ataques aéreos contra áreas de concentración extremistas, según funcionarios iraquíes y estadounidenses.
+recID_694	4	4	Nepal ha reforzado las fronteras e impuesto bloqueos en las zonas más dañadas, incluida la capital, pero puede que no sea suficiente para contener el virus, ya que se extiende a toda la capital e incluso al campo base del Everest.
+recID_695	4	4	Entre diciembre y febrero, el gobierno sudanés impuso bloqueos en algunas partes del oeste de Darfur que impidieron que las agencias humanitarias brindaran asistencia para salvar vidas a quienes la necesitaban.
+recID_697	1	1	Pakistán está dispuesto a retirar sus tropas del territorio disputado de Cachemira.
+recID_703	1	1	El presidente Reagan, en una reunión en marzo pasado en Washington con el primer ministro canadiense Brian Mulroney, acordó un programa de cinco años y $ 5 mil millones destinado a desarrollar tecnología para eliminar el dióxido de azufre.
+recID_717	4	4	La represión comenzó después de que Hun Sen derrocara a su socio de coalición, el príncipe Norodom Ranariddh, y derrotó a sus soldados realistas en dos días de combates el 5 y 6 de julio.
+recID_722	3	3	Ayer se ordenó a dos periódicos conservadores que suspendieran la publicación.
+recID_724	3	3	Jurisdicción para la Paz ordenó una investigación contra funcionarios de la DEA por presuntas faltas de conducta y violaciones de derechos humanos.
+recID_729	3	3	La presidenta Gloria Arroyo ordenó una investigación contra el secretario de Educación, Raúl Roco, en medio de acusaciones de politiquería temprana antes de las elecciones presidenciales de 2004.
+recID_732	3	3	La Fiscalía del Distrito Central de Seúl ordenó a un ex miembro del personal presidencial de Roh que comparezca para ser interrogado.
+recID_734	3	3	El Buró de la Policía Metropolitana ordenó a Abhisit y al ex viceprimer ministro Suthep Thaungsuban comparecer para ser interrogados el viernes.
+recID_738	3	3	El líder palestino Yasir Arafat fue criticado por funcionarios de la administración Bush por dañar los esfuerzos diplomáticos estadounidenses y ralentizar el proceso de reforma palestina.
+recID_741	3	3	El presidente Vladimir V. Putin dijo que Edward J. Snowden no recibiría asilo político en Rusia a menos que dejara de publicar documentos clasificados que dañen los intereses de Estados Unidos.
+recID_742	2	2	TEHERÁN - En vísperas de la visita del presidente moderado de Irán, Hassan Rouhani, a Estados Unidos, las autoridades iraníes liberaron el miércoles inesperadamente a 11 de los presos políticos más destacados de Irán, incluida Nasrin Sotoudeh, abogada de derechos humanos.
+recID_747	1	1	Los primeros ministros John Major de Gran Bretaña y John Bruton de Irlanda acordaron el enfoque de doble vía que exige el desmantelamiento de las armas paramilitares mientras se mantienen conversaciones de paz.
+recID_749	3	3	El líder de la oposición de Zimbabue, Morgan Tsvangirai, dijo el domingo que su partido no cooperaría con el gobierno del presidente Robert Mugabe, al que describió como una junta militar.
+recID_765	3	3	El gobierno se negó a permitir el atraque del Aalan Kurdi.
+recID_771	3	3	Una semana antes, Dehghan se había negado a responder a una solicitud de 20 parlamentarios para detallar la relación militar con Rusia.
+recID_773	3	3	El presidente de El Salvador, Nayib Bukele, se negó a reunirse con un diplomático estadounidense de alto rango esta semana por lo que él ve como un patrón de desaires de los demócratas y la administración Biden, según dos asesores del líder centroamericano.
+recID_774	3	3	El presidente Herrera se negó a reunirse con el enviado estadounidense cuando llegó, pero su voluntad de permitirle ingresar al país provocó su ruina.
+recID_776	3	3	La oficina del primer ministro de Japón se negó a reunirse con el presidente del organismo científico en 2018 sobre el nombramiento de un candidato.
+recID_779	3	3	Pakistán rechazó una solicitud del primer ministro indio, Narendra Modi, de cruzar su espacio aéreo en un vuelo a Alemania, dijo el miércoles el ministro de Relaciones Exteriores de Pakistán, ya que las tensiones entre las dos naciones aumentaban en la disputada región de Cachemira.
+recID_780	3	3	El martes, el presidente de Islandia rechazó una solicitud del primer ministro para disolver el parlamento y convocar una nueva elección en medio de una disputa sobre los asuntos fiscales extraterritoriales del primer ministro.
+recID_781	3	3	El viernes, el presidente de Rumania rechazó una solicitud del ministro de Justicia para destituir al fiscal principal del condado, quien se ha enfrentado con el gobierno por su compromiso de luchar contra la corrupción.
+recID_783	4	4	El secretario de Defensa de Estados Unidos, Donald Rumsfeld, dijo el domingo por la noche que el ex presidente iraquí capturado, Saddam Hussein, hasta ahora se ha negado a dar al ejército estadounidense información de inteligencia.
+recID_785	3	3	El jefe de Hezbollah, el jeque Hassan Nasrallah, rechazó directamente el miércoles un llamado del presidente de Estados Unidos, George W. Bush, para que su movimiento musulmán chiíta se desarme.
+recID_786	0	0	El ex presidente de Estados Unidos, Bill Clinton, expresó su tristeza el lunes por la muerte del monarca saudí, el rey Fahd, y lo describió como un gobernante visionario y un importante aliado de Estados Unidos.
+recID_788	3	3	El primer ministro turco, Recep Tayyip Erdogan, ha rechazado el llamamiento del líder kurdo encarcelado Abdullah Ocalan a un alto el fuego rebelde y ha pedido a los separatistas kurdos que depongan las armas.
+recID_808	2	2	El gobierno nepalí liberó al ex primer ministro Sher Bahadur Deuba y al ex ministro de Planificación Física y Obras Prakash Man Singh de la cárcel a la medianoche del lunes.
+recID_810	0	0	El primer ministro Manmohan Singh expresó su preocupación por el desastre y pidió al ministro de Petróleo, Mani Shankar Aiyar, y al ministro de Comunicaciones, Dayanidhi Maran, que visiten las áreas afectadas para supervisar el trabajo de rescate y socorro, dijo el portavoz del primer ministro.
+recID_811	0	0	El líder palestino Yasser Arafat rechazó el miércoles las declaraciones del primer ministro israelí Ariel Sharon sobre el plan de hoja de ruta para la paz en el Medio Oriente.
+recID_812	3	3	El presidente de Zimbabue, Robert Mugabe, advirtió al alto comisionado británico Brian Donnelly que su gobierno lo expulsaría si continuaba interfiriendo en los asuntos internos del país ayudando al opositor Movimiento por el Cambio Democrático (MDC) a organizar manifestaciones ilegales y violentas.
+recID_821	1	1	El primer ministro británico, John Major, y el primer ministro irlandés, John Bruton, acordaron el documento marco diseñado para construir un alto el fuego de seis meses y crear un arreglo duradero de 25 años de conflicto.
+recID_824	4	4	Después de protestas masivas contra el gobierno divisivo de Morsi, el ejército dirigido por Abdel Fattah al-Sisi lo derrocó en julio de 2013.
+recID_825	2	2	El discurso sobre el presupuesto y los documentos relevantes se han proporcionado a los miembros de la oposición, incluido el líder de la oposición Shahbaz Sharif, Shahid Khaqan Abbasi, Ahsan Iqbal y Marryyam Aurangzeb, quienes se encuentran aislados desde que también se les dio positivo por coronavirus.
+recID_828	2	2	Los dos altos funcionarios de Carolina del Norte, Farooq Abdullah y su hijo Omar Abdullah, fueron liberados de la detención por separado a principios de este año después de que el gobierno revocara el PSA en su contra.
+recID_836	1	1	Según el sitio web oficial de Rouhani, el presidente iraní llamó a su contraparte libanés, Michel Aoun, el martes para asegurarle que el líder iraní cree firmemente que los libanés puedan superar esta sedición y no dejarán que su país se convierta en un campo de batalla para poderes extranjeros.
+recID_838	4	4	Abu Sayyaf Gunmen mató a seis soldados del ejército filipino e hirió a otros cuatro en una emboscada en la ciudad de Sumisip, Basilan.
+recID_839	0	0	La portavoz del Departamento de Estado de los Estados Unidos, Heather Nauert, dijo que la Embajada de los Estados Unidos en Atenas había transmitido preocupaciones significativas sobre el permiso al gobierno griego.
+recID_840	1	1	Con la aprobación por la reunión del Gabinete, el gobierno de Tanzania acordó formalmente y aceptó la propuesta integral presentada por el Puerto de los Comerciantes de China y el Fondo Soberano Omán el 31 de marzo, este año, dijo el embajador.
+recID_851	1	1	La UE intensificará sus esfuerzos de paz y mantendrá conversaciones con el presidente palestino, Mahmoud Abbas, el próximo mes.
+recID_858	4	4	El ejército de Israel ha llevado a cabo varios ataques contra el ejército sirio y su aliado, el movimiento chiíta libanés Hezbollah desde el inicio del conflicto en Siria.
+recID_859	1	1	El primer ministro indio ofrecerá una cena privada para Netanyahu el 14 de enero después de su llegada a Nueva Delhi.
+recID_862	4	4	El Estado Islámico atacó un campamento del ejército en el oeste de Kabul, el séptimo ataque importante en el país este mes.
+recID_863	1	1	Erdogan se reunirá con su homólogo, el presidente italiano, Sergio Mattarella, en un almuerzo de trabajo en Roma.
+recID_865	4	4	Las tropas de las FDI detuvieron el domingo a un libanés que firmaba signos de inestabilidad mental después de haber cruzado la frontera norte hacia Israel.
+recID_871	1	1	En las celebraciones del centenario, el jefe de estado polaco también se reunirá con el presidente alemán.
+recID_872	3	3	Sin embargo, el Reino Unido y Francia se han opuesto a las resoluciones de las Naciones Unidas sobre armas de uranio empobrecido.
+recID_875	3	3	El gobierno palestino, por lo tanto, rechaza y condena la decisión de la administración estadounidense y la califica como una clara violación de las resoluciones de legitimidad internacional y de todas las leyes humanitarias e internacionales, dijo Al-Mahmoud.
+recID_876	4	4	Las fuerzas del gobierno sirio han matado a más de 500 civiles durante una semana de intenso bombardeo de un enclave rebelde cerca de Damasco, dicen los activistas.
+recID_883	0	0	La Agencia de la ONU para las Migraciones ha lanzado un llamamiento por USD 88,550,000 para ayudar a las personas que necesitan asistencia humanitaria en Etiopía.
+recID_888	1	1	Tanto Rusia como el gobierno sirio han acogido con satisfacción la visita de la OPAQ.
+recID_890	4	4	La fuerza aérea iraquí llevó a cabo al menos tres ataques aéreos en el oeste de Mosul, matando a varias decenas de combatientes del Estado Islámico, según declaraciones militares iraquíes el martes.
+recID_895	3	3	El gobierno filipino ha rechazado el llamado del Parlamento Europeo y le ha dicho a la comunidad internacional que se abstenga de influir en el caso de De Lima.
+recID_896	1	1	El 29 de abril, el canciller Sergey Lavrov sostuvo conversaciones con el ministro de Relaciones Exteriores y Expatriados del Reino Hachemita de Jordania, Ayman Al Safadi, quien se encuentra actualmente en Moscú en una breve visita de trabajo.
+recID_897	4	4	Un ataque suicida contra un convoy perteneciente a la misión de la OTAN en Afganistán mató al menos a ocho personas en Kabul, dijeron las autoridades.
+recID_905	3	3	El Consejo de Seguridad Nacional (NSC) ha rechazado la demanda de Jamiat-i-Islami Afganistán (JIA) de despedir al Asesor de Seguridad Nacional Mohammad Hanif Atmar por motivos políticos.
+recID_910	3	3	El gobierno sudafricano ha advertido a las Fuerzas de Defensa de Lesotho (LDF) que no toleraría un golpe militar en Lesotho.
+recID_911	4	4	Los talibanes irrumpieron el domingo en una sede de la policía en el este de Afganistán después de atacarla con dos coches bomba suicidas, matando a varios agentes de policía, dijeron las autoridades.
+recID_914	3	3	La Comisión Europea acusó a la legislación de atacar a la sociedad civil en Hungría.
+recID_917	4	4	AQAP ha llevado a cabo numerosos ataques, principalmente contra objetivos militares y de seguridad en las gobernaciones del sur y este de Yemen, matando a decenas de personas.
+recID_920	3	3	El ministro de Relaciones Exteriores de Irán, Mohammad Javad Zarif, condenó una decisión de la Corte Suprema de Estados Unidos de restablecer parcialmente la prohibición temporal del presidente Donald Trump a los viajeros de seis países predominantemente musulmanes.
+recID_921	4	4	Un helicóptero de la policía venezolana atacó el martes el edificio de la Corte Suprema del país y un ministerio del gobierno en Caracas, en lo que el asediado presidente Nicolás Maduro describió como un ataque terrorista de personas que buscan un golpe.
+recID_927	2	2	Israeli President Reuven Rivlin has eased parole restrictions on ex-prime minister Ehud Olmert, released from prison after serving two-thirds of a 27 -month sentence for corruption.
+recID_934	0	0	La misión del Deutsche Bank expresó el optimismo del banco sobre las reformas económicas emprendidas por el gobierno egipcio.
+recID_936	0	0	Tras esta noticia, Human Rights Watch en Nueva York emitió un comunicado en el que pedía al gobierno del primer ministro canadiense Justin Trudeau que "acelerara" la proyección de los siete.
+recID_939	1	1	El presidente de Estados Unidos, Donald Trump, se reunirá con el primer ministro libanés, Saad Hariri, en Washington la próxima semana para conversar sobre temas como los refugiados y la lucha contra el terrorismo, anunció el viernes la Casa Blanca.
+recID_947	4	4	Al menos dos personas murieron cuando ISIL lanzó un ataque contra la embajada iraquí en Kabul el lunes, y un atacante suicida se hizo explotar fuera de las puertas seguido de tres hombres armados que asaltaron el edificio.
+recID_949	3	3	El gobierno de Myanmar rechazó los hallazgos de la ONU y denegó el permiso para que un equipo de investigación de la ONU ingresara al país.
+recID_951	0	0	Los principales diplomáticos de los estados miembros de la Asociación de Naciones del Sudeste Asiático (Asean) emitieron un comunicado instando a Corea del Norte a cumplir con sus obligaciones en virtud de las resoluciones del consejo de seguridad de las Naciones Unidas.
+recID_956	3	3	Nueva York (CNN) El presidente francés, Emmanuel Macron, rechazó firmemente cualquier solución militar a la crisis de Corea del Norte y advirtió contra la anulación del acuerdo nuclear con Irán, en una entrevista exclusiva el martes con CNN.
+recID_959	1	1	Theresa May mantendrá conversaciones con el presidente del Consejo Europeo, Donald Tusk, mientras intenta lograr un gran avance en el proceso del Brexit.
+recID_960	1	1	El gobernante de Dubai elogió los esfuerzos de los Emiratos Árabes Unidos para mejorar las relaciones entre los dos países.
+recID_962	1	1	El presidente ruso, Vladimir Putin, se reunirá con Recep Tayyip Erdogan, en Ankara, el 28 de septiembre para conversar sobre Siria e Irak.
+recID_967	4	4	Los combatientes talibanes tomaron una casa en el lado este de la ciudad y dispararon ráfagas de cohetes contra el aeropuerto internacional Hamid Karzai alrededor del mediodía, lo que provocó la suspensión de los vuelos.
+recID_973	4	4	Armenian police detained dozens of demonstrators in Yerevan on April 18 as protests continued over the election of former President Serzh Sarkisian as prime minister.
+recID_976	3	3	Desde 2013, Erdogan ha acusado a Gulen de intentar derrocar al gobierno turco creando un estado paralelo dentro del servicio civil y el ejército.
+recID_977	2	2	El Ministerio de Salud de China envió un equipo de expertos médicos, equipos y medicamentos al hospital, donde se dice que dos chinos se encuentran en estado crítico.
+recID_978	0	0	Zabihullah Mujahid, el portavoz de los talibanes, se atribuyó la responsabilidad tanto de los ataques de Farah como de Ghazni en mensajes a los medios de comunicación.
+recID_981	4	4	El ejército sirio intensificó el jueves su bombardeo de un vecindario palestino sitiado y áreas cercanas controladas por los rebeldes en el sur de Damasco, la última área cerca de la capital fuera del control del gobierno.
+recID_988	4	4	El ejército yemení y los combatientes aliados atacaron posiciones militares en la región de Asir de Arabia Saudita con un misil balístico y las destruyeron.
+recID_994	4	4	El grupo terrorista Estado Islámico ha llevado a cabo varios ataques contra objetivos civiles y militares en Kirkuk en los últimos meses.
+recID_997	3	3	Horas antes, Maduro expulsó al diplomático estadounidense por la negativa de Estados Unidos a reconocer su reelección.
+recID_998	1	1	El 29 de mayo, el régimen sirio dijo que reconocería la independencia unilateral de Osetia del Sur de Georgia.
+recID_1000	2	2	La Cruz Roja ha brindado asistencia financiera a aproximadamente 550 hogares utilizando fondos donados al llamamiento por inundaciones de New Brunswick de la organización, dijo.
+recID_1001	2	2	El presidente afgano, Ashraf Ghani, anunció el jueves un alto el fuego de una semana con los talibanes para coincidir con el feriado que marca el final del Ramadán la próxima semana.
+recID_1006	2	2	La Unión Europea ha desplegado observadores electorales en Zimbabwe por primera vez en 16 años mientras el país se prepara para su primera votación desde la independencia sin el líder Robert Mugabe.
+recID_1008	4	4	Hombres armados no identificados decapitaron a tres hombres en la provincia de Nangarhar, en el este de Afganistán, en la noche del sábado, en un ataque que los funcionarios atribuyeron a los militantes del Estado Islámico.
+recID_1011	4	4	Los misiles del gobierno sirio han alcanzado un área controlada por los rebeldes cerca de la frontera con los Altos del Golán ocupados por Israel en la última fase de una ofensiva para poner fin a la presencia de los insurgentes en el sur de Siria.
+recID_1012	4	4	Boko Haram Los jihadistas invadieron una base militar en el noreste de Nigeria después de una fantástica ferocidad, fuentes militares y vigilantes dijeron el domingo, el segundo asalto a las fuerzas del país en dos días.
+recID_1013	1	1	El ex presidente de los Estados Unidos, Barack Obama, el domingo, celebró conversaciones separadas con el presidente Uhuru Kenyatta en Nairobi.
+recID_1016	1	1	El canciller alemán, Angela Merkel, el viernes, recibió la invitación al presidente de los Estados Unidos, la invitación de Donald Trump al presidente ruso Vladimir Putin se reunirá en Washington este otoño.
+recID_1028	3	3	Un Tribunal Federal Brasileño ha rechazado una solicitud del ex presidente del ex presidente Luiz Inacio Lula da Silva, estará presente en el primer debate de candidatos presidenciales para las elecciones de octubre.
+recID_1029	0	0	El Secretario de Defensa de los Estados Unidos ha expresado su preocupación por el impacto negativo en los aliados clave, como Corea del Sur, ya que la Administración de Trump busca implementar las tarifas de la Sección 232.
+recID_1030	3	3	El líder supremo de Irán el lunes rechazó la oferta de conversaciones incondicionales del presidente de Donald Trump para mejorar los lazos bilaterales y también acusó al gobierno iraní de la mala gestión económica frente a las sanciones reembolsadas de los EE. UU.
+recID_1031	4	4	Los combatientes talibanes anulan una base del ejército en el norte de Afganistán, los funcionarios dijeron el martes, matando al menos a 17 soldados con docenas temidos para capturar en un golpe de punzante a las fuerzas de seguridad que ya luchan por empujar a los insurgentes de Eastern Ghazni.
+recID_1033	4	4	Los talibanes atacaron una base de ejército afgano clave en la provincia de Baghlan, capturando la base y un punto de control de la policía, matando a docenas de fuerzas de seguridad.
+recID_1041	0	0	Durante la conferencia, el diputado uruguayo Rodrigo Goñi expresó su preocupación por la posición del gobierno uruguayo contra el del presidente venezolano Nicolás Maduro.
+recID_1045	1	1	El primer ministro Benjamin Netanyahu llamó al nuevo primer ministro australiano Scott Morrison el miércoles para felicitarlo por convertirse en el nuevo primer ministro de Australia, invitándolo a él y a su esposa a Jerusalén.
+recID_1046	4	4	ISIS realizó un ataque múltiple en el parlamento de Irán y el santuario del líder revolucionario Ruhollah Khomeini en junio de 2017 que mató a 17 personas.
+recID_1052	0	0	El embajador de Arabia Saudita en el Reino Unido expresó su preocupación el viernes sobre el destino de un periodista que desapareció en Estambul la semana pasada.
+recID_1053	4	4	El 14 de octubre, los talibanes atacaron una base del ejército en el oeste de Afganistán, matando a 17 soldados afganos.
+recID_1055	4	4	El ejército de los Estados Unidos ha llevado a cabo más de dos docenas de huelgas aéreas este año contra Al-Shabab, un grupo afiliado a Al-Qaeda que busca derrocar al gobierno somalí y convierta el país en un estado islamista estricto.
+recID_1057	2	2	Una corte española ha dado autorización preliminar para un ayudante del último presidente Hugo Chávez para ser extraditado a Venezuela.
+recID_1061	3	3	Un juez británico el miércoles rechazó la solicitud del gobierno turco de extraditar a un prominente crítico del presidente Recep Tayyip Erdogan.
+recID_1063	1	1	El príncipe heredero de Arabia Saudita Mohammed Bin Salman ha conocido al presidente de Mauritania Mohamed Ould Abdel Aziz en el Palacio Presidencial en Nouakchott donde se encuentran la reunión bilateral.
+recID_1071	2	2	El gobierno de Kenia ha levantado una prohibición que impide que la organización benéfica internacional Marie jomar brinde servicios de aborto, luego de las advertencias de que el fallo puso en peligro la vida de miles de mujeres.
+recID_1083	1	1	El primer ministro de Etiopía, el Dr. Abiy Ahmed, sostuvo las discusiones bilaterales con el presidente somalí Mohamed Abdullahi Mohamed Farmajo en su oficina hoy.
+recID_1086	3	3	Los talibanes han rechazado durante mucho tiempo cualquier conversación con el gobierno afgano, que se despide como un títere de Washington.
+recID_1087	0	0	Este mes, las Naciones Unidas lanzaron un llamamiento internacional por $ 234 millones en ayuda de emergencia para Zimbabwe, donde se espera que la sequía afecte a un tercio del cultivo del país y permita a 5.3 millones de personas que necesitan asistencia.
+recID_1088	0	0	Un mejor diplomático en los Emiratos Árabes Unidos está ofreciendo sus condolencias sobre un ataque a las mezquitas en Nueva Zelanda que mataron al menos a 40 personas.
+recID_1092	3	3	El Tribunal Supremo de Myanmar, el martes, rechazó el llamamiento final de dos periodistas de Reuters y confirmó sentencias de prisión de siete años por sus informes sobre la brutal la represión del ejército en los musulmanes de Rohingya.
+recID_1095	3	3	Los talibanes han rechazado las conversaciones oficiales con el gobierno del presidente Ashraf Ghani, creyendo que es ilegítimo.
+recID_1098	3	3	El jefe de policía de Sri Lanka ha rechazado una solicitud del presidente Maithripala Sirisena para renunciar a los siguientes bombardeos suicidas en iglesias y hoteles, dos fuentes en la oficina del presidente dijeron el sábado, profundizando la grieta en los mejores niveles de gobierno.
+recID_1104	3	3	El presidente de los Estados Unidos, Donald Trump, el martes, llamó al embajador de Gran Bretaña a los Estados Unidos, un tipo muy estúpido, ya que reaccionó nuevamente a los cables filtrados críticos de la administración de Trump.
+recID_1114	4	4	Las fuerzas de seguridad iraquíes abrieron fuego contra los manifestantes que desafiaron a un toque de queda en Bagdad e intercambiaron fuego con hombres armados en una ciudad del sur.
+recID_1118	2	2	El gobierno sirio dio la aprobación de las Naciones Unidas para entregar la ayuda la próxima semana a miles de civiles desesperados varados cerca de un Garrison de los Estados Unidos en el sudeste de Siria en la frontera iraquí-siria, dijeron los trabajadores de ayuda y los funcionarios del campamento.
+recID_1119	3	3	El presidente turco Recep Tayyip Erdogan, el miércoles culpó al gobierno sirio por un sospechoso ataque de armas químicas que mataron a docenas de personas, incluidos los niños, llamando al presidente Bashar al-Assad a asesino.
+recID_1124	3	3	Y Amnistía Internacional estableció un informe acusando al ejército nigeriano de no responder a las señales de advertencia ante el secuestro masivo.
+recID_1125	0	0	Saudita King Salman Bin Abdulaziz Al Saud ha enviado un mensaje de condolencia al presidente Dr. Ashraf Ghani después del asalto terrorista del miércoles en Kabul.
+recID_1129	2	2	El Consejo de Seguridad de las Naciones Unidas, el viernes aprobó por unanimidad el despliegue de un equipo de U.N. Advance para monitorear un alto el fuego en la región de Huesidah de Yemen después de días de arruinado que enfrentó a los Estados Unidos contra Ally Bretaña.
+recID_1135	4	4	El ejército iraquí dice que ha tomado grandes campos petroleros kurdos cerca de Kirkuk.
+recID_1141	1	1	El embajador de los Estados Unidos, Stuart Symington, pagó una visita de cortesía al presidente del Senado a principios de esta mañana en su oficina.
+recID_1144	3	3	Furious Theresa May le da a Putin una fecha límite de medianoche sobre un ataque de descarado en el ex espía con un agente de nervio militar hecho ruso en el suelo británico.
+recID_1149	3	3	AFP investigará cualquier informe de violaciones de derechos humanos cometidas por los militares en Mindanao.
+recID_1154	2	2	La Comisión Europea ha anunciado una asistencia humanitaria adicional de 60 millones de euros para ayudar a las personas en Somalia, Etiopía y Kenia, que se han enfrentado crítico.
+recID_1155	2	2	La ONG israelí Israel Ayuda de vuelo ha estado proporcionando ayuda humanitaria a los sirios durante años a través de una unidad encubierta completa de todos los oradores árabes nativos.
+recID_1156	3	3	Flavia Nardelli Piccoli, vicepresidenta de la Comisión de Cultura, Ciencia y Educación de la Cámara de Diputados Italiana, condenó ataques terroristas en Teherán.
+recID_1163	0	0	Kristina Baum, un portavoz de la Oficina de Política de Ciencia y Tecnología de la Casa Blanca, se negó a comentar si el gobierno estaba considerando cambiar su política de acceso abierto.
+recID_1165	0	0	La Oficina de Holcomb se negó a comentar sobre sus maniobras detrás de las escenas.
+recID_1166	0	0	El gobierno de Eritrea se negó a comentar sobre la disputa.
+recID_1168	0	0	La Casa Blanca y el Departamento de Estado de los EE. UU. se negaron a comentar cuando se le preguntó sobre el estado de las negociaciones.
+recID_1175	0	0	La Oficina de Responsabilidad del Gobierno (GAO) dijo que es escéptico, el programa cumpliría con la fecha límite de proyección actual.
+recID_1176	0	0	Sin embargo, el gobierno de Corea del Sur ha dicho que es escéptico de ese número de muertos dados los registros anteriores de las inundaciones.
+recID_1195	0	0	El Gobierno de Gales dijo que espera que la mayoría de los alumnos tengan la oportunidad de ir a la escuela al menos tres veces antes de las vacaciones de verano, pero esto depende de la escuela individual.
+recID_1202	0	0	El gobierno guatemalteco el lunes negó los cargos por parte de los clérigos centroamericanos que torturó y drogaron a un sacerdote jesuita para confesar su participación con guerrilleros izquierdistas.
+recID_1203	0	0	Dos líderes de la Alianza para el Cambio (AFC) han negado los cargos, por el Gobierno, que el partido político había actuado de manera imprudente e irresponsable en negarse a aprobar aspectos de los documentos financieros para disposiciones complementarias sobre estimaciones actuales y de capital.
+recID_1207	0	0	El Ministro de Finanzas también rechazó la acusación de vender la plata familiar, diciendo que la estrategia clara del Gobierno está en desvestirse por primera vez para gastar el dinero de los contribuyentes con prudencia.
+recID_1210	0	0	El presidente de EE. UU. Donald Trump rechazó la acusación del racismo después de referirse repetidamente al novedoso coronavirus como el virus chino.
+recID_1211	0	0	El gobierno ha rechazado fuerte la acusación de un TD Donegal que no está completamente comprometido con la actualización Dual Carraigeway A5.
+recID_1213	0	0	El gobierno de Trudeau ha acordado con el Senado que los canadienses que sufren únicamente de enfermedades mentales graves e irremediables deben tener derecho a recibir asistencia médica para morir.
+recID_1222	0	0	El primer ministro Isa Mustafa expresó sus condolencias al gobierno de Turquía después del ataque con consecuencias en las personas que ocurrieron hoy en la República de Turquía.
+recID_1225	0	0	El Gobierno de Hungría expresó sus condolencias más sinceras a los miembros de la familia de aquellos que perecieron en el ataque terrorista de Ankara, el Ministerio de Asuntos Exteriores y Comercio informó a la Agencia de Noticias Húngaras MTI el sábado.
+recID_1229	0	0	Los expertos en derechos humanos de la ONU instaron a la Gobierno de los Estados Unidos a reducir a la población en lugares de detención para evitar grandes brotes de COVID-19 y aliviar la presión de montaje sobre el personal y el sistema penitenciario en su conjunto.
+recID_1232	0	0	El presidente Bush instó a compañeros valiosos como Arabia Saudita para avanzar hacia la libertad.
+recID_1235	0	0	Irán insta a Francia a presionar a los EE. UU. Para levantar las sanciones en medio del brote COVID-19.
+recID_1236	0	0	El Ministro de Relaciones Exteriores de Irán ha dicho que espera que Japón y la Unión Europea persuadden a los Estados Unidos recién inaugurados.
+recID_1238	0	0	El presidente Donald Trump dijo que pidiera al Consejo de Seguridad de la ONU para restaurar todas las sanciones relacionadas con la Nucleación en Irán.
+recID_1239	2	2	La Comisión Europea está asignando € 95 millones en apoyo humanitario para abordar las necesidades más apremiantes de las personas en Yemen en medio de máquinas máximas de malnutrición infantil, una amenaza inminente de hambruna y lucha renovada.
+recID_1269	2	2	El Secretario de Estado, Mike Pompeo, ha autorizado la publicación de $ 1.2 mil millones en la asistencia militar de los Estados Unidos a Egipto, a pesar de las preocupaciones de derechos humanos que han sostenido la financiación previa.
+recID_1270	2	2	Desde 1978, Estados Unidos ha proporcionado a Egipto qué ahora totaliza más de $ 50 mil millones en militares y $ 30 mil millones en asistencia económica.
+recID_1276	2	2	Rusia ha suministrado el 94% del equipo militar Armenia, se ha obtenido en los últimos cinco años, según un informe publicado por el Instituto Internacional de Investigación de Paz de Estocolmo (SIPRI).
+recID_1278	2	2	Alemania y UNICEF entregan 30 vehículos para apoyar los servicios móviles de salud y nutrición para niños en las regiones de Afar y Somali.
+recID_1282	2	2	A partir del 20 de enero, USAID había contribuido con $ 90 millones a la U.N. Apelar, incluidos $ 22 millones en asistencia no alimentaria y $ 68 millones en asistencia alimentaria.
+recID_1288	2	2	En cooperación con socios internacionales, USAID proporcionó materiales básicos de refugio a 1,5 millones de personas en los cinco meses posteriores al terremoto en Haití.
+recID_1289	2	2	El gobierno alemán anunció el miércoles que ha destinado a 1,5 millones de euros ($ 2.2 millones) en ayuda de emergencia para ayudar a los haití a enfrentar la devasión causada por el terremoto del martes.
+recID_1291	2	2	Alemania está agregando un avión de evacuación médica especializado al grupo voluntario de recursos que los países de la UE han puesto a disposición para combatir la epidemia del ébola en África Occidental.
+recID_1294	2	2	Los Estados Unidos, India, Israel, Pakistán y otros gobiernos han enviado suministros de emergencia y personal, como médicos a Nepal.
+recID_1297	2	2	El ejército estadounidense envió a 200 tropas en Siria para servir como una fuerza de mantenimiento de la paz después de que retire la mayoría de sus soldados, dice la Casa Blanca.
+recID_1299	2	2	El equipo de capacitación del ejército de los Estados Unidos desarrolló el curso integral de siete semanas después de una invitación del gobierno nigeriano.
+recID_1305	2	2	Estado de Colorado aceptó refugiados sirios, dice Hickenlooper.
+recID_1310	2	2	El Vicepresidente anunció que el gobierno de los Estados Unidos proporcionó $ 340 millones para obtener ayuda en el norte de Irak, centrándose en ayudar a la plena inclusión, tolerancia y protección de los derechos de las minorías religiosas.
+recID_1319	2	2	El Consejo de Seguridad de la ONU al mismo tiempo levantó todas las sanciones contra Irán.
+recID_1321	2	2	El Departamento de Estado de los Estados Unidos ha decidido aliviar algunas de sus restricciones más estrictas sobre la asistencia humanitaria a Corea del Norte, levantando las restricciones de viaje a los trabajadores de las ayudas estadounidenses y aflojando su bloque en suministros humanitarios destinados al país.
+recID_1322	2	2	Japón decidió el jueves aliviar algunas sanciones en Corea del Norte a cambio de su reapertura de una sonda en el destino de los ciudadanos japoneses secuestrados por el estado recluido hace décadas.
+recID_1328	2	2	El presidente Salva Kiir ha levantado un estado de emergencia en las partes del norte de Sudán del Sur, la radio estatal informó el viernes, parte de los esfuerzos para ayudar a poner fin a los conflictos civiles.
+recID_1331	2	2	Los conductores de camiones de Brasil cancionaron una huelga de cuatro días, solo horas después de llegar a un acuerdo con el gobierno brasileño.
+recID_1342	2	2	Suharto renunció como presidente de Indonesia el 21 de mayo de 1998 después del colapso del apoyo a su presidencia de tres décadas.
+recID_1346	2	2	El Servicio de Pescado y Vida Silvestre de los Estados Unidos regresó a Brasil pasado el miércoles 21 de las ranas de las especies de Adelphobates Galactonotus.
+recID_1349	2	2	El ICE regresó 11 pinturas al óleo al Museo Municipal de Pirmasen en Alemania.
+recID_1360	2	2	Los Estados Unidos devolvieron seis artefactos iraquíes al gobierno de Irak después de la investigación por el hielo.
+recID_1362	2	2	DHS devolvió los artefactos culturales, que incluyen una columna corintia Krater y un panel de pared Pompeya Fresco, al gobierno de Italia.
+recID_1364	2	2	Los Estados Unidos devolvieron un retrato de una joven por el famoso artista belga Antoine (Anto) Carte a su propietario, 69 años después de que los nazis robados.
+recID_1370	2	2	Cientos de presos políticos han sido liberados por las fuerzas rebeldes en Trípoli en los últimos días.
+recID_1386	2	2	Los buques estadounidenses detenidos fueron liberados por los guardias revolucionarios iraníes.
+recID_1394	2	2	Las sanciones de la ONU contra Irán fueron levantadas el 16 de enero de 2016.
+recID_1397	2	2	Los músicos han levantado un boicot de siete meses de la universidad de las calles, un lugar de jazz en el lado este de la parte baja.
+recID_1402	2	2	Cientos de tropas británicas han llegado a Malí para unirse a la Misión de Mantenimiento de la Paz de las Naciones Unidas allí.
+recID_1405	2	2	Japón está enviando tropas a la fuerza de paz de las Naciones Unidas en Sudán del Sur.
+recID_1410	2	2	Los pacíficos de ECOWAS se están desplegando para aliviar el personal militar de Angolan.
+recID_1416	2	2	El gobierno de Sudán permitió alivio humanitario a las partes desgarradas por la guerra del país y renovó un pacto de alto el fuego con los principales grupos rebeldes en las conversaciones de paz en Sudán del Sur.
+recID_1417	2	2	El Frente Nacional de Liberación de Ogaden (ONLF) ha declarado un alto el fuego unilateral a partir de los domingos en Somalia.
+recID_1427	2	2	Veinte rebeldes del Ejército de Nueva Popular (NPA) se rindieron a la policía en Camarines Norte lunes por la tarde.
+recID_1429	2	2	Un líder rebelde dejó caer sus armas y se entregó el viernes en la República Democrática del Congo.
+recID_1434	2	2	Un líder talibán local y sus cinco asociados han renunciado a la lucha y se rindieron en la provincia del norte de Faryab de Afganistán, dijo el martes una fuente del ejército.
+recID_1440	3	3	El primer ministro de Etiopía, Abiy Ahmed, rechazó los pedidos de Estados Unidos para un alto el fuego unilateral en la región norteña de Tigray y desestimó las acusaciones de limpieza étnica, según un alto legislador estadounidense enviado a Addis Abeba por el presidente Joe Biden.
+recID_1444	3	3	Ucrania acusa a Rusia de enviar los tanques, entrenando y luchando junto a los separatistas.
+recID_1460	0	0	Putin, presidente de Rusia, está considerando enviar ayuda al gobierno iraquí.
+recID_1474	0	0	La embajada de Brasil rechazó las acusaciones de Maduro contra el Gobierno de la República Federativa de Brasil y su Presidente.
+recID_1480	0	0	El gobierno suizo ha rechazado fuertemente las acusaciones de muchos países europeos que un trato que permite a los funcionarios chinos ingresar a Suiza e interrogar a los ciudadanos chinos en riesgo.
+recID_1491	0	0	El senador estatal Daniel Squadron ha impulsado al gobernador de NY para reformas a la ley de reventa de boletos rotos del estado para priorizar a los fanáticos por encima de los intereses especiales desde su primera extensión en 2010.
+recID_1500	1	1	El Reino Unido y los Estados Unidos firmaron un acuerdo de intercambio de datos de puntos de referencia para dar agencias policiales en un país de acceso más rápido a la evidencia digital mantenida por los proveedores de servicios.
+recID_1502	1	1	El gobierno rumano acordó establecer un centro de tránsito de evacuación especial para los refugiados en Yemen.
+recID_1503	1	1	El Gobierno de la India acordó establecer el Centro Nacional de Excelencia para la Industria de Animación, Juegos, Efectos Visuales y Comics en Mumbai.
+recID_1505	1	1	El presidente Donald Trump acordó establecer dos hospitales de campo de 250 camas y un equipo de huelga de 60 personas de los trabajadores de la salud en Louisiana.
+recID_1507	1	1	El gobierno alemán acordó ofrecer otro paquete de gran ayuda al sector cultural como parte de su nuevo programa de inicio para la cultura.
+recID_1508	1	1	El gobierno catalán acordó hoy en día para establecer el nuevo Instituto de Investigación de José Carreras contra Leucemia en Barcelona.
+recID_1511	1	1	Adil Abdul Mahdi ha aceptado renunciar a la posición del primer ministro iraquí después de semanas de las protestas contra el gobierno que llevaron a cientos de víctimas.
+recID_1513	1	1	Papandreou acordó renunciar sin regresar al gobierno griego debido a la insistencia de los partidos de la oposición que él no participa en ningún gobierno de nueva coalición.
+recID_1514	1	1	Corea del Norte ha aceptado reabrir sus fronteras para los surcoreanos para inspeccionar su estado industrial en Kaesong.
+recID_1518	1	1	Tailandia acordó abrir sus fronteras y otorgar asilo a los refugiados de Kampuchea.
+recID_1522	1	1	El régimen de Assad dijo que permitiría el acceso de los trabajadores de la ONU para fines de ayuda humanitaria.
+recID_1525	1	1	El gobierno sudanés acordó permitir que el retorno de los trabajadores humanitarios de la ONU accedan a Darfur.
+recID_1528	1	1	Canadá y Costa Rica han acordado iniciar negociaciones para un acuerdo de libre comercio bilateral, los líderes de los dos países anunciaron el lunes.
+recID_1531	1	1	Los negociadores del Reino Unido y la UE han acordado un acuerdo de Libre Comercio de Lugares de Lugar, solo días antes de que Gran Bretaña salga para abandonar el mercado único cuando finaliza el período de transición Brexit el 31 de diciembre.
+recID_1534	1	1	El presidente de Estados Unidos acordó interrumpir el arancel sobre aproximadamente $ 162 mil millones en bienes chinos y para reducir un impuesto al 15% existente en las importaciones.
+recID_1536	1	1	El vicealmirante Johan Retief dijo que Sudáfrica le daría a Nigeria asistencia técnica en las reparaciones de los barcos y proporcionará piezas de repuesto para su flota naval.
+recID_1545	1	1	Estados Unidos está dispuesto a proporcionar municiones junto a la asistencia humanitaria a Turquía en la región de Idlib desgarrada por la guerra de Siria.
+recID_1546	1	1	Los Estados Unidos están dispuestos a proporcionar a Brasil con hasta $ 1.5 mil millones en garantías de préstamos adicionales y seguros para financiar las exportaciones de EE. UU. A la nación económicamente con problemas, dijo el miércoles un funcionario de la administración.
+recID_1547	1	1	Estados Unidos está dispuesto a proporcionar una tercera garantía de préstamo de $ 1 mil millones a Ucrania que dependería del progreso continuo de Ucrania en la corrupción y la reforma fiscal.
+recID_1548	1	1	Los Estados Unidos están dispuestos a proporcionar nuestra experiencia militar a las Naciones Unidas para ayudar a los U.N. Fortalecer su planificación y operaciones para el mantenimiento de la paz.
+recID_1553	1	1	Honduras está dispuesta a retirar sus tropas de una zona de cinco kilómetros a lo largo de la frontera.
+recID_1554	1	1	Israel estaba dispuesto a retirar sus tropas de las ciudades de Cisjordania si el PA asumía un fuerte control de las áreas.
+recID_1555	1	1	Las facciones palestinas han acordado establecer sus armas en el este del Líbano, pero vincularon su desarme a la disolución de las milicias libanesas.
+recID_1560	1	1	El grupo separatista Black Widow acordó establecer sus armas ilegales en Rusia y cambiar a los campamentos designados el 15 de septiembre.
+recID_1563	1	1	Los rebeldes de Ethipian dijeron el sábado, liberarán a un médico cubano y a la enfermera a los diplomáticos de los Estados Unidos cinco meses después de que los dos fueron capturados en la caída de una ciudad cerca de la frontera sudanesa.
+recID_1565	1	1	Las Fuerzas Armadas Revolucionarias de Colombia dijeron el jueves que pronto lanzarán Pablo Emilio Moncayo.
+recID_1569	1	1	Gran Bretaña y los Estados Unidos el miércoles firmaron un acuerdo sobre los procesos de aduanas para evitar que el comercio fluya suavemente entre los dos países cuando Gran Bretaña abandona completamente la órbita de la Unión Europea al final del año.
+recID_1578	1	1	Colombia está lista para aportar tropas a la fuerza de seguridad dirigida por la OTAN en Afganistán, dijo aquí el ministro de Defensa de la Nación Andina.
+recID_1589	1	1	Las autoridades brasileñas dijeron que su gobierno está comprometido con la apertura de la economía y con asegurar una firme disciplina monetaria y estabilidad macroeconómica.
+recID_1591	1	1	Los grupos de milicias iraquíes dijeron que el jueves regresarán las armas que tomaron del ejército iraquí.
+recID_1595	1	1	Bahrein, Kuwait y los Emiratos Árabes Unidos han acordado levantar una prohibición de las importaciones de productos agrícolas egipcios, ya que el país trabaja para intensificar las exportaciones para reducir su déficit presupuestario.
+recID_1599	1	1	Los líderes de la oposición somalí acordaron posponer una protesta en Mogadiscio por las demoras en las elecciones previstas originalmente para el viernes después de los enfrentamientos de la semana pasada.
+recID_1611	2	2	Las autoridades estadounidenses compartieron evidencia con sus contrapartes chinas con respecto a un sospechoso abusador sexual infantil.
+recID_1613	2	2	El Departamento de Justicia de los Estados Unidos ha compartido evidencia con México bajo un tratado entre las dos naciones.
+recID_1615	2	2	Los investigadores federales de U.S compartieron evidencia con la India esta semana contra David Headley, un nacional estadounidense previamente acusado de conspirar para atacar un periódico danés para publicar dibujos animados del profeta Mohammad.
+recID_1619	2	2	Croacia ha abierto sus fronteras a los refugios de Serbia.
+recID_1620	2	2	Turquía abrió muy generosamente sus fronteras a un gran número de sirios, iraquíes y afganos.
+recID_1621	2	2	El año pasado, Alemania abrió sus fronteras a aproximadamente un millón de refugiados musulmanes.
+recID_1622	3	3	Francia ha enviado a siete expertos militares a Arabia Saudita para investigar los ataques de este fin de semana en sus instalaciones petroleras, incluidos especialistas en explosivos, trayectorias de misiles y sistemas de defensa terrestre a aire, dijo el jueves una portavoz del ministerio de defensa.
+recID_1626	3	3	El gobierno de Obama ha enviado a los equipos de los agentes de la CIA a Libia en prisa por investigar las fuerzas rebeldes opuestas al líder de Libia Muammar Gaddafi, según los funcionarios de los Estados Unidos.
+recID_1629	3	3	Las autoridades alemanas abrieron investigaciones de fraude contra cientos de bancos sobre la participación en el llamado fraude comercial Cum-Ex entre 2001 y 2011.
+recID_1630	3	3	La Oficina Federal de Investigaciones ha abierto investigaciones de fraude de cuatro de las corporaciones estadounidenses más grandes del centro de la agitación financiera.
+recID_1632	3	3	Los fiscales alemanes han lanzado una investigación sobre las relaciones comerciales del grupo de hospitalidad de lujo Kempinski.
+recID_1635	3	3	Los reguladores chinos han lanzado una investigación sobre el grupo de Alibaba y se reunirá con su grupo de afiliados, ANT, en los próximos días.
+recID_1638	3	3	Rusia dijo el viernes que había expulsado a los diplomáticos de Polonia, Alemania y Suecia sobre su presunta participación en una demostración pro-Navalny.
+recID_1646	3	3	Qatar retiró al personal de mantenimiento de la paz de la frontera con Eritrea-Djibouti, y las fuerzas de Eritrea tomaban el control de la montaña Dumeira y Dumeira.
+recID_1651	3	3	USAID había anunciado una suspensión de ayuda en Yemen a entrar en vigencia el 27 de marzo.
+recID_1656	3	3	El presidente Trump ha suspendido la ayuda a El Salvador, Guatemala y Honduras para detectar la migración a los Estados Unidos.
+recID_1660	3	3	Las Naciones Unidas han suspendido las entregas de ayuda a 100,000 personas en partes de Bosnia serbio para presionar fuerzas serbias para permitir que los convoyes alimentarios alcancen a dos ciudades musulmanas que se cree que están en necesidad desesperada.
+recID_1666	3	3	PlTavchenko canceló una visita planificada a Montevideo después de la capital uruguaya, retiró su plan para honrarlo como ciudadano ilustre.
+recID_1667	3	3	A finales del sábado, Rabat anunció una suspensión de enlaces aéreos con 21 países de Europa.
+recID_1671	3	3	Los Estados Unidos el viernes suspendieron la ayuda militar a Malí después de que un grupo de oficiales militares rebeldes se apoderó del poder y colocó al presidente del país de África Occidental bajo arresto.
+recID_1678	3	3	Los Estados Unidos redujeron la ayuda militar a los aliados europeos por $ 30 millones.
+recID_1679	3	3	Washington suspendió la ayuda militar a Pakistán que podría sumergir más de $ 2 mil millones.
+recID_1682	3	3	Los Estados Unidos han suspendido suministros de alimentos a los Mujahidden Afghan porque existen dificultades para el monitoreo y la distribución de los alimentos.
+recID_1686	3	3	La Comisión Europea ha suspendido la ayuda humanitaria a Gaza debido a la lucha suicida entre las facciones palestinas.
+recID_1693	3	3	China ha impuesto sanciones en Mike Pompoo, Alex Azar y Steve Bannon, junto con más de 2 docenas de otros ex oficiales de Trump.
+recID_1702	3	3	El Consejo de Seguridad de las Naciones Unidas ha impuesto sanciones a la República Centroafricana (CAR) y la República Democrática del Congo (DRC) debido a la inseguridad generalizada y la falta de derecho y orden, así como los abusos contra los derechos humanos por parte de los grupos armados.
+recID_1704	3	3	Las Naciones Unidas impusieron varias sanciones en relación con Irak en 1990 en respuesta a su invasión de Kuwait.
+recID_1706	3	3	El Consejo de Seguridad de las Naciones Unidas impone sanciones a Yemen en respuesta a sus desafíos políticos, de seguridad, económicos y humanitarios en curso.
+recID_1719	3	3	Biden se niega a levantar las sanciones para obtener a Irán a la mesa de negociaciones.
+recID_1724	3	3	La Corte Suprema hoy se negó a elevar la prohibición impuesta al movimiento islámico de los estudiantes de la India (SIMI) desde 2001.
+recID_1730	3	3	El portavoz del gobierno Gokul Baskota ha dicho que el gobierno no levantará la prohibición de Outlaed Netra Bikram Chand.
+recID_1736	3	3	Gokul Baskota dijo que el Gobierno no eliminará las sanciones sobre el Partido Comunista de LED de Bikram Chand Ofreado de Nepal (CPN-maoísta-chand), informa República.
+recID_1748	3	3	Tayikistán dice que no aceptará a los refugiados de Afganistán, incluso si están huyendo del país para evitar un ataque militar.
+recID_1754	3	3	La Asociación Juvenil Doctors ha advertido que no terminará la huelga hasta que se cumplan sus demandas.
+recID_1756	3	3	El presidente de CMPajac dijo que no terminarán la huelga hasta que se corrijan sus permisos y los servicios de taxis basados ??en la aplicación están prohibidos de la ciudad.
+recID_1760	3	3	Los planes del gobierno de la coalición del Reino Unido para imponer restricciones al derecho de los trabajadores de los nuevos condados de la UE para venir y trabajar en el Reino Unido.
+recID_1761	3	3	El primer ministro Andrew Holness ha anunciado que el gobierno extenderá el toque de queda nocturno actual en Jamaica.
+recID_1767	4	4	Miles de trabajadores textiles en Haití han dejado de trabajar en fábricas y llevaron a las calles en una huelga a la demanda de mejores condiciones de trabajo en la industria de exportación de maquiladoras del país.
+recID_1768	4	4	Cerca de 1,100 empleados del contrato dejaron de trabajar en una huelga por un aumento de los salarios el martes en la mina de Grasberg en la provincia oriental de Papua.
+recID_1769	4	4	Los trabajadores de la mina Cerro Verde en Perú se fueron a la huelga para obtener mejores pagos y condiciones en FreePort-McMoran Inc.
+recID_1772	4	4	Estados Unidos ha fortalecido sus fuerzas en el Golfo, diciendo que había un peligro de ataques iraníes.
+recID_1777	4	4	El rey Abdulaziz movilizó a las tropas para una batalla contra los restos de la Hermandad, que aplastará al desobediente.
+recID_1781	4	4	Las autoridades han impuesto un toque de queda en la ciudad de Nueva York y aumentó la presencia policial después de que se informaron los incidentes de violencia y saqueos en toda la ciudad en medio de protestas generalizadas provocadas por el asesinato de asesinato de afroamericano George Floyd.
+recID_1782	4	4	Las autoridades en Pakistán han impuesto un toque de queda en partes de la provincia de North West Frontier, donde las fuerzas militares están luchando contra los militantes leales a un clérigo pro-talibán.
+recID_1784	4	4	La policía india ha impuesto un toque de queda en partes de la ciudad occidental de Ahmedabad después de enfrentamientos mortales entre las pandillas hindúes y musulmanas continuó en las primeras horas del sábado.
+recID_1790	4	4	Las autoridades de Argelia suspendieron la publicación del periódico más grande de Argelia.
+recID_1792	4	4	El gobierno guatemalteco declaró un estado de asedio del domingo en la provincia norte de Alta Verapaz después de que se ha invadido por un grupo mexicano de tráfico de drogas.
+recID_1797	4	4	Gobierno de Guatemala declaró un estado de asedio en Santa Cruz Barillas y movilizó a la policía y militar a la zona durante casi tres semanas.
+recID_1802	4	4	El gobierno sudanés impuso los bloqueos en algunas partes de Oeste de Darfur que impidió a las agencias humanitarias proporcionar asistencia salvavidas a los necesitados.
+recID_1809	4	4	Los miembros del Nuevo Ejército Popular violaron el alto el fuego festivo de Filipinas en el Valle de Compostela.
+recID_1810	4	4	Gran Bretaña fue responsable del asesinato de 24 civiles malayos desarmados que fueron asesinados por las tropas británicas durante una campaña contra los insurgentes comunistas, un tribunal de Londres dictaminó el martes, contradeciendo la posición oficial del gobierno.
+recID_1812	4	4	Kony y el LRA son responsables de los asesinatos masivos, violaciones y secuestros de niños en toda la República Centroafricana.
+recID_1813	4	4	Los Zetas Cartel ha sido responsable de asesinatos masivos y decapitaciones en el norte de México.
+recID_1815	3	3	Corea del Norte ha violado la prohibición de la ONU sobre la exportación e importación de misiles balísticos y artículos relacionados con la nuclear, así como los brazos convencionales y los bienes de lujo.
+recID_1816	3	3	Pyongyang ha violado una prohibición por las Naciones Unidas en las pruebas de misiles balísticos.
+recID_1817	3	3	El vicepresidente de Maduro ha violado la prohibición de la UE sobre la entrada al territorio español.
+recID_1818	3	3	Un experto en derechos humanos de las Naciones Unidas ha pedido sanciones contra las empresas militares de Myanmar para violaciones graves.
+recID_1823	3	3	Los activistas habían pedido a los seguidores de las redes sociales en toda Europa para unirse a miles en un mitin en Berlín contra las Reglas de Coronavirus de Alemania.
+recID_1825	3	3	Los grupos contra la guerra pidieron a los trabajadores de bajo salario y activistas de la comunidad para movilizarse contra los movimientos de guerra de EE. UU. En Ucrania.
+recID_1828	3	3	El Jornalist Moussa Tchangari fue arrestado el lunes en Níger para colaborar con los islamistas de Boko Haram a principios de esta semana.
+recID_1836	3	3	Estados Unidos está presionando el estado dura palestino para un acuerdo negociado con Israel antes.
+recID_1837	3	3	El presidente Donald Trump dijo el miércoles que Corea del Norte debe hacer algo significativo en la desnuclearización antes de que él apoye la elevación de las sanciones económicas.
+recID_1838	3	3	Los Estados Unidos han dicho que Corea del Norte debe desarmar primero antes de que pueda recibir ayuda.
+recID_1842	3	3	El ministro de Relaciones Exteriores, el Dr. Khalid, Mohamed Al Attiyah, dijo que todas las fuerzas políticas en Yemen deben proporcionar el apoyo necesario a las autoridades legítimas de Yemení, para lograr las aspiraciones de los yemeníes.
+recID_1851	1	1	El ejército búlgaro se ha ofrecido a los EE. UU. Una seguridad adicional para el aeropuerto y pondrá a disposición de los alojamientos disponibles para el personal de EE. UU. En un centro de recreación militar en el puerto.
+recID_1852	1	1	Italia ha ofrecido a Estados Unidos un regimiento blindado, helicópteros de ataque y aviones de combate, y se espera que ponga a disposición cuatro buques de guerra.
+recID_1855	1	1	En una reunión, los huelguistas aceptaron una fórmula para liquidar una disputa a destajo con la compañía Austin-Morris.
+recID_1858	1	1	La organización de la unidad africana lanzó un esfuerzo de mediación diseñado para ayudar al gobierno y a los secesionarios a alcanzar un acuerdo pacífico.
+recID_1860	1	1	Kuwait lanzó un esfuerzo de mediación entre la Alianza Nacional Demócrata y la Hadas.
+recID_1868	1	1	Indonesia ha establecido vínculos diplomáticos con la nación de la isla del Pacífico Sur de Nauru, en lo que dijo el gobierno indonesio, es un esfuerzo para ampliar las oportunidades y fortalecer los vínculos entre los dos países.
+recID_1869	1	1	Los EAU han establecido vínculos diplomáticos con Liberia, en una declaración conjunta que establece relaciones diplomáticas en el nivel más alto del 6 de mayo de 2009.
+recID_1871	4	4	Las autoridades jordanas han deportado al menos cuatro solicitantes de asilo de Yemeni registrados con el Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR) y han emitido órdenes de deportación contra otros que hicieron reclamos de asilo.
+recID_1875	4	4	Las autoridades turcas han deportado a más de 16,000 sirios a IDLIB este año, incluida más de 1,900 personas en septiembre.
+recID_1876	4	4	Las autoridades de inmigración de Austria han deportado a los niños, la mayoría de los cuales pasó la mayoría de sus vidas aquí, a Georgia y Armenia.
+recID_1877	4	4	Las autoridades guatemaltecas han deportado a 2,374 migrantes a Honduras que formaban parte de una caravana tratando de alcanzar a los Estados Unidos.
+recID_1879	4	4	Las autoridades estadounidenses han deportado a un empresario irlandés que vivió en Boston durante 17 años, enviando ondas de choque a través de la comunidad de expatriados del estado.
+recID_1885	4	4	El miembro del Partido del Gobierno de Myanmar muere en prisión en Rangún después de la tortura.
+recID_1888	4	4	El gobierno israelí prohibió la rama del norte del movimiento islámico y posteriormente cerrara 17 organizaciones y organizaciones benéficas afiliadas en varias ciudades de Israel.
+recID_1890	4	4	El presidente de El Salvador, prohibió el Partido Comunista y asumió el control directo sobre las universidades.
+recID_1893	4	4	Los agricultores indios comenzaron una huelga de hambre de un día el sábado en protesta contra las nuevas leyes agrícolas impuestas por el gobierno indio, después de una semana de enfrentamientos con las autoridades que dejaron a uno muerto y cientos de lesiones.
+recID_1896	4	4	Una mujer Kansas ha comenzado una huelga de hambre, protestando por el sistema de desempleo del estado.
+recID_1899	3	3	Alrededor de 77,000 nigerianos han buscado refugio en la región de Maradi de Níger, unos 7.660 desde el inicio del año a medida que se extienden los ataques bandidos y armados.
+recID_1902	3	3	A unos 30 mil sirios buscaban refugio en la UE en el primer trimestre de 2015.
+recID_1903	3	3	Cerca de 243000 refugiados sudanés del Sur han buscado refugio en Sudán, ya que una guerra civil estalló en su país en diciembre de 2013.
+recID_1908	3	3	Los talibanes han emitido un ultimátum a Washington después de semanas de conversaciones con un enviado de paz de los Estados Unidos.
+recID_1909	3	3	El presidente turco, Tayyip Erdogan, ha emitido un ultimátum a la advertencia de Damasco de la acción militar si el gobierno sirio no retira sus fuerzas armadas de las publicaciones de observación de Turquía en la provincia de Idlib de Siria.
+recID_1913	3	3	El gobierno central etíope ha emitido un ultimátum al frente de liberación de la gente de Tigray (T.P.L.F.), informa el B.B.C., dando las 72 horas delanteras para rendirse o, de lo contrario, enfrentar un asalto a la capital regional de Mekelle.
+recID_1916	3	3	Los Estados Unidos han emitido un ultimátum a Sudán para normalizar las relaciones diplomáticas con Israel dentro de las 24 horas, si el país africano quiere ser eliminado de la lista de patrocinadores terroristas, informó Asharq al-Awsat con sede en Londres.
+recID_1918	1	1	El presidente de Filipinas, Rodrigo DUTERTE, ha defendido los protocolos de China para manejar la pandemia, diciendo que su gobierno compartió información con el resto del mundo con prontitud.
+recID_1920	1	1	El Secretario de Estado de los Estados Unidos, Hillary Clinton, ha defendido la estrategia estadounidense en Afganistán, después de que el presidente afgano pidió que las operaciones militares de los EE. UU. Sean escalonadas.
+recID_1921	1	1	El presidente de los Estados Unidos, Donald Trump, ha defendido a Rusia durante las reclamaciones de interferencia en las elecciones presidenciales de 2016.
+recID_1923	1	1	El ministro de Defensa, Sergey Shoigu, ha defendido los recientes esfuerzos de Rusia para intensificar su presencia militar en el Ártico.
+recID_1930	1	1	Uribe defendió las acciones de Colombia que dicen que los rebeldes se consideran un grupo terrorista y, por lo tanto, el juego justo bajo el derecho internacional.
+recID_1935	4	4	Las tropas israelíes permanecieron en alerta en el distrito norte en medio de las intensas tensiones.
+recID_1941	4	4	Las tropas camboyanas permanecieron en alerta en caso de que más peleas erupciones en la frontera de Tailandia.
+recID_1943	4	4	Estados Unidos lanzó ataques cibernéticos en Irán después de la sesión de Drone.
+recID_1945	4	4	Los piratas informáticos vinculados al gobierno iraní lanzaron ataques cibernéticos en unas cuatro docenas de instituciones financieras de EE. UU. Y una presa de control de inundaciones sobre la ciudad de Nueva York en fondos destinados a socavar los Estados Unidos y la Seguridad Nacional.
+recID_1952	4	4	Pakistán ha lanzado la guerra cibernética contra la India al difundir la propaganda falsa en la presunta islamofobia en la India.
+recID_1953	4	4	Rusia lanzó la guerra cibernética contra el Reino Unido con trucos sucios.
+recID_1954	4	4	Los militantes estatales islámicos tenían alrededor de 20,000 civiles como escudos humanos en Raqqa.
+recID_1955	4	4	El grupo de Hezbolá usó sistemáticamente a los civiles libanés como escudos humanos, poniendo en peligro cínicamente sus vidas y bienestar.
+recID_1957	4	4	Los jihadistas del grupo estatal islámico sostienen a más de 100,000 civiles iraquíes como escudos humanos en la ciudad vieja de Mosul.
+recID_1966	3	3	Alemania, el martes convocó al embajador chino en Berlín para quejarse de la medida, diciendo sanciones contra los legisladores, científicos, instituciones políticas y organizaciones no gubernamentales de la UE representaban una escalada irrazonable que destruirá innecesariamente las relaciones entre la UE y la China.
+recID_1969	3	3	Irán convocó al enviado del Reino Unido el domingo para quejarse de su asistencia a un mitin ilegal en Teherán para conmemorar a los asesinados en un avión ucraniano, erróneamente derribado por las fuerzas militares del país.
+recID_1971	3	3	Los funcionarios alemanes convocaron al embajador egipcio en Berlín para quejarse de una redada en una organización alemana en El Cairo.
+recID_1972	3	3	Lituania había convocado al embajador ruso para quejarse de repetidas actividades navales rusas.
+recID_1975	3	3	Las unidades de los serbios de Bosnia amenazaron con bombardear a las fuerzas británicas con base en la ciudad de Vitez, en el centro de Bosnia, si las fuerzas occidentales lanzaban algún tipo de ataque contra los serbios en cualquier lugar.
+recID_1976	3	3	Hezb-e-Islami también amenazó con Shell Bagram, el aeródromo militar a las 15 millas al norte de Kabul.
+recID_1977	3	3	Corea del Norte ha amenazado con bombardear el árbol de Navidad de 30 pies que un grupo cristiano planea colocar en una colina de 400 pies en la frontera.
+recID_1985	4	4	Los manifestantes en la ciudad de Gjilan, en el este de Kosovo, quemaron la bandera de Macedonia.
+recID_1987	4	4	En noviembre, la filial egipcia del Estado Islámico lanzó un descarado ataque en el que casi 40 hombres armados irrumpieron en la mezquita de al-Rawdah en el escasamente poblado Sinaí de Egipto, matando a más de 300 fieles.
+recID_1989	1	1	Erdogan se reunirá con el presidente del Consejo Europeo, Donald Tusk, y el presidente de la Comisión Europea, Jean-Claude Juncker, en Varna, Bulgaria, en una cumbre el 26 de marzo.
+recID_1990	0	0	El presidente brasileño Michel Temer dijo que existe una profunda preocupación en Brasil por la escalada del conflicto militar en Siria.
+recID_1991	4	4	La explosión del 17 de marzo que arrasó el edificio en el distrito de Nuevo Mosul mató a más de 100 personas mientras las fuerzas iraquíes luchaban contra militantes del grupo Estado Islámico en el área.
+recID_1995	1	1	El jueves, el presidente de Corea del Sur se unirá al presidente de Estados Unidos, Donald Trump, y al primer ministro japonés, Shinzo Abe, en conversaciones a tres bandas durante la cena.
+recID_1997	2	2	Un juez federal de Estados Unidos aprobó el jueves la extradición del expresidente panameño Ricardo Martinelli para enfrentar cargos de corrupción y espionaje a sus oponentes políticos.
+recID_2000	4	4	Seis personas murieron el jueves cuando presuntos terroristas de Boko Haram tendieron una emboscada al convoy del oficial al mando del ejército nigeriano cerca de Bulabilin, una aldea a lo largo de la carretera Maiduguri / Damboa.
+recID_2007	3	3	En una cumbre entre Rusia, Irán y Turquía el viernes, el presidente Vladimir Putin rechazó el llamado de Erdogan a una tregua en Idlib, hogar de unos 3 millones de civiles.
+recID_2009	0	0	La primera ministra británica, Theresa May, dice que está considerando una propuesta de la Unión Europea que mantendría a Gran Bretaña sujeta a las reglas del bloque durante más de dos años después del Brexit.
+recID_2010	3	3	La Organización de Libertad Civil (CLO) ha exigido el juicio inmediato o la liberación de Sani Baban-Inna, la ayudante de campo de Aisha Buhari, esposa del presidente Muhammadu Buhari.
+recID_2028	3	3	Setenta y dos organizaciones de mujeres, activistas, académicas, organizaciones de la sociedad civil y de derechos humanos en Nigeria condenaron enérgicamente el martes las recientes redadas, presuntas agresiones y acoso sexual de más de 100 mujeres en Abuja.
+recID_2030	2	2	El comando del ejército sirio dice que ha cesado sus operaciones militares en varias áreas cercanas a la capital, Damasco, pero advirtió que tomará represalias contra cualquier ataque de militantes.
+recID_2032	0	0	Una senadora del estado de Virginia está lanzando una candidatura para ser la próxima gobernadora del estado, que si tiene éxito la convertiría en la primera mujer afroamericana de la nación en liderar un estado.
+recID_2034	4	4	El gobierno de Pakistán tomó recientemente el control de las organizaciones benéficas dirigidas por el terrorista Hafiz Saeed.
+recID_2041	0	0	El presidente dijo el viernes que confiaba en que los demócratas finalmente llegarían a un acuerdo y que él firmaría el paquete de infraestructura bipartidista.
+recID_2042	0	0	Rahul Gandhi, un alto líder del principal partido opositor del Congreso de la India, dijo que confiaba en que Biden uniría a Estados Unidos y le proporcionaría un fuerte sentido de dirección.
+recID_2043	0	0	Sergei Lavrov y John Kerry dijeron que esperaban que el plan pudiera evitar una acción militar contra Siria.
+recID_2047	0	0	Funcionarios de las Naciones Unidas dijeron que esperaban que más países se comprometieran a reducir el plástico de un solo uso en una conferencia oceánica de la ONU en Nueva York a principios de junio.
+recID_2050	0	0	Un afiliado de Al Qaeda con sede en Malí se atribuyó el sábado la responsabilidad de los ataques en el vecino Burkina Faso que dejaron 16 muertos, incluidos ocho hombres armados, en el cuartel general del ejército y la embajada francesa, informó la agencia de noticias mauritana Alakhbar.
+recID_2057	0	0	El martes, el jefe de la agencia de la ONU para los refugiados palestinos instó a los países donantes a acelerar su financiamiento para garantizar que los servicios continúen después de que el presidente de Estados Unidos, Donald Trump, recortara drásticamente los fondos para la organización.
+recID_2059	0	0	La ONU hace un llamamiento a los líderes de Sudán del Sur para que dejen de luchar en la región de Equatoria Occidental.
+recID_2064	2	2	Alemania, Italia y los EE. UU. están participando en el juego de guerra espacial AsterX en la agencia espacial nacional de Francia CNES en Toulouse, el primer ejercicio de este tipo en Francia o en Europa.
+recID_2066	2	2	Alemania es un socio de larga data de la asistencia del PMA en Sudán del Sur y ha contribuido con cerca de 141 millones de dólares desde su independencia en 2011.
+recID_2072	2	2	Los refugiados en Alemania han recibido alimentos, ropa, artículos de higiene y juguetes para niños, gracias a Islamic Relief y a nuestros partidarios de gran corazón.
+recID_2074	2	2	Tropas del comando sur de los EE. UU. estacionaram a lo largo del canal de Panamá miércoles y llevaron a cabo un ejercicio de evacuación de emergencia en una escuela.
+recID_2084	2	2	El Presidente estableció la Comisión de Asistencia para una Cuba Libre para asegurarle al pueblo cubano que Estados Unidos está listo para ayudarlos en la transición hacia la democracia y proporcionó más de $ 400 millones para promover la libertad y la democracia en Cuba.
+recID_2093	2	2	Washington ha levantado las sanciones a las exportaciones de alta tecnología a India y Pakistán en interés de la seguridad nacional de Estados Unidos.
+recID_2094	2	2	Los Emiratos Árabes Unidos han derogado la Ley de Boicot de Israel e introducen medidas para eliminar formalmente las restricciones comerciales y de viaje con Israel.
+recID_2097	2	2	El Ejército Nacional Libio (LNA) levantó un bloqueo a las exportaciones y la producción de petróleo que había impuesto en enero.
+recID_2107	0	0	El gobierno de Delhi está explorando la posibilidad de tener carreteras de hormigón en la capital nacional, ya que son más duraderas y rentables en comparación con las de betún.
+recID_2108	0	0	El Gobierno de Noruega está considerando la posibilidad de cubrir el costo de las sesiones posteriores.
+recID_2116	1	1	El gobierno etíope ha acordado permitir que los trabajadores de ayuda humanitaria de la ONU amplíen el acceso a la región de Tigray.
+recID_2119	1	1	El primer ministro Andrej Babis acordó renunciar el 17 de enero después de que el gabinete minoritario perdiera un voto de confianza un día antes.
+recID_2122	1	1	Israel acordó abrir sus fronteras con Gaza para permitir la entrada de ayuda humanitaria y materiales de reconstrucción al enclave palestino devastado por la guerra.
+recID_2124	1	1	Birmania ha acordado permitir la ayuda internacional en las áreas devastadas por el ciclón Nargis.
+recID_2129	1	1	Egipto está dispuesto a retirar sus tropas si puede mantener una administración civil en Gaza, El Auja y Faluja.
+recID_2131	1	1	Pete Wilson firmó un acuerdo para promover el comercio bilateral y el turismo con Israel.
+recID_2132	1	1	Por lo tanto, la Unión Africana acordó establecer una fuerza provisional de mantenimiento de la paz compuesta por tropas de Etiopía, Mozambique y Sudáfrica.
+recID_2136	2	2	Las autoridades estadounidenses compartieron pruebas con sus homólogos europeos para permitir a los funcionarios de Ucrania, Moldavia y Georgia iniciar procesamientos en las naciones donde residen los acusados.
+recID_2140	3	3	La policía militar británica ha iniciado una investigación sobre las denuncias de que dos militares abusaron de niños en Afganistán, dijo hoy el Ministerio de Defensa.
+recID_2146	3	3	Clinton ha dicho que no levantará el embargo hasta que esté satisfecho de que Vietnam está haciendo todo lo posible para ayudar a determinar el destino de más de 2.200 estadounidenses que aún figuran como desaparecidos de la guerra más larga del país.
+recID_2149	3	3	Europa ha dejado en claro que no levantará el embargo hasta que China suscriba plenamente el Pacto Internacional de Derechos Civiles y Políticos de la ONU.
+recID_2152	3	3	Hungría dice que no aceptará solicitantes de asilo devueltos.
+recID_2154	4	4	Los maestros de las Escuelas Públicas de Denver se declararon en huelga por una mejor paga.
+recID_2155	4	4	El gobierno de Nepal movilizó al ejército para el control de disturbios y puso a gran parte del país en bloqueo de 24 horas.
+recID_2159	4	4	El ejército de Pakistán violó el alto el fuego bombardeando con morteros y disparando armas pequeñas a lo largo de la Línea de Control (LdC) en el distrito de Poonch de Jammu y Cachemira.
+recID_2164	4	4	Las tropas de la ONU permanecieron en alerta hoy contra la violencia posterior al ataque a la iglesia, que el gobierno atribuyó a los restos de Seleka, una fuerza rebelde que tomó el poder brevemente en 2013.
+recID_2629	4	4	La Procuraduría General de Bolivia ordenó el miércoles el arresto del expresidente exiliado Evo Morales luego de la acusación de sedición y terrorismo del gobierno interino.
+recID_2631	4	4	Pero el movimiento Hirak liderado por mujeres boicoteó la votación, citando la represión y las redes de la vieja guardia.
+recID_2634	4	4	Los principales partidos de oposición de Venezuela dijeron el miércoles que boicotearían las elecciones presidenciales del 22 de abril, lo que arroja más dudas sobre la legitimidad del voto en el que el líder de izquierda Nicolás Maduro busca un segundo mandato de seis años.
+recID_2638	2	2	China levantó su boicot a los negocios y rutas de vuelo de Corea del Sur.
+recID_2642	3	3	Los rivales del gobierno del primer ministro Hassan Diab dijeron que boicotearán la reunión, programada para el jueves.
+recID_2643	2	2	Dijo que el 14 de octubre, el gobierno israelí aprobó un plan para construir un vecindario de asentamiento completo, que incluye 31 unidades de asentamiento en la Ciudad Vieja de Hebrón.
+recID_2647	0	0	El embajador de Nigeria en Egipto, Nura Rimi, ha pedido reformas en el sistema judicial nigeriano diciendo que proporcionarán la garantía necesaria a los inversores que deseen invertir en el país.
+recID_2649	0	0	El secretario de Estado de Estados Unidos, Anthony Blinken, ha pedido reformas en Azerbaiyán para proteger los derechos humanos y las libertades fundamentales, tras la destitución de la abogada de derechos humanos Shahla Humbatova en ese país.
+recID_2659	3	3	Mikhail Khodorkovsky, un ex magnate petrolero ruso, pidió sanciones contra Belneftekhim, la compañía petrolera estatal de Bielorrusia, y Belaruskali, uno de los mayores productores de potasa del mundo.

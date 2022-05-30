@@ -1,0 +1,451 @@
+recID_2165	0	0	El jefe militar de Estados Unidos, el general Colin Powell, dijo el miércoles que la OTAN debería mantenerse fuerte.
+recID_2166	0	0	La OTAN se negó el lunes a comentar sobre una estimación de que las tropas del ejército y la policía especial serbios en Kosovo estaban perdiendo entre 90 y 100 muertos por día en los ataques aéreos de la OTAN.
+recID_2167	0	0	El ex canciller alemán Willy Brandt dijo en una entrevista de radio transmitida hoy que se mostraba escéptico sobre la voluntad de Moscú de acordar la limitación de las armas nucleares con base en Europa.
+recID_2168	0	0	El primer ministro israelí, Ehud Barak, dijo el viernes que era muy pesimista sobre las posibilidades de reanudar las conversaciones de paz con Siria, informó la radio israelí.
+recID_2169	0	0	El presidente turco, Turgut Ozal, dijo el miércoles que confiaba en que Estados Unidos eliminaría los factores irritantes que dañan las relaciones entre los dos aliados de la OTAN.
+recID_2170	0	0	La Unión Europea dijo el jueves que esperaba que el levantamiento de la ley marcial en Beijing condujera a una mejora en los derechos humanos.
+recID_2171	0	0	La Unión Europea está explorando la posibilidad de patrullas internacionales para monitorear la frontera de Macedonia con Serbia, dijo su enviado el viernes.
+recID_2172	0	0	Malasia está considerando dar dinero a 20.000 botes vietnamitas en el país para atraerlos a regresar a casa, dijo el martes el ministro de Relaciones Exteriores.
+recID_2173	0	0	Un grupo guerrillero palestino con sede en Damasco se atribuyó el sábado la responsabilidad de los ataques contra las tropas israelíes desde Jordania en los últimos dos días.
+recID_2174	0	0	El gobierno de Liberia negó el jueves las acusaciones de Costa de Marfil de que Monrovia está cometiendo genocidio.
+recID_2175	0	0	Corea del Sur rechazó el viernes como "totalmente infundadas" las acusaciones de Amnistía Internacional de que había llevado a cabo detenciones masivas de presos políticos, pero los grupos eclesiásticos de derechos humanos aquí apoyaron las acusaciones.
+recID_2176	0	0	El secretario general Boutros Boutros-Ghali expresó el sábado sus condolencias a Estados Unidos por la muerte de tres diplomáticos estadounidenses.
+recID_2177	0	0	El presidente Bush y el presidente egipcio Hosni Mubarak acordaron hoy que existe una necesidad urgente de avanzar hacia un arreglo en Oriente Medio y que también es necesario congelar los asentamientos israelíes en los territorios ocupados.
+recID_2178	0	0	El presidente de Kenia, Daniel Arap Moi, instó el lunes a Uganda a repatriar a “todos los criminales kenianos que se esconden allí” para enfrentar un juicio, acusándolos de matar a policías kenianos en redadas transfronterizas recientemente.
+recID_2179	0	0	El líder ultranacionalista serbio Vojislav Seselj exhortó a Arabia Saudita a unir fuerzas contra un posible ataque liderado por Estados Unidos contra Irak, informó el miércoles la agencia de noticias Tanjug.
+recID_2180	0	0	Los líderes empresariales indios pidieron el viernes un mayor impulso hacia el libre comercio a pesar de las crecientes tensiones con Pakistán.
+recID_2181	0	0	Corea del Sur ha solicitado arrendar un campo de entrenamiento militar ruso, dijeron el jueves oficiales militares en Seúl.
+recID_2182	0	0	Turquía renovó un llamamiento a Bélgica para que extradite a un militante de extrema izquierda buscado por asesinato, dijo el jueves el ministro de Justicia, Cemil Cicek, criticando lo que llamó una cooperación internacional laxa contra el terrorismo.
+recID_2183	0	0	Turquía dijo el lunes que había pedido a Teherán y Damasco que proporcionaran información urgente sobre armas y municiones incautadas la semana pasada en el sureste de Turquía a bordo de seis camiones que viajaban de Irán a Siria.
+recID_2184	0	0	Los medios estatales de Corea del Norte han pedido a Estados Unidos que forje "lazos de confianza" con Pyongyang antes de las conversaciones nucleares a seis bandas que se espera se celebren en Beijing el 26 de julio.
+recID_2185	0	0	Charles Taylor pidió a los liberianos que lo apoyaran durante estos días difíciles. “Pronto pasará este mal viento”, se quejó.
+recID_2186	0	0	El presidente libanés, Amin Gemayel, ha pedido al presidente Bush el pleno apoyo de Estados Unidos a la causa del Líbano, dijo hoy la Casa Blanca.
+recID_2187	0	0	Rumanía ha pedido a la Unión Europea la entrega inmediata de ayuda adicional, dijeron el jueves fuentes de la CE.
+recID_2188	0	0	Rusia y China pedirán al Banco Asiático de Desarrollo que ayude a financiar la construcción de un enlace de gas natural transiberiano de $ 8 mil millones con China.
+recID_2189	0	0	Angola ha pedido ayuda militar a Portugal, especialmente instructores para sus fuerzas armadas entrenadas por los soviéticos y cubanos, dijo hoy un periódico de Lisboa.
+recID_2190	0	0	Oxfam pidió hoy a la Unión Europea que ayude a salvar a decenas de miles de civiles afganos amenazados de inanición.
+recID_2191	0	0	Un grupo de prominentes liberianos ha escrito al presidente George Bush instándolo a enviar tropas estadounidenses de mantenimiento de la paz a su capital, Monrovia.
+recID_2192	0	0	Unos 300 representantes de organizaciones de la sociedad civil egipcia presentaron la más reciente de una serie de peticiones de reforma, bajo el título “En defensa de la nación” a la familia real saudí.
+recID_2193	0	0	Los ministros europeos habían pedido a Birmania que instituyera reformas antes de unirse a la ASEAN.
+recID_2194	0	0	Los parlamentarios del Partido Liberal Democrático de Kenia pidieron al ministro de Energía, Kiraitu Murungi, que dimitiera a raíz de nuevas pruebas sobre los escándalos de 7.000 millones de dólares.
+recID_2195	0	0	El Consejo de Seguridad de la ONU ha pedido al gobierno interino de Haití que celebre elecciones antes del 7 de febrero.
+recID_2196	0	0	El presidente de Estados Unidos, George W. Bush, dijo el viernes que le dirá al primer ministro japonés, Junichiro Koizumi, que Japón necesita promulgar reformas económicas significativas.
+recID_2197	0	0	Carl Bildt pidió tres reformas urgentes en la legislatura sueca - reforma fiscal, reforma empresarial y reforma de la asistencia social - y destacó la creación de nuevos puestos de trabajo como la principal tarea para el futuro.
+recID_2198	0	0	La ONU instó a los rebeldes maoístas en Nepal a respetar los derechos humanos, según el Alto Comisionado de las Naciones Unidas para los Derechos Humanos (ACNUR).
+recID_2199	0	0	El comité internacional del movimiento Libanés Viviendo en el Extranjero se está poniendo en contacto con varias legislaturas libanesas para proponer una nueva adenda que incorpore el derecho al voto en el extranjero en la ley electoral adoptada para las próximas elecciones parlamentarias.
+recID_2200	0	0	El presidente Emile Lahoud ha presionado al Parlamento libanés para que promulgue una nueva ley electoral dos días antes de que convoque elecciones parlamentarias.
+recID_2201	0	0	La presidenta Gloria Macapagal Arroyo, plagada de escándalos, instó el lunes al Congreso de Filipinas a cambiar la constitución para cambiar a una forma de gobierno parlamentario para aliviar la constante inestabilidad política del país.
+recID_2202	0	0	El primer ministro israelí, Ariel Sharon, quiere que Alemania pague más compensación a las familias de 11 atletas israelíes asesinados en los Juegos Olímpicos de Múnich 1972, dijo el martes un comunicado de su oficina.
+recID_2203	0	0	Decenas de periodistas del diario más respetado de Sudán hicieron un llamamiento al gobierno sudanés el miércoles para que les permitiera reanudar la publicación y compensarlos por los salarios perdidos.
+recID_2204	0	0	Human Rights Watch también pidió a Yemen, Argelia y Malasia que levanten inmediatamente las prohibiciones a los periódicos cerrados en los últimos días para imprimir las caricaturas.
+recID_2205	0	0	Los líderes fundamentalistas islámicos hicieron un llamado a sus seguidores musulmanes para que se ponga fin a la agitación contra el gobierno, dijeron las autoridades el lunes.
+recID_2206	0	0	Estados Unidos pidió a Israel que avance con su plan de retirada “valiente e histórico” lo más rápido posible.
+recID_2207	0	0	El sábado, Irak hizo un llamamiento a la ONU para que ponga fin a su embargo comercial, que, según dijo, está provocando una enorme escasez de medicamentos y alimentos.
+recID_2208	0	0	La ONU hizo un llamamiento al gobierno sudanés el viernes para que reconsidere urgentemente su prohibición de los vuelos de socorro al sur de Sudán.
+recID_2209	0	0	Los presidentes de Irak y Egipto pidieron el martes la retirada de las fuerzas armadas sirias del Líbano para poner fin a 14 años de guerra civil allí.
+recID_2210	0	0	Los líderes de los 16 miembros de la Comunidad Económica de los Estados de África Occidental (CEDEAO) pidieron el miércoles un alto el fuego inmediato en Liberia devastada por la guerra.
+recID_2211	0	0	El Salvador solicitó el lunes una reunión urgente del Consejo de Seguridad del Estado el miércoles para tratar lo que llamó violaciones por parte de Nicaragua de los acuerdos de paz centroamericanos.
+recID_2212	0	0	El ministro de Relaciones Exteriores de Rusia, Sergei Lavrov, dijo aquí el sábado que insta a Irán, Francia, Alemania y Gran Bretaña a llegar a un acuerdo en sus conversaciones sobre el programa nuclear de Irán.
+recID_2213	0	0	International Crisis Group ha pedido a la misión de estabilización de la ONU que negocie un acuerdo entre los haitianos que establezca objetivos comunes para el próximo gobierno.
+recID_2214	1	1	Altos funcionarios húngaros y rumanos acordaron el miércoles que sus países deben cooperar para alentar a los refugiados rumanos en Hungría a regresar a casa.
+recID_2215	1	1	El foro de la Asociación Asia Pacífico para el Desarrollo Limpio acordó establecer un centro de investigación energética en Tokio para desarrollar aún más sus proyecciones energéticas regionales, dijeron funcionarios el jueves.
+recID_2216	1	1	Estados Unidos y Jordania acordaron un nuevo pacto de libre comercio entre los dos países, anunció la Casa Blanca el martes.
+recID_2217	1	1	Jordania y Gran Bretaña acordaron realizar ejercicios militares conjuntos este mes, confirmó un funcionario jordano.
+recID_2218	1	1	Libia ha ofrecido entregar a Gran Bretaña a dos de sus ciudadanos sospechosos por Occidente de volar un avión de Pan Am en 1988, dijo un periódico egipcio de propiedad estatal.
+recID_2219	1	1	Israel y los palestinos llegaron a un consenso para intercambiar información sobre los recursos hídricos en el segundo día de una conferencia multilateral sobre los problemas del agua en el Medio Oriente aquí el jueves, dijo el copresidente de la reunión.
+recID_2220	1	1	Los lados turco y griego de la dividida isla mediterránea de Chipre acordaron compartir información el viernes sobre personas desaparecidas de ambas comunidades, dijo el lunes un funcionario de la ONU.
+recID_2221	1	1	Portugal apoyará los esfuerzos de Turquía para convertirse en miembro de pleno derecho de la Unión Europea, dijo el martes el presidente portugués Mario Soares.
+recID_2222	1	1	Hungría ha dicho que apoyará una resolución del Consejo de Seguridad de la ONU que apunta a endurecer las sanciones e imponer un bloqueo naval contra la vecina Serbia.
+recID_2223	1	1	Noruega, miembro de la OTAN, está dispuesta a enviar material para ayudar a defender a Arabia Saudita si es atacada, dijo el ministro de Relaciones Exteriores de Noruega.
+recID_2224	1	1	Finlandia otorgará a Tanzania una subvención de 580 millones de chelines (64,45 millones de dólares) durante los próximos tres años para financiar varios proyectos en el país, dijo hoy un comunicado emitido por el ministerio de finanzas.
+recID_2225	1	1	Los cancilleres de la Unión Europea acordaron en principio el sábado proporcionar unos 70 millones de dólares de ayuda a Rumanía y Polonia.
+recID_2226	1	1	El secretario de Defensa británico, Tom King, ha prometido continuar la ayuda militar a Mozambique, devastada por la guerra.
+recID_2227	1	1	Siria ha ofrecido nuevamente sus tropas al nuevo presidente de Líbano, Elias Hrawi, para ayudarlo a expulsar al general Michel Aoun del enclave cristiano que controla Aoun.
+recID_2228	1	1	Las Naciones Unidas proporcionarán casi 25.000 toneladas de ayuda alimentaria de emergencia a los refugiados que huyen de la guerra civil en Liberia, dijo el lunes el Programa Mundial de Alimentos (PMA).
+recID_2229	1	1	Francia está lista para contribuir con hasta 4.000 soldados a una fuerza internacional de mantenimiento de la paz en Liberia, dijo el lunes el ministro de Defensa, Pierre Joxe.
+recID_2230	1	1	El Consejo de Seguridad acordó hoy una prórroga de seis meses del mandato de la fuerza de mantenimiento de la paz en el Líbano a pesar del deseo de Israel de un período más breve.
+recID_2231	1	1	El derrocado presidente Askar Akayev acordó renunciar sin regresar a Kirguistán, dijo el sábado el presidente del Parlamento.
+recID_2232	1	1	El ministro de Planificación e Inversiones, Tran Van Tuan, dijo que Vietnam está comprometido con la apertura de la economía, pero no se apresurará, en una rara entrevista a última hora del viernes.
+recID_2233	1	1	Turquía permitirá que hasta 13.000 refugiados kurdos turcos que han vivido en Irak durante más de una década regresen a casa como parte de un acuerdo negociado por la ONU.
+recID_2234	1	1	El presidente serbio, Vojislav Kostunica, prometió democratizar Serbia y establecer el estado de derecho como sucedió a Milosevic.
+recID_2235	1	1	Un funcionario ruso ofreció concesiones en noviembre pasado que el negociador estadounidense Paul Nitze creía que podrían conducir a un acuerdo para reducir los misiles nucleares en Europa, según un senador que actuó como intermediario en las conversaciones.
+recID_2236	1	1	En una entrevista este fin de semana, el presidente Abdelaziz Bouteflika dijo que está dispuesto a levantar la prohibición del Frente Islámico de Salvación (FIS), pero no con su liderazgo histórico.
+recID_2237	1	1	Los líderes de la coalición de oposición Azadliq (Libertad) acordaron posponer la manifestación en Bakú hasta el 9 de noviembre.
+recID_2238	1	1	Los rebeldes de Fiji dijeron que liberarán al primer ministro Mahendra Chaudhry y a más de 30 miembros de su gobierno, a quienes tomaron como rehenes hace dos semanas, el fin de semana.
+recID_2239	1	1	El rebelde Frente Revolucionario Unido (FRU) anunció que devolverá las armas y el equipo militar incautados el año pasado a las fuerzas de paz de las Naciones Unidas, según informes que llegan hasta aquí desde la capital del país, Freetown.
+recID_2240	1	1	Según el plan de retirada, Israel evacuará los 21 asentamientos en la Franja de Gaza a mediados de agosto, dijo el portavoz del primer ministro israelí.
+recID_2241	1	1	El Congreso de los Estados Unidos acordó levantar los embargos sobre las ventas de productos farmacéuticos a fines de febrero a Irán, Libia, Corea del Norte, Sudán y, con condiciones, Cuba.
+recID_2242	1	1	Ethopia acordó reabrir sus fronteras a las fuerzas de paz de la ONU, que están desplegadas en la región para supervisar un alto el fuego entre Etiopía y su vecino, Eritrea.
+recID_2243	1	1	En una carta entregada a las Naciones Unidas el lunes, Irak dijo que permitiría el regreso de los inspectores de armas de la ONU sin condiciones para eliminar cualquier duda de que Irak todavía posee armas de destrucción masiva.
+recID_2244	1	1	Con la firma de un Memorando de Entendimiento (MOU) sobre el cese de hostilidades, el gobierno sudanés y el Ejército de Liberación del Pueblo de Sudán acordaron permitir el acceso humanitario sin obstáculos a todas las áreas y para las personas necesitadas.
+recID_2245	1	1	Bosnia y Eslovenia acordaron un alto el fuego después de dos días de feroces combates, pero los informes de los medios dijeron que los enfrentamientos esporádicos aún continúan.
+recID_2246	1	1	El líder insurgente Shefket Musliu dijo el 21 de mayo en Serbia que sus fuerzas depondrán las armas y se disolverán a finales de mes porque “ha llegado el momento. . . para buscar cambios a través de medios políticos ”, informó AP.
+recID_2247	1	1	Siria dice que está dispuesta a retirar sus tropas del vecino Líbano, después de quince años de efectiva ocupación militar.
+recID_2248	1	1	El ministro de Relaciones Exteriores de Alemania, Oskar Fischer, visitará Albania en junio, el primer ministro de Relaciones Exteriores del Pacto de Varsovia en hacerlo desde que Tirana se separó de Moscú en 1961, dijo la embajada de Albania.
+recID_2249	1	1	El 29 de septiembre, Putin se ofreció a negociar con el presidente de Armenia tras las invasiones de Daguestán.
+recID_2250	1	1	Dinamarca aceptó hoy una fórmula para poner fin a su disputa pesquera con sus socios de la Unión Europea, dijeron funcionarios del gobierno.
+recID_2251	1	1	Los líderes rebeldes afganos dijeron el miércoles que se reunirían con el mediador de la ONU Diego Cordovez si les concedía el veto sobre cualquier acuerdo alcanzado en las conversaciones de paz.
+recID_2252	1	1	El primer ministro israelí, Ehud Barak, aceptó la mediación de Estados Unidos en las conversaciones sobre el estado final con los palestinos, dijo un alto funcionario israelí.
+recID_2253	1	1	El presidente de Gambia, Dawda Jawara, visitará Mauritania y Senegal para mediar en una disputa fronteriza entre los dos vecinos de África Occidental, dijeron el miércoles fuentes diplomáticas.
+recID_2254	1	1	El rey Hassan de Marruecos fue citado hoy diciendo que estaría listo para organizar una reunión entre un movimiento pacifista israelí y la Organización de Liberación de Palestina (OLP).
+recID_2255	1	1	Un grupo de diplomáticos marroquíes sostuvo su primer encuentro con el presidente Obama en un almuerzo ofrecido por el Embajador del Reino de Marruecos.
+recID_2256	1	1	El secretario de Estado de Estados Unidos, Warren Christopher, telefoneó el martes al ministro de Relaciones Exteriores de Rusia, Andrei Kozyrev, para discutir los esfuerzos para forjar un acuerdo de paz en la ex Yugoslavia, dijo la agencia de noticias Itar-Tass.
+recID_2257	1	1	El viceministro de Relaciones Exteriores de Taiwán visitó Rusia hoy, convirtiéndose en el funcionario gubernamental de mayor rango de la isla en ir allí.
+recID_2258	1	1	El presidente iraquí, Saddam Hussein, llegó a Ammán en una visita no anunciada el miércoles.
+recID_2259	1	1	El presidente ruso, Boris Yeltsin, recibió el sábado al primer ministro japonés, Ryutaro Hashimoto, en esta ciudad siberiana para una reunión informal destinada a establecer estrechas relaciones personales entre los dos líderes.
+recID_2260	1	1	El presidente francés, Francois Mitterand, dio una cálida bienvenida el jueves al líder sudafricano Frederick Willem De Klerk, quien intenta romper el aislamiento internacional de su país.
+recID_2261	1	1	Los negociadores estadounidenses y rusos regresan a Ginebra esta semana para hablar sobre la limitación del número de misiles nucleares con base en Europa, un tema que probablemente dominará las relaciones Este-Oeste este año.
+recID_2262	1	1	El secretario general de la Liga Árabe, Chadli Klibi, emprendió una misión de mediación entre Siria y el líder palestino Yasser Arafat.
+recID_2263	1	1	El emir de Quatar, el jeque Muhammad Bin Khalifa Al Thani, lanzó el sábado un esfuerzo de mediación entre los Emiratos y Arabia Saudita, cuyos lazos se han visto tensos por la nueva amistad de Riad con Teherán.
+recID_2264	1	1	Israel y el Líbano renovaron hoy las negociaciones sobre la retirada de las tropas israelíes del Líbano y sus futuras relaciones.
+recID_2265	1	1	El presidente de la Asamblea Nacional francesa, Laurent Fabius, sostuvo conversaciones con líderes del nuevo gobierno de Rumania el martes, la primera delegación occidental de alto nivel que visita Bucarest desde la revolución del mes pasado.
+recID_2266	1	1	Chequia y Albania han mejorado sus lazos diplomáticos de nuevo al nivel de embajadores después de una pausa de 18 años, dijo el miércoles la agencia oficial de noticias CTK.
+recID_2267	1	1	Un alto funcionario estadounidense elogió hoy los esfuerzos de Haití para mejorar su historial en materia de derechos humanos y dijo que era un socio importante para Estados Unidos.
+recID_2268	1	1	El gobierno alemán dio la bienvenida hoy a la última declaración de política del presidente Reagan como prueba del sincero deseo de Washington de que se alcance un acuerdo en las conversaciones nucleares entre Estados Unidos y la Unión Soviética.
+recID_2269	1	1	Estados Unidos defendió el jueves el derecho de las tropas rusas a disparar de manera protectora contra los militantes en Azerbaiyán e insistió en que los disturbios allí reflejaban tensiones étnicas seculares, no una lucha por la independencia política.
+recID_2270	1	1	El líder palestino Yasser Arafat defendió a Irak y Libia el viernes contra las críticas occidentales a sus industrias de armas y dijo que Occidente estaba aplicando un doble rasero en materia de derechos humanos.
+recID_2271	1	1	El secretario general de la Liga Árabe, Chedli Klibi, instó hoy a la Unión Europea a apoyar a la Organización de Liberación de Palestina (OLP), que dijo crearía un clima favorable para las conversaciones de paz.
+recID_2272	1	1	Arabia Saudita ha movilizado grupos de presión en Estados Unidos para ayudar a apoyar los derechos de los palestinos en su lucha contra Israel, dijo un alto ministro en comentarios publicados el jueves.
+recID_2273	1	1	Sri Lanka ha establecido relaciones diplomáticas y abrió una embajada en Teherán, dijo el miércoles el Ministerio de Relaciones Exteriores.
+recID_2274	1	1	Argentina se disculpó con Brasil por que una de sus cañoneras interceptara un barco brasileño en el Canal Beagle, disputado por Argentina y Chile.
+recID_2275	1	1	Un grupo de líderes de la Juventud Iduwini anunció ayer que están dispuestos a perdonar al presidente nigeriano Olusegun Obasanjo y hacer cola detrás de él para un segundo mandato.
+recID_2276	1	1	El líder libio Muammar Gaddafi y el presidente búlgaro Todor Zhivkov firmaron hoy un tratado de amistad y cooperación, informó la BTA.
+recID_2277	1	1	Chequia y China firmaron hoy un acuerdo para aumentar el comercio en 1983 en un 50 por ciento en comparación con el año pasado, dijo hoy la agencia oficial de noticias checoslovaca Ceteka.
+recID_2278	2	2	Los talibanes han estado compartiendo experiencia con los Tigres de Liberación de Tamil Eelam (LTTE) según un informe especial presentado al Servicio de Inteligencia de Seguridad de Canadá.
+recID_2279	2	2	Los flujos de inversión extranjera directa europea en América Latina y el Caribe aumentaron más de ocho veces durante la segunda mitad de la década de 1990 en comparación con la primera mitad de esa década, según un estudio presentado en París por el Banco Interamericano de Desarrollo.
+recID_2280	2	2	Los buques de guerra franceses y egipcios lanzaron el lunes 10 días de juegos de guerra en el mar Mediterráneo, a los que se espera que se unan más tarde los buques italianos y alemanes, dijo el lunes la embajada francesa.
+recID_2281	2	2	Zambia extraditó al presunto militante británico Haroon Rashid Aswad a Gran Bretaña el domingo, dijo un alto funcionario del gobierno de Zambia.
+recID_2282	2	2	Los funcionarios de inteligencia israelíes han compartido evidencia con Estados Unidos sobre los contactos entre Al Qaeda y altos miembros del Partido Ba'ath de Saddam Hussein, según funcionarios gubernamentales.
+recID_2283	2	2	Los médicos de dos grupos de ayuda estadounidenses donaron y entregaron personalmente productos por valor de 50.000 dólares a la Facultad de Medicina de la Universidad de Bagdad, arriesgando hasta 12 años de prisión y 500.000 dólares en multas.
+recID_2284	2	2	La Unión Europea entregó este lunes a Costa de Marfil 5,1 millones de dólares de ayuda para proyectos de desarrollo agrícola.
+recID_2285	2	2	Estados Unidos continuó enviando armas a Pakistán el año pasado, dijo el miércoles un portavoz del Departamento de Estado.
+recID_2286	2	2	Estados Unidos está proporcionando fotografías aéreas y otra inteligencia militar a Macedonia, que está preparando una gran ofensiva contra las guerrillas de etnia albanesa, dijo el miércoles el Washington Post.
+recID_2287	2	2	Los médicos suizos entregaron más de 700 kg de medicamentos a la Media Luna Roja en Bam, Irán, según la Agencia Suiza para el Desarrollo y la Cooperación.
+recID_2288	2	2	Benin abrió hoy sus fronteras a la mayoría de los refugiados a los que se les ordenó salir de Nigeria como extranjeros ilegales, pero todavía se niega a admitir a los ghaneses, con mucho el grupo más grande involucrado, dijo la policía de Benin.
+recID_2289	2	2	Helicópteros de la ONU evacuaron a los heridos de la sitiada ciudad bosnia de Gorazde el viernes.
+recID_2290	2	2	El primer despliegue de tropas de paz de la OTAN ha llegado a Bosnia, dijo el secretario de Defensa William Perry.
+recID_2291	2	2	Perú ha otorgado asilo diplomático a cinco oficiales del ejército panameño escondidos en una residencia diplomática desde la invasión estadounidense del mes pasado, dijo el martes la embajada peruana.
+recID_2292	2	2	Uganda ha concedido asilo político a 18 rebeldes ruandeses que entraron ilegalmente al país hace dos años y son buscados en casa por cargos de traición, dijo el viernes un funcionario de las Naciones Unidas.
+recID_2293	2	2	Uganda dijo el domingo que había pagado una indemnización a 67 ciudadanos británicos de edad avanzada, la mayoría asiáticos, por los bienes que perdieron cuando el ex dictador Idi Amin los expulsó hace 18 años.
+recID_2294	2	2	El presidente Omar Al Bashir, luego del acuerdo de paz parcial, ha tomado varias medidas provisionales para mejorar las libertades políticas y promover una imagen de apertura y tolerancia en Sudán.
+recID_2295	2	2	El Tribunal Constitucional de Letonia canceló las restricciones sobre el uso del idioma ruso en la radio y la televisión nacionales.
+recID_2296	2	2	La Corte Suprema de Costa de Marfil decidió permitir que el candidato Alassane Ouattara participara en las próximas elecciones del país.
+recID_2297	2	2	Serbia levantó el toque de queda nocturno en Montenegro, donde 28 personas murieron en disturbios étnicos este año y la provincia se mantuvo tranquila el domingo.
+recID_2298	2	2	El presidente Omar Al Bashir acortó el jueves en una hora el toque de queda nocturno impuesto en Sudán después de que un golpe de estado del 30 de junio derrocara al gobierno civil.
+recID_2299	2	2	Serbia suavizó las medidas de emergencia el miércoles en la provincia de Montenegro, escenario de violencia étnica en marzo pasado, cuando las autoridades de Croacia tomaron medidas enérgicas contra los nacionalistas serbios.
+recID_2300	2	2	El gobierno de Sudán levantó el domingo el estado de emergencia en el estado de Darfur Occidental que se impuso hace seis meses después de sangrientos enfrentamientos tribales allí, informó la radio Omdurman el domingo.
+recID_2301	2	2	El Sindicato de Maestros de Nigeria (NUT), el sindicato que agrupa a los maestros de escuelas primarias, anunció el jueves que suspendió una huelga de cuatro días después de deliberar con el gobierno nigeriano.
+recID_2302	2	2	El gobierno de Mozambique aceptó el jueves las demandas de los rebeldes shona para que inicie reformas políticas.
+recID_2303	2	2	El martes, el parlamento serbio aprobó una ley especial que reconoce las victorias de la coalición de oposición de Zoran Djindjic en las elecciones municipales del 17 de noviembre en 14 de las 18 ciudades serbias más importantes, incluida Belgrado.
+recID_2304	2	2	El presidente de Georgia, Eduard Shevardnadze, dimitió el domingo cuando la oposición amenazó con asaltar su residencia en Tbilisi.
+recID_2305	2	2	Como parte de su lucha para erradicar la pobreza, el partido gobernante ha introducido por primera vez en Gran Bretaña una tasa de salario mínima legalmente vinculante.
+recID_2306	2	2	El ministro federal del Interior Aftab Ahmad Khan Sherpao permitió que el líder de la oposición paquistaní Maulana Fazl-ur-Rehman convocara el mitin 'Shan-e-Mustafa (SAW)' después de un acuerdo para llevar a cabo una manifestación de protesta libre de violencia, según el Federal Pakistaní Secretario de Interior.
+recID_2307	2	2	Según los informes, el presidente José Eduardo Dos Santos ha cedido finalmente a las demandas de la Unión Nacional para la Independencia Total de Angola (UNITA) de reformar el poder judicial.
+recID_2308	2	2	El teniente general Prosper Avril renunció ayer para permitir que se realicen las primeras elecciones democráticas en Haití.
+recID_2309	2	2	Según un portavoz del zoológico, las autoridades de Malasia han iniciado el proceso de devolución de los cuatro gorilas bebés a Nigeria, en medio de especulaciones de que fueron capturados ilegalmente en la naturaleza.
+recID_2310	2	2	La policía polaca puso en libertad hoy al corresponsal de la agencia de noticias estadounidense United Press International, que fue detenido durante 23 horas e interrogado en relación con una investigación sobre presuntas actividades ilegales.
+recID_2311	2	2	Las fuerzas armadas serbias liberaron el martes a seis trabajadores sociales médicos franceses que estaban cautivos dentro de un vehículo blindado de la ONU desde el viernes, dijo un portavoz de la ONU.
+recID_2312	2	2	Las autoridades marítimas francesas liberan hoy un barco incautado operado por el movimiento ecológico Greenpeace, dijeron funcionarios del puerto.
+recID_2313	2	2	Un tribunal egipcio liberó los activos de un millonario libanés por casi 19 millones de dólares el sábado, seis años después de que fueran congelados en un gran escándalo bancario.
+recID_2314	2	2	Alemania levantó el miércoles las sanciones contra el oro de Sudáfrica en reconocimiento a las medidas del país para abolir el apartheid, dijo un portavoz del gobierno.
+recID_2315	2	2	Los Emiratos Árabes Unidos (EAU) han levantado su boicot al comercio de petróleo en Namibia, efectivo desde el 31 de marzo.
+recID_2316	2	2	La Unión Europea fracasó el miércoles en renovar las sanciones contra Zimbabue, y el destino de una cumbre UE-África programada para abril pende de un hilo.
+recID_2317	2	2	El primer ministro kirguiso, Nikolai Tanaev, recibió una misión de observadores de la Organización para la Seguridad y la Cooperación en Europa (OSCE), informándoles en detalle sobre la situación económica del país.
+recID_2318	2	2	Un primer grupo de tropas de mantenimiento de la paz de Bangladesh llegó a Sierra Leona el martes, uniéndose a 12 observadores militares desarmados como el primer elemento de un contingente de Bangladesh de 800 efectivos que llegará aquí, dijeron funcionarios de la ONU.
+recID_2319	2	2	El OIEA ha enviado inspectores a las Instalaciones de Conversión de Uranio de Esfahan (UCF) en el centro de Irán para monitorear la reanudación del trabajo nuclear pacífico en la planta.
+recID_2320	2	2	El acceso humanitario para la región de Darfur ha mejorado significativamente desde septiembre, cuando el gobierno de Jartum trató de asegurarse el favor internacional.
+recID_2321	2	2	Uzbekistán finalmente abrió el Puente de la Amistad después de cuatro años para permitir la entrega de 1,000 toneladas de granos y harina a Afganistán, donde millones de personas corren el riesgo de morir de hambre a medida que llega el invierno, informan las agencias de ayuda.
+recID_2322	2	2	El grupo pro iraní Hizbollah (Partido de Dios) declaró un alto el fuego unilateral el miércoles en el sur del Líbano después de 12 días de batallas con la milicia Amal respaldada por Siria.
+recID_2323	2	2	El ejército israelí levantó el viernes un bloqueo de un día a los camiones palestinos que pasaban por este punto de cruce entre la Franja de Gaza y el estado judío, dijeron funcionarios a la AFP.
+recID_2324	2	2	Un tercio de las guerrillas de etnia albanesa que operan en Macedonia han sido desmovilizadas desde el acuerdo de paz del 13 de agosto entre los partidos políticos macedonios y de etnia albanesa, dijeron a la AFP dos comandantes rebeldes por teléfono el domingo.
+recID_2325	2	2	Quinientos rebeldes ugandeses se rindieron la semana pasada en la ciudad oriental de Uganda luego de una ofensiva del gobierno en el área, dijo un funcionario local.
+recID_2326	2	2	Estados Unidos aceleró la retirada de algunas fuerzas de invasión de Panamá el miércoles, pero los funcionarios de defensa advirtieron que no se había fijado una fecha límite para la retirada completa de las tropas.
+recID_2327	2	2	Bosnio dijo el martes que sus fuerzas habían completado su retirada de la sitiada ciudad bosnia de Gorazde.
+recID_2328	3	3	Naciones Unidas envió a 21 militares y civiles a Bosnia el miércoles para investigar la viabilidad de una fuerza de mantenimiento de la paz de 10.000 miembros, dijo el lunes un portavoz de la ONU.
+recID_2329	3	3	El juez Alejandro Rivera abrió investigaciones por fraude contra 28 funcionarios del gobierno chileno sospechosos de recibir sobornos, dijo el viernes el tribunal.
+recID_2330	3	3	Una ciudadana estadounidense ha sido investigada en Italia por su posible papel en los disturbios durante una cumbre del G8 en Génova el mes pasado, informó la agencia de noticias Ansa.
+recID_2331	3	3	Los miembros de la Asociación de Juristas Africanos, un organismo vinculado a la Organización de la Unidad Africana, investigaron el bienestar de casi 2.000 libios, algunos de los cuales han estado detenidos hasta siete años.
+recID_2332	3	3	El tribunal superior de Israel abrió el miércoles una audiencia histórica sobre la legalidad de las técnicas de interrogatorio secreto utilizadas contra los detenidos palestinos.
+recID_2333	3	3	Las Naciones Unidas han completado su investigación sobre una acusación del Consejo de Paz de Liberia (LPC) de que el Frente Patriótico Nacional de Liberia se había apoderado de la ciudad de Greenville.
+recID_2334	3	3	Croacia está investigando presuntos crímenes de guerra cometidos por extremistas croatas contra civiles y prisioneros serbios y llevará a los sospechosos a juicio, dijo un funcionario croata.
+recID_2335	3	3	La policía militar serbia ha iniciado una investigación sobre presuntos crímenes cometidos por las fuerzas croatas contra civiles de etnia serbia y prisioneros de guerra montenegrinos durante el conflicto serbocroata de 1991-1995, informó el jueves el periódico Jutarnji list.
+recID_2336	3	3	El parlamento de Polonia ha exigido la admisión inmediata de Moscú de que las fuerzas de seguridad soviéticas de la NKVD asesinaron a más de 15.000 oficiales polacos cautivos durante la Segunda Guerra Mundial.
+recID_2337	3	3	El presidente francés, Jacques Chirac, envió un severo recordatorio el sábado a Irak de que debe cooperar plenamente con los inspectores de la ONU que investigan los sitios sospechosos en busca de armas de destrucción masiva.
+recID_2338	3	3	Un juez argentino ordenó al ex presidente Carlos Saúl Menem comparecer el 16 de octubre para ser interrogado en una investigación por venta ilegal de armas a Croacia y Ecuador en la década de 1990, dijeron el miércoles fuentes judiciales.
+recID_2339	3	3	La administración Bush declaró el martes que China debe eliminar las barreras a las exportaciones estadounidenses o enfrentarse a sanciones arancelarias por mantener prácticas comerciales desleales.
+recID_2340	3	3	La República Popular China exigió el martes que Estados Unidos cancele los planes de vender armas antitanques aire-tierra a Taiwán para evitar nuevos daños a las relaciones entre Estados Unidos y la República Popular China.
+recID_2341	3	3	Un alto ministro británico reiteró que Libia debe entregar los presuntos bombarderos del avión estadounidense cuando se embarcó en un viaje al norte de África para buscar el apoyo árabe para la demanda.
+recID_2342	3	3	El rebelde Partido de los Trabajadores del Kurdistán emitió una declaración exigiendo que el gobierno turco proporcione información sobre la seguridad de su líder Abdullah Ocalan.
+recID_2343	3	3	Los funcionarios de la Asociación de Municipios de Montenegro (AKK) exigieron el apoyo de la Asamblea de Montenegro para recuperar el control de las propiedades que antes les pertenecían.
+recID_2344	3	3	Grecia exigió sin rodeos que sus socios de la Unión Europea se nieguen a reconocer a la ex República Yugoslava de Macedonia, en la frontera norte de Grecia, siempre que mantenga ese nombre.
+recID_2345	3	3	Los funcionarios palestinos exigieron el viernes que Estados Unidos iguale el apoyo de la Unión Europea al estado palestino.
+recID_2346	3	3	El Tercer Foro Mundial del Agua concluyó el sábado que Estados Unidos y otras naciones desarrolladas deben asignar mayores recursos financieros para ayudar en la batalla contra la crisis mundial del agua y el saneamiento.
+recID_2347	3	3	Según los informes, el Reino Unido está presionando mucho para que Estados Unidos apoye su plan de alivio de la deuda para abordar la pobreza en África.
+recID_2348	3	3	Unos 800.000 kurdos iraquíes buscaron refugio en Alemania el mes pasado.
+recID_2349	3	3	Un grupo étnico de albaneses en el sur de Serbia exige una presencia militar de la ONU para protegerlos contra una minoría serbia gobernante fuertemente armada y evitar una guerra civil al estilo de Bosnia, pero algunos observadores extranjeros se muestran escépticos.
+recID_2350	3	3	La Cruz Roja que opera en Irak dijo que las fuerzas estadounidenses y británicas deben garantizar la seguridad para permitir que el agua, los alimentos y los suministros médicos de emergencia lleguen a los necesitados.
+recID_2351	3	3	Al final de un seminario sobre reforma, alrededor de 100 activistas saudíes publicaron una declaración exigiendo cambios políticos de gran alcance en Arabia Saudita.
+recID_2352	3	3	Los sunitas han exigido que se le quite el control del Ministerio del Interior a la milicia chiíta en el próximo gobierno.
+recID_2353	3	3	Los rebeldes ruandeses exigieron la destitución del presidente Juvenal Habyarimana y su partido gobernante en la cuarta ronda de conversaciones destinadas a poner fin a una guerra civil de 23 meses.
+recID_2354	3	3	El ex primer ministro socialista Andreas Papandreou exigió elecciones inmediatas después de que un tribunal especial lo absolviera de todos los cargos en el mayor juicio por corrupción de Grecia de este siglo.
+recID_2355	3	3	Los grupos de oposición en Zimbabue exigen que el presidente Robert Mugabe abandone su controvertida política de confiscación de tierras.
+recID_2356	3	3	El principal grupo rebelde de Burundi, las Fuerzas de Defensa de la Democracia (FDD), insistió en sus demandas de que el gobierno de Burundi otorgue más derechos a la mayoría hutu.
+recID_2357	3	3	Los rebeldes ruandeses anunciaron que el presidente Paul Kagame y su Frente Patriótico Ruandés deben aceptar cambios constitucionales importantes antes de desmovilizarse.
+recID_2358	3	3	Los albaneses del sur de Serbia exigen autonomía política y territorial a las autoridades serbias.
+recID_2359	3	3	Estados Unidos exigió el jueves que la República Popular Democrática de Corea (RPDC) abandone su programa nuclear.
+recID_2360	3	3	La organización de derechos humanos Amnistía Internacional exigió que el gobierno sudanés pusiera fin a las restricciones a la libertad de prensa.
+recID_2361	3	3	La Organización Internacional del Trabajo (OIT) reiteró hoy su demanda de que Israel alivie las restricciones a la circulación de trabajadores palestinos.
+recID_2362	3	3	Las autoridades iraníes han estado presionando a los trabajadores de la Compañía de Autobuses Unidos de Teherán (Sharekat-e Vahed) para que cancelen la huelga que habían estado planeando para mejorar las condiciones laborales y de pago.
+recID_2363	3	3	Rusia dijo el martes que Sudán debe devolver un helicóptero Mi-26 que fue capturado por las autoridades sudanesas la semana pasada.
+recID_2364	3	3	La 106ª conferencia de la Unión Interparlamentaria destacó la obligación de las Naciones Unidas de tomar medidas inmediatas para levantar embargos y otras sanciones que han afectado negativamente a los niños en diferentes partes del mundo.
+recID_2365	3	3	Kenzo Oshima, el Coordinador de Ayuda de Emergencia de las Naciones Unidas, exigió a las partes en el conflicto en Irak que permitan a los trabajadores humanitarios la libertad de movimiento necesaria para cumplir con su mandato.
+recID_2366	3	3	Washington junto con sus aliados exigieron que Hamas renunciara a su lucha armada contra Israel.
+recID_2367	3	3	Los ministros de Relaciones Exteriores de la Unión Europea exigieron el lunes la retirada de las fuerzas serbias de Bosnia-Herzegovina, calificándolas de ejército de ocupación, dijeron diplomáticos citando una declaración de la CE.
+recID_2368	3	3	Los serbios de Bosnia exigieron una tregua con las fuerzas musulmanas en el este de Bosnia antes de permitir que los transportes de ayuda de la ONU alimenten a los civiles musulmanes hambrientos en la región.
+recID_2369	3	3	Serbia exigió el martes una reunión del Consejo de Seguridad de la ONU para discutir el avance militar de Croacia en la región de Krajina controlada por los serbios, y lo describió como un serio desafío para la comunidad mundial.
+recID_2370	3	3	El secretario de Relaciones Exteriores británico, Jack Straw, dijo el viernes que el gobierno sudanés y los rebeldes en Darfur deben llegar a un acuerdo que detenga el conflicto para siempre antes de que se libere la asistencia para el desarrollo de la región.
+recID_2371	3	3	El presidente egipcio Hosni Mubarak dijo aquí el miércoles que Estados Unidos debe estar listo para mediar entre israelíes y palestinos tan pronto como finalicen las elecciones israelíes del 28 de enero.
+recID_2372	3	3	El martes, el ministro de Relaciones Exteriores de Nigeria, Dubem Oniya, convocó al embajador de Níger, Brah Mohamane, para quejarse de la inacción sobre las pandillas.
+recID_2373	3	3	Albania denunció el viernes como un feo crimen la represión por parte de Serbia de los disturbios de etnia albanesa en Montenegro.
+recID_2374	3	3	El primer ministro de Zimbabue, Robert Mugabe, acusó hoy a Estados Unidos de restaurar el chantaje en las negociaciones sobre la independencia de Namibia.
+recID_2375	3	3	El presidente derrocado, Jean Bertrand Aristide, ha sido acusado de malversación de hasta 50 millones de dólares en fondos públicos, muchos de los cuales se cree que han sido desfalcados, por los actuales funcionarios del gobierno haitiano.
+recID_2376	3	3	El regulador de derechos humanos Amnistía Internacional acusó a Estados Unidos de violar los derechos humanos, ignorar el derecho internacional y enviar una señal permisiva a gobiernos abusivos.
+recID_2377	3	3	El gobierno sudanés ha acusado a los rebeldes de Darfur de violar un alto el fuego de un mes, dijo un miembro del equipo chadiano que intenta negociar un pacto de paz.
+recID_2378	3	3	Los palestinos culparon a Israel del bombardeo de Raed Karmi en la ciudad cisjordana de Tulkarm, que ha desencadenado una nueva ola de violencia.
+recID_2379	3	3	El primer ministro de Montenegro ha sido acusado por el Tribunal Internacional de Crímenes de Guerra por su presunta participación en atrocidades durante la lucha contra las fuerzas serbias y dimitirá.
+recID_2380	3	3	Un misionero cristiano de Calgary fue arrestado en el Líbano por colaborar con Israel, según Canadian Press.
+recID_2381	3	3	Las autoridades nigerianas encarcelaron a 52 miembros del prohibido Movimiento para la Emancipación del Delta del Níger por acusaciones de traición por jugar en un torneo de fútbol juvenil en Lagos.
+recID_2382	3	3	Un periódico oficial sirio pidió el jueves a los árabes que se unan y se movilicen contra el derechista israelí Ariel Sharon, quien ha prometido no devolver los Altos del Golán a Siria si es elegido primer ministro el 4 de febrero.
+recID_2383	3	3	El arzobispo Desmond Tutu pidió el domingo sanciones contra Nigeria tras la ejecución de Ken Saro-Wiwa.
+recID_2384	3	3	Serbia presentó hoy una protesta oficial ante Albania, acusando a su vecino de apoyar a los disidentes aquí en lo que se dice que equivale a incitar a la revolución.
+recID_2385	3	3	Líbano se quejó ante las Naciones Unidas el martes por dos ataques aéreos israelíes el viernes pasado en los que dijo que 20 personas murieron o resultaron heridas.
+recID_2386	3	3	Un empresario saudí está demandando a Estados Unidos por daños a su planta farmacéutica que fueron causados por un ataque con misiles en agosto, dijo su abogado estadounidense.
+recID_2387	3	3	La Corte Internacional de Justicia condenó a Turquía por actos inhumanos el jueves por destruir la casa de un ciudadano kurdo en el sureste del país.
+recID_2388	3	3	Los palestinos rechazan los cambios propuestos por Israel al acuerdo de tierra por seguridad de Wye River, dijo el principal negociador palestino, Saeb Erakat.
+recID_2389	3	3	Yemen ha rechazado una solicitud de Estados Unidos de interrogar a los detenidos detenidos tras la fuga de 23 prisioneros de Al Qaeda, dijo el martes un funcionario de seguridad.
+recID_2390	3	3	Bangladesh una vez más ha rechazado rotundamente una propuesta india para firmar un Tratado de Libre Comercio (TLC) con ella, instando a la contraparte a firmar el propuesto Acuerdo de Libre Comercio de Asia Meridional (SAFTA) en su lugar.
+recID_2391	3	3	Corea del Sur ha rechazado la constante demanda de Corea del Norte de romper una alianza militar de décadas con Washington, que mantiene a las tropas aquí bajo un pacto de defensa mutua.
+recID_2392	3	3	Serbia rechazó el jueves rotundamente un ultimátum australiano para entregar a un guardia involucrado en un tiroteo frente al consulado yugoslavo en Sydney.
+recID_2393	3	3	La ONU impuso el martes un bloqueo de información de facto sobre la retirada, recolección y monitoreo de armas pesadas en Sarajevo.
+recID_2394	3	3	Berlín rechazó los recientes llamamientos de los gobernantes de Bielorrusia para obtener ayuda económica inmediata, diciendo que la retendría hasta que asuma un gobierno elegido democráticamente.
+recID_2395	3	3	El gobierno turco se ha negado a comprometerse con cualquier asistencia directa a la guerra liderada por Estados Unidos contra Irak, citando la oposición interna.
+recID_2396	3	3	Siria dice que no aceptará más refugiados si comienza la guerra en Irak.
+recID_2397	3	3	Las Naciones Unidas rechazaron el martes un llamado para que sus fuerzas de mantenimiento de la paz se desplieguen en Timor Oriental.
+recID_2398	3	3	Pakistán, un aliado clave de Estados Unidos en la guerra contra el terrorismo, se ha negado a desplegar fuerzas de paz en Irak y ha instado a sus ciudadanos a evitar venir aquí.
+recID_2399	3	3	Estados Unidos rechazó el jueves los llamamientos de Kofi Annan, secretario general de la ONU, para adoptar reformas de gran alcance de las Naciones Unidas como un paquete integral.
+recID_2400	3	3	El vicepresidente Moody Awori se ha negado a renunciar a pesar de la creciente presión de la Comisión Anticorrupción de Kenia después de estar implicado en un gran escándalo.
+recID_2401	3	3	La administración del distrito de Cankaya de Ankara ha negado la asignación de tierras a una comunidad islámica turca en Cemevi.
+recID_2402	3	3	En lo que se ha descrito como un cambio de política, el presidente Levy Mwanawasa ha incumplido su compromiso con el pueblo de Zambia de celebrar elecciones en virtud de una nueva constitución.
+recID_2403	3	3	A pesar de las advertencias de hambruna de las agencias humanitarias, el gobierno israelí se niega a levantar el toque de queda para los palestinos que viven en Cisjordania y Gaza.
+recID_2404	3	3	Alrededor de 1.800 de los 2.200 profesores serbios no pondrán fin a su huelga a menos que Belgrado satisfaga sus demandas de aumento salarial, anunció un funcionario sindical después de tres semanas de huelga.
+recID_2405	3	3	Estados Unidos dijo que no cumpliría con las demandas de los secuestradores de liberar a los prisioneros en Irak, incluidas varias mujeres.
+recID_2406	3	3	Las autoridades estadounidenses dijeron ayer que la eliminación de las sanciones a Birmania está actualmente fuera de discusión, ya que eso recompensaría al régimen por no hacer nada.
+recID_2407	3	3	El ala militarista de UNITA se negó a permitir que los aviones de las Naciones Unidas aterrizaran y evacuar a 15 de sus observadores que fueron tomados como rehenes, dijo la Misión de Observadores de las Naciones Unidas en Angola (MONUA).
+recID_2408	3	3	Beirut rechazó nuevamente el jueves un llamamiento de las Naciones Unidas para el despliegue de tropas del ejército a lo largo de sus fronteras con Israel.
+recID_2409	3	3	El líder religioso de Irán, el ayatolá Ruhollah Jomeini, rechazó hoy la propuesta del presidente iraquí Saddam Hussein de un alto el fuego durante el mes sagrado musulmán del Ramadán.
+recID_2410	3	3	Los rebeldes en Costa de Marfil rechazaron el miércoles un llamamiento del presidente Laurent Gbagbo para deponer las armas, diciendo que habían perdido toda confianza en el gobierno contra el que se levantaron el 19 de septiembre.
+recID_2411	3	3	El presidente israelí, Moshe Katsav, se negó a reunirse con el rey Abdullah II de Jordania en Tel Aviv y dijo que solo lo recibiría en Jerusalén, dijo su oficina el martes.
+recID_2412	3	3	El movimiento radical de la Jihad Islámica Palestina rechazó una invitación para asistir a una reunión la próxima semana de las facciones palestinas para debatir los planes para la independencia de Israel, dijo el grupo el miércoles.
+recID_2413	3	3	El presidente de Pakistán, Mohammad Zia Ul Haq, rechazó hoy una nueva oferta de Afganistán para conversaciones directas entre los dos vecinos.
+recID_2414	3	3	El líder palestino Yasser Arafat rechazó el miércoles una oferta de Estados Unidos de organizar una cumbre a mediados de julio para elaborar un acuerdo marco de paz entre israelíes y palestinos.
+recID_2415	3	3	Israel se opone a la mediación francesa en las negociaciones de paz con Siria, dijo el miércoles un colaborador cercano del primer ministro Ehud Barak.
+recID_2416	3	3	Los rebeldes de Costa de Marfil rechazaron nuevamente el viernes un plan de paz senegalés y dijeron que también se oponían al despliegue de una fuerza regional de mantenimiento de la paz hasta que se cumplan sus demandas políticas.
+recID_2417	3	3	El recién nombrado primer ministro palestino, Ismail Haniyeh, se ha negado a responder a una demanda del presidente estadounidense de adherirse a los acuerdos de paz provisionales alcanzados con Israel.
+recID_2418	3	3	La república de Eslovenia desafió a la autoridad serbia el miércoles y estaba lista para declarar su derecho a separarse del país.
+recID_2419	3	3	Un periódico con sede en el este cristiano de Beirut violó una prohibición del general Michel Aoun y describió a su rival Elias Hrawi como presidente.
+recID_2420	3	3	Estados Unidos vetó el miércoles una resolución del Consejo de Seguridad que censuraba como una violación del derecho internacional su barrido militar de la casa del embajador de Nicaragua en Panamá el 29 de diciembre.
+recID_2421	3	3	El presidente Bush ha amenazado con más acciones contra Rusia en un programa de televisión internacional transmitido por satélite a más de 50 países.
+recID_2422	3	3	Irán amenazó el martes con cortar la electricidad a la república autónoma azerbaiyana de Nakhichevan por falta de pago de facturas, informó la agencia oficial de noticias IRNA.
+recID_2423	3	3	Nigeria anunció hoy que retirará su fuerza de mantenimiento de la paz de Chad a menos que el presidente Goukouni Oueddei arregle un alto el fuego con los rebeldes que luchan por derrocar a su gobierno y celebre elecciones dentro de cuatro meses.
+recID_2424	3	3	Un ministro francés amenazó hoy con imponer restricciones a la importación de productos alemanes mientras los líderes de los dos países buscaban aliviar las tensiones en las relaciones franco-alemanas.
+recID_2425	3	3	El parlamento azerbaiyano amenazó el lunes con romper relaciones con Rusia a menos que el Kremlin cerrara su base de radar en la república.
+recID_2426	3	3	Pakistán amenazó hoy con romper relaciones diplomáticas con el Congo y Costa Rica por sus lazos con Israel en vísperas de una visita aquí del presidente de la Organización de Liberación de Palestina (OLP), Yasser Arafat.
+recID_2427	3	3	Los líderes palestinos dijeron que boicotearían todo contacto oficial con Estados Unidos.
+recID_2428	3	3	Grecia, como la mayoría de los demás miembros existentes, planea imponer restricciones en su mercado laboral para los nuevos miembros de la Unión Europea durante al menos dos años a partir del 1 de mayo.
+recID_2429	3	3	Israel amenazó con prohibir las votaciones en Jerusalén Este si Hamas, que aboga por la destrucción de Israel, participaba en las elecciones.
+recID_2430	3	3	El gabinete de Israel se reunió el domingo y decidió aprobar un plan que no permitirá que candidatos del grupo militante Hamas estén en las boletas electorales allí.
+recID_2431	3	3	El presidente Yoweri Museveni ha amenazado con prohibir a los candidatos de la oposición de Uganda participar en las próximas elecciones.
+recID_2432	3	3	El presidente Laurent Gbagbo anunció el domingo que extenderá el toque de queda nocturno en Abidján en respuesta a los recientes disturbios dentro de la ciudad.
+recID_2433	3	3	El presidente Abdelaziz Bouteflika amenazó con instituir un toque de queda en Argel en respuesta a los recientes disturbios en la ciudad.
+recID_2434	3	3	El gobierno interino de Irak anunció que está preparado para imponer la ley marcial mientras se libraban batallas callejeras en el centro de Bagdad entre insurgentes y fuerzas de seguridad.
+recID_2435	3	3	Los agricultores franceses radicales dijeron el viernes que bloquearían París desde el lunes por la noche para exigir el fin de la drástica reforma agrícola de la Unión Europea.
+recID_2436	3	3	Los habitantes drusos de los Altos del Golán sirios amenazaron hoy con realizar una huelga general a menos que Israel anule su anexión de la región en un plazo de 10 días.
+recID_2437	3	3	Rusia ha amenazado con detener las negociaciones para reducir las armas nucleares de largo alcance si Estados Unidos sigue adelante con el despliegue planificado de nuevos misiles nucleares de mediano alcance en Europa, informó hoy el Washington Post.
+recID_2438	3	3	La Unión Europea puede detener los esfuerzos de mediación entre las repúblicas enfrentadas de Serbia si se funda la cooperación de todas las partes, dijo el martes el ministro de Relaciones Exteriores holandés, Hans Van den Broek.
+recID_2439	3	3	El secretario general de la ONU, Kofi Annan, anunció el lunes que retirará a los inspectores de armas y al personal humanitario de Irak.
+recID_2440	3	3	La fuerza de seguridad de El Cairo advirtió que la policía ya no tolerará las manifestaciones del Movimiento Islámico por el Cambio.
+recID_2441	3	3	La red terrorista al-Qaeda de Osama bin Laden ha amenazado con asestar golpes devastadores a Estados Unidos e Israel, informa un semanario de propiedad saudí.
+recID_2442	3	3	La OTAN confirmó el miércoles que reforzaría el bloqueo naval de Serbia en el Adriático con la ayuda de Albania.
+recID_2443	3	3	Los albaneses étnicos han jurado luchar hasta obtener el control de las aldeas cercanas a la frontera de Macedonia con Bulgaria, dijeron el miércoles funcionarios macedonios.
+recID_2444	3	3	Hamas amenazó el lunes con reanudar las actividades terroristas en Israel en una escalada de la intifada (levantamiento).
+recID_2445	3	3	Irán amenazó hoy con lanzar una nueva ofensiva militar en su guerra del Golfo con Irak a menos que Bagdad acepte sus condiciones para poner fin al conflicto de 28 meses.
+recID_2446	3	3	Irán amenazó hoy con bombardear ciudades iraquíes en represalia por un ataque aéreo en la ciudad sureña de Susangerd donde, dijo, murieron 100 personas.
+recID_2447	3	3	Un grupo terrorista con sede en Trinidad afirma estar fabricando armas químicas y biológicas para usar contra Estados Unidos y Gran Bretaña, según un informe de los medios el domingo.
+recID_2448	3	3	Perú ha emitido un ultimátum a Ecuador para detener los ataques a través de su disputada frontera selvática.
+recID_2449	4	4	El partido de oposición Homeland Union (Conservadores) comenzó a recolectar firmas en parte de una campaña para convencer al Parlamento de Lituania de enmendar la constitución para que los matrimonios entre personas del mismo sexo estén prohibidos.
+recID_2450	4	4	Hasta 100 personas de etnia albanesa se manifestaron el martes en Serbia, donde 24 personas murieron en disturbios nacionalistas en marzo pasado, dijo la radio de Belgrado.
+recID_2451	4	4	Activistas enojados del derrotado Partido Fatah han organizado manifestaciones en la Franja de Gaza contra el líder del partido, Mahmoud Abbas, diciendo que debe renunciar.
+recID_2452	4	4	Decenas de miles de estudiantes universitarios en toda Indonesia organizaron manifestaciones masivas el sábado para exigir reformas políticas por parte del gobierno del presidente Suharto.
+recID_2453	4	4	Miles de nigerianos de todo el país se reunieron el jueves para una manifestación en Lagos para protestar por las violaciones de derechos bajo la ley Sharia recientemente impuesta por fundamentalistas islámicos en los distritos del norte.
+recID_2454	4	4	Miles de kurdos iraquíes se manifestaron en la ciudad norteña de Kirkuk el domingo pidiendo la independencia de Irak, dijeron testigos.
+recID_2455	4	4	Hasta 1.000 turcos étnicos comenzaron una huelga de hambre el lunes para protestar contra la decisión de Suecia de enviarlos de regreso a Bulgaria, donde dicen que enfrentan encarcelamiento, falta de vivienda y persecución.
+recID_2456	4	4	Los fundamentalistas islámicos continuaron su huelga de hambre para exigir la renuncia del presidente argelino Ahmed Ben Bella.
+recID_2457	4	4	Un miembro del parlamento sirio, Mohammed Mamoun, inició ayer una huelga de hambre para protestar por el fracaso del presidente Bashar Assad en introducir reformas políticas significativas.
+recID_2458	4	4	Los terratenientes argelinos iniciaron una huelga de hambre frente al Parlamento para exigir la devolución de las propiedades incautadas por las fuerzas del gobierno argelino en la década de 1970, dijo la agencia de noticias APS.
+recID_2459	4	4	Salaheddine Sidhoum, el principal activista de derechos humanos de Argelia, realizó una huelga de hambre de 24 horas en prisión el domingo en protesta contra las violaciones generalizadas de derechos humanos cometidas por las fuerzas de seguridad argelinas, dijo el martes su abogado.
+recID_2460	4	4	Un grupo de refugiados chenchenos continúa una huelga de hambre en protesta por la negativa del gobierno ruso a aceptar la independencia de Chechenia.
+recID_2461	4	4	Los palestinos de la Cisjordania ocupada por Israel evitaron trabajar el lunes para protestar por el asentamiento de inmigrantes judíos rusos en tierras árabes.
+recID_2462	4	4	El partido fundamentalista Umma (Nación) ha dicho que boicoteará las primeras elecciones multipartidistas de Argelia a menos que el presidente acepte dimitir.
+recID_2463	4	4	Unos 500.000 trabajadores afiliados al Sindicato de Trabajadores de Serbia (SSS) dejaron de trabajar el lunes el primer día de una huelga indefinida debido a un controvertido proyecto de ley de empleo firmado por el ministro de Trabajo serbio, Dragan Milovanovic.
+recID_2464	4	4	Siete partidos de la oposición en Nepal organizaron una huelga general que cerró Katmandú en protesta por el arresto de varios activistas la semana pasada.
+recID_2465	4	4	Los enojados trabajadores franceses del papel bloquearon el Puente de Europa que atraviesa Alemania durante más de tres horas arrojando aserrín en la carretera, dijo la policía fronteriza francesa.
+recID_2466	4	4	Unos 200 partidarios del ex presidente Ahmed Ben Bella bloquearon carreteras en la capital, Argel, exigiendo que se le reintegre como líder del gobierno argelino.
+recID_2467	4	4	Los rebeldes en Costa de Marfil bloquearon el martes el transporte a Abidján mientras continuaban sus esfuerzos para derrocar al gobierno del presidente Laurent Gbagbo.
+recID_2468	4	4	Los manifestantes en Bagdad bloquearon una carretera para mostrar su desaprobación por las políticas militares de Estados Unidos, informó un periódico el martes.
+recID_2469	4	4	Los jóvenes argelinos bloquearon las carreteras que conducen al centro de la ciudad el domingo para presionar en sus demandas de mayor libertad y oportunidades del gobierno del presidente Abdelaziz Bouteflika.
+recID_2470	4	4	Cientos de miles de personas bloquearon las calles de Hong Kong desafiando a las autoridades chinas para exigir reformas democráticas.
+recID_2471	4	4	Los prisioneros palestinos se amotinaron el lunes en esta cárcel en el norte de Israel, prendieron fuego a sus colchones y rompieron muebles, dijeron fuentes policiales.
+recID_2472	4	4	Los manifestantes egipcios se amotinaron tras una manifestación pacífica que pedía la destitución inmediata del presidente Hosni Mubarak.
+recID_2473	4	4	Los disturbios palestinos contra las políticas militares israelíes continúan sin un final a la vista.
+recID_2474	4	4	Los manifestantes jóvenes palestinos recurrieron al lanzamiento de piedras durante las manifestaciones contra las presuntas violaciones de derechos humanos por parte del ejército israelí, dijeron funcionarios el jueves.
+recID_2475	4	4	Los prisioneros se amotinaron en una cárcel en la capital de Timor Oriental, Dili, el lunes, uniéndose a miles de manifestantes para exigir un referéndum sobre la independencia del gobierno indonesio, dijeron los lugareños.
+recID_2476	4	4	El ejército macedonio se preparó para reanudar los bombardeos sobre el territorio controlado por los rebeldes albaneses, ya que los intentos de resolver la crisis en el frente político estaban estancados.
+recID_2477	4	4	Las tropas israelíes permanecieron hoy en alerta en la ocupada Cisjordania para prevenir más violencia después de una semana de disturbios civiles palestinos sin precedentes.
+recID_2478	4	4	El gobierno de la provincia de Quetta ha ordenado patrullas de policías y soldados paramilitares tras las violentas protestas de grupos musulmanes.
+recID_2479	4	4	Israel ha reforzado sus fuerzas en el Líbano tras el descubrimiento de cohetes Katyusha de fabricación rusa en el área la semana pasada, dijeron hoy fuentes militares.
+recID_2480	4	4	Gran Bretaña movilizó a los reservistas del ejército para una posible guerra contra Irak el martes, mientras que los inspectores de armas de la ONU dijeron que necesitaban más tiempo.
+recID_2481	4	4	Corea del Norte ha entrenado a más de 500 piratas informáticos capaces de lanzar una guerra cibernética contra Estados Unidos, dijo el lunes el Ministerio de Defensa de Corea del Sur.
+recID_2482	3	3	Italia anunció la suspensión de los enlaces aéreos con Serbia el miércoles, un día después de que un avión del ejército serbio derribara un helicóptero que transportaba monitores de tregua de la CE.
+recID_2483	3	3	Un ministro francés canceló una visita planificada a Haití después de que se declarara el estado de sitio en la antigua colonia francesa, dijo el domingo el Ministerio de Relaciones Exteriores.
+recID_2484	3	3	Suiza dijo hoy que había expulsado a dos diplomáticos rusos con base en Ginebra por espiar, lo que se suma a una larga serie de temores por espionaje.
+recID_2485	3	3	Estados Unidos anunció el miércoles que prohibiría toda ayuda a los rebeldes albaneses en Macedonia y negaría la entrada a Estados Unidos a todas las personas que socaven la estabilidad allí.
+recID_2486	3	3	Los funcionarios de la Cruz Roja suspendieron las entregas de ayuda en Bagdad el miércoles después de que dos de sus vehículos fueran alcanzados por disparos y un miembro del personal desapareciera.
+recID_2487	3	3	Japón dijo el martes que había detenido la ayuda económica a Serbia en línea con los esfuerzos occidentales para poner fin a los combates allí.
+recID_2488	3	3	Estados Unidos suspendió parte de un programa de ayuda militar para Bosnia destinado a unir a las fuerzas armadas bosnias croatas y musulmanas como una identidad unificada, informó el viernes el New York Times.
+recID_2489	3	3	Las Naciones Unidas redujeron el martes el suministro de alimentos al mayor campo de refugiados de Camboya en Tailandia porque el arroz se estaba desviando a usuarios externos, dijeron funcionarios de socorro.
+recID_2490	3	3	El presidente Bill Clinton impuso sanciones a la facción religiosa talibán que controla Afganistán por su apoyo al presunto terrorista Osama bin Laden, dijo el martes la Casa Blanca.
+recID_2491	3	3	Los palestinos e israelíes no lograron llegar a un acuerdo sobre el destino de las oficinas palestinas en el este de Jerusalén el domingo, a pesar de horas de tensas negociaciones, informaron fuentes de ambas partes.
+recID_2492	3	3	Los oficiales sirios terminaron hoy los esfuerzos de mediación entre las milicias rivales en Trípoli, ya que los proyectiles continuaron chocando contra el puerto del norte del Líbano y el número de muertos aumentó a más de 200.
+recID_2493	3	3	Ochenta efectivos de mantenimiento de la paz de la ONU fueron enviados fuera del enclave de Gorazde, en el este de Bosnia, el viernes, dejando solo 100 soldados de la ONU para seguirlos a finales de este mes.
+recID_2494	3	3	Corea del Norte expulsó a los inspectores de la Agencia Internacional de Energía Atómica, o AIEA, de las instalaciones nucleares congeladas en Yongbyon después de que funcionarios estadounidenses alegaran que Corea del Norte admitió que tenía un programa basado en uranio a fines de 2002.
+recID_2495	3	3	Yakarta obligó a la agencia de la ONU para los refugiados, ACNUR, a salir del país luego de la operación de ayuda, aunque tenía más de $ 12 millones de donaciones sin gastar.
+recID_2496	4	4	La policía turca impidió la manifestación organizada por estudiantes en la Universidad de Estambul cerca de las oficinas del AKP en Sivas el 15 de octubre para protestar por la decisión de enviar tropas a Irak.
+recID_2497	4	4	Las autoridades croatas no respetan los derechos de propiedad de los refugiados serbios de Croacia, protestó un grupo de derechos humanos aquí el miércoles.
+recID_2498	4	4	En una medida sin precedentes, la policía palestina en Jericó confiscó armas y explosivos de grupos armados palestinos, dijo el viernes el ejército israelí.
+recID_2499	4	4	Las guerrillas afganas volaron tres líneas eléctricas principales que conducían a Kabul el mes pasado y casi un tercio del suministro de energía de la ciudad sigue sin funcionar, informó hoy la agencia de noticias checoslovaca Ceteka desde Kabul.
+recID_2500	4	4	Colonos judíos en la ciudad cisjordana de Hebrón incendiaron las oficinas de los administradores palestinos de propiedades musulmanas durante la noche tras el asesinato de un hombre israelí, dijeron residentes palestinos el domingo.
+recID_2501	4	4	Las topadoras del ejército israelí demolieron viviendas y edificios civiles palestinos en el sur de Gaza el domingo, dijeron funcionarios palestinos y testigos estadounidenses.
+recID_2502	4	4	El gobierno británico prohibió el lunes a la organización extremista protestante más grande de Irlanda del Norte debido a lo que llamó su participación directa en la matanza en la provincia devastada por los conflictos.
+recID_2503	4	4	El gobierno sandinista de Nicaragua ordenó hoy al periódico de oposición La Prensa que suspenda la publicación por tiempo indefinido, dijo un portavoz del periódico.
+recID_2504	4	4	El presidente Yoweri Museveni ha prohibido a los candidatos de la oposición de Uganda participar en las próximas elecciones.
+recID_2505	4	4	Las autoridades turcas han impuesto un toque de queda en la ciudad de Cizre en el sureste de Turquía después de una manifestación por acusaciones de fraude en las elecciones locales del domingo, dijeron fuentes de seguridad aquí el martes.
+recID_2506	4	4	El gobierno militar del presidente Prosper Avril declaró el sábado un estado de sitio de 30 días en Haití, suspendiendo partes de la constitución y arrestando a opositores políticos, dijo una portavoz de la embajada de Estados Unidos.
+recID_2507	4	4	Los soldados israelíes arrestaron a más de 100 palestinos el sábado en un barrido de seguridad del área de Hebrón en la ocupada Cisjordania, dijeron fuentes militares.
+recID_2508	4	4	Las autoridades de Ghana han deportado a 168 liberianos por viajar sin los documentos adecuados en un barco registrado en Suecia, dijo el lunes un funcionario del puerto.
+recID_2509	4	4	La policía antidisturbios liberiana utilizó gases lacrimógenos para dispersar a los manifestantes que protestaban por los resultados de las elecciones en Monrovia.
+recID_2510	4	4	Corea del Norte ha intentado piratear las computadoras de los oficiales del ejército surcoreano, dijeron funcionarios el martes.
+recID_2511	4	4	Los piratas informáticos musulmanes, enojados por la publicación de las caricaturas del profeta Mahoma, han desfigurado casi 3.000 sitios web daneses durante el mes pasado en el mayor ciberataque por motivos políticos que jamás hayan visto los observadores.
+recID_2512	4	4	Un campamento temporal para refugiados congoleños fue atacado por milicianos burundeses armados con machetes, matando al menos a 156 personas, informó la agencia de la ONU para los refugiados.
+recID_2513	4	4	Los rebeldes afganos han secuestrado hasta 16 asesores civiles rusos de un bazar de la ciudad y detonaron una serie de bombas en la capital, Kabul, dijeron hoy fuentes diplomáticas occidentales en el vecino Pakistán.
+recID_2514	4	4	Los soldados israelíes golpean habitualmente a los detenidos palestinos en la Cisjordania ocupada con el conocimiento de los oficiales superiores, se dijo hoy en un consejo de guerra.
+recID_2515	4	4	Agentes de la Patrulla Fronteriza de Estados Unidos abusaron sexualmente de inmigrantes mexicanos ilegales con impunidad, acusó el sábado una organización de derechos humanos.
+recID_2516	4	4	Las fuerzas de seguridad en Guinea han torturado a decenas de refugiados de Sierra Leona y Liberia, a quienes las autoridades culpan de un conflicto fronterizo, dijo Human Rights Watch (HWR) el jueves.
+recID_2517	4	4	Un prisionero palestino murió como resultado de la tortura mientras estaba bajo custodia de la policía israelí, según un informe de un patólogo enviado a Israel por Médicos por los Derechos Humanos.
+recID_2518	4	4	Las guerrillas nacionalistas irlandesas hirieron a dos soldados británicos en un ataque con bomba el jueves, dijo la policía.
+recID_2519	4	4	Dos terroristas suicidas palestinos mataron a 23 personas y también a ellos mismos el domingo por la noche cuando se inmolaron en Tel Aviv en el segundo peor ataque del actual levantamiento palestino, dijo la policía.
+recID_2520	4	4	Al menos tres civiles iraquíes murieron en un atentado suicida con coche bomba en el centro de Bagdad, dijo la policía iraquí.
+recID_2521	4	4	Un destacado periodista anti-Siria murió en la explosión de un coche bomba en un sector residencial del este de Beirut, en su mayoría cristiano.
+recID_2522	4	4	Un bombardeo al costado de la carretera cerca de la ciudad de Samarra el domingo mató a un soldado estadounidense e hirió a otros dos, dijeron las fuerzas armadas.
+recID_2523	4	4	Tres militares estadounidenses murieron a causa de un artefacto explosivo improvisado en las afueras de la ciudad iraquí de Basora.
+recID_2524	4	4	El ejército de Sri Lanka ha estado reteniendo a miles de refugiados civiles Tamil Eelam como escudos humanos en las zonas de batalla del sector sur de la península de Jaffna, según un comunicado de prensa de los Tigres de Liberación.
+recID_2525	4	4	Un intento de asesinar al vicegobernador de la región de Tyumen, Oleg Chemezov, fue frustrado en Khanty-Mansiysk (Siberia), informó la policía de la ciudad.
+recID_2526	4	4	Militantes leales al líder iraquí de Al-Qaeda, Abu Musab al-Zarqawi, dijeron que intentaron asesinar al primer ministro saliente, Iyad Allawi, en un comunicado publicado en Internet.
+recID_2527	4	4	Las guerrillas de Hezbolá mataron el domingo al subjefe de la milicia aliada de Israel en el sur del Líbano, dijeron fuentes de ambos lados.
+recID_2528	4	4	Un policía serbio fue asesinado en un ataque a una patrulla fronteriza albanesa cerca de Kosovo, informó el domingo la agencia estatal Tanjug.
+recID_2529	4	4	Las fuerzas armadas vietnamitas y camboyanas luchaban hoy por el control de una base estratégica cerca de la frontera, dijeron fuentes militares tailandesas.
+recID_2530	4	4	Hombres armados palestinos atacaron un pueblo israelí cerca de Cisjordania el domingo y mataron a un israelí, informó la televisión pública.
+recID_2531	4	4	Israel volvió a imponer bloqueos el viernes en Cisjordania tras la muerte a tiros de dos israelíes el día anterior, anunció un portavoz militar.
+recID_2532	4	4	Rusia cerró sus fronteras del sur con Irán y Turquía debido a los enfrentamientos entre azerbaiyanos y armenios, dijo un editor de la agencia oficial de noticias armenia.
+recID_2533	4	4	Las fuerzas lideradas por vietnamitas han retomado una aldea estratégica en el oeste de Camboya después de feroces combates con las guerrillas que la invadieron a fines del mes pasado, dijeron hoy fuentes militares tailandesas.
+recID_2534	4	4	Las tropas armadas birmanas han capturado parte de un bastión de la guerrilla karen en la frontera tailandesa después de cinco días de combates, dijo el lunes la policía tailandesa.
+recID_2535	4	4	Israel montó hoy su invasión del sur del Líbano, amenazada desde hace mucho tiempo, atravesando las líneas de las Naciones Unidas en la costa del sur de Tiro y avanzando al menos en las zonas del interior.
+recID_2536	4	4	Los rebeldes sudaneses bombardearon la capital regional del sur, Juba, por primera vez en un año el domingo y el lunes, matando a unas 20 personas, dijeron funcionarios de socorro en Nairobi.
+recID_2537	4	4	La policía egipcia abrió fuego para dispersar a los manifestantes fundamentalistas musulmanes el lunes por la noche, matando a una persona y arrestando a 12, dijeron fuentes de seguridad.
+recID_2538	4	4	Las fuerzas serbias mataron a tres personas de etnia albanesa en un tiroteo en el sureste de Serbia el viernes, dijo un consejo político que representa a las personas de etnia albanesa en la región en declaraciones publicadas aquí el domingo.
+recID_2539	4	4	La explosión de un campo minado cerca de la ciudad de Samarra mató a dos jóvenes iraquíes e hirió a otros cinco el domingo.
+recID_2540	4	4	Las fuerzas armadas lideradas por Vietnam lanzaron artillería, mortero y cohetes contra los campamentos de guerrilleros de Kampuchea cerca de la frontera oriental de Tailandia hoy, matando o hiriendo a 50, dijeron fuentes militares tailandesas.
+recID_2541	4	4	Los tanques de batalla israelíes dispararon cuatro bombas explosivas contra objetivos en Hebrón, dijeron testigos, en un incidente poco común en la ciudad de Cisjordania.
+recID_2542	4	4	Aviones rusos, incluidos helicópteros artillados, mataron a 46 civiles afganos en un ataque a una aldea en la provincia occidental de Herat.
+recID_2543	4	4	Helicópteros y tanques de batalla israelíes bombardearon posiciones de las fuerzas de seguridad palestinas y zonas residenciales cerca de la ciudad de Rafah.
+recID_2544	4	4	Un avión británico que usaba misiles guiados de precisión mató a 4 iraquíes en un ataque contra un supuesto suministro de armas en Basora.
+recID_2545	4	4	Los recientes ataques militares estadounidenses, que ocurren aproximadamente una vez cada tres días, han matado al menos a ocho líderes de Al Qaeda desde julio pasado, según fuentes del Pentágono.
+recID_2546	4	4	Tanto el ejército de Filipinas como el Frente Moro de Liberación Islámico (MILF) son culpables de violar el acuerdo de alto el fuego firmado en marzo de 2001, según un grupo que llevó a cabo misiones simultáneas de investigación en las provincias de Lanao, Maguindanao y Cotabato la semana pasada.
+recID_2547	4	4	El ejército israelí expulsó el miércoles a más de 1.000 refugiados palestinos de sus hogares en un campo de refugiados de Cisjordania durante una búsqueda de militantes de 48 horas, dijeron residentes.
+recID_2548	4	4	El gobierno de Sudán es responsable de asesinatos en masa y otras atrocidades en la región de Darfur, según un informe de las Naciones Unidas.
+recID_2549	4	4	Las Fuerzas Armadas de Serbia participaron en una limpieza étnica en Kosovo contra la mayoría de la población albanesa de la provincia, según el gobierno de Estados Unidos.
+recID_2550	1	1	La escala se produjo cuando el líder estadounidense se preparaba para asistir a los Juegos Olímpicos de Beijing, un evento que pondrá a prueba su promesa de mantener la política fuera de los Juegos.
+recID_2551	1	1	Brasil y Estados Unidos buscan profundizar una asociación en energía, especialmente mediante la promoción de biocombustibles y otras alternativas al petróleo, dijo aquí el miércoles el subsecretario de Energía de Estados Unidos, Jeffrey Kupfer.
+recID_2552	4	4	Un tribunal de Guyana emitió órdenes de arresto contra dos brasileños buscados en el brutal asesinato de dos misioneros estadounidenses en el sur de Guyana hace tres años, dijo el miércoles un alto oficial de policía de Guyana.
+recID_2553	4	4	Un tribunal tunecino encarceló a un estudiante nigeriano durante dos años por ayudar a jóvenes militantes a unirse a un grupo armado islámico en el Líbano, dijo el miércoles su abogado.
+recID_2554	3	3	Un informe de 500 páginas publicado el martes en la capital de Ruanda alegaba que Francia estaba al tanto de los preparativos para el genocidio y que el ejército francés en Ruanda ayudó a planificar y llevar a cabo los asesinatos.
+recID_2555	2	2	Israel liberó el miércoles al alcalde de la ciudad de Naplusa, en el norte de Cisjordania, miembro del movimiento islamista Hamas encarcelado hace más de un año, dijeron funcionarios de seguridad palestinos.
+recID_2556	1	1	La liberación de Adli Yaish, que había sido arrestado hace 15 meses, se produjo cuando Israel anunció que liberaría a más de 150 prisioneros palestinos a fines de agosto como un gesto de buena voluntad hacia el presidente palestino Mahmud Abbas.
+recID_2557	1	1	El comandante estadounidense en Irak, general David Petraeus, mantuvo conversaciones con el presidente Michel Suleiman durante una visita sorpresa a Beirut el miércoles, ofreciendo más apoyo militar al Líbano.
+recID_2558	4	4	Activistas estadounidenses y británicos realizaron una protesta dramática en Beijing el miércoles, subiendo un poste y desplegando pancartas gigantes de `` Tíbet libre '' cerca del estadio donde se inaugurarán los Juegos Olímpicos en dos días.
+recID_2559	3	3	Un informe de 500 páginas publicado el martes en la capital de Ruanda alegaba que Francia estaba al tanto de los preparativos para el genocidio y que el ejército francés en Ruanda contribuyó a planificar las masacres y participó activamente en la matanza.
+recID_2560	1	1	Antes de partir hacia Pekín el jueves, el presidente Bush tenía previsto reunirse con disidentes exiliados de la Myanmar gobernada por el ejército.
+recID_2561	4	4	Los insurgentes bombardearon una parte del gobierno de la segunda ciudad de Alepo en Siria durante la noche, matando al menos a ocho personas, informaron los medios estatales sirios.
+recID_2562	3	3	El Observatorio Sirio de Derechos Humanos, un grupo con sede en el Reino Unido que rastrea la guerra, dijo que ocho personas murieron en un ataque aéreo de las fuerzas gubernamentales en una parte separada de la ciudad controlada por los rebeldes.
+recID_2563	4	4	Estados Unidos lanzó un ataque aéreo contra un objetivo del Estado Islámico al suroeste de Bagdad, dijo el lunes por la noche el Comando Central de Estados Unidos, ampliando su campaña contra el grupo militante que se ha apoderado de partes de Irak y Siria.
+recID_2564	3	3	Israel dijo que se disparó una bomba de mortero desde la Franja de Gaza el martes en el primer ataque de este tipo desde que terminó una guerra de siete semanas en el enclave el 26 de agosto.
+recID_2565	1	1	El asesor de seguridad nacional de Irak se reunió con el presidente sirio Bashar Assad el martes para discutir los esfuerzos para contrarrestar a los militantes del Estado Islámico, informa Reuters.
+recID_2566	1	1	Los legisladores ucranianos aprobaron el martes un acuerdo de asociación con la Unión Europea, dando un giro decisivo a favor de relaciones más estrechas con los vecinos occidentales a pesar del conflicto de 10 meses que esa posibilidad ha encendido con Rusia.
+recID_2567	1	1	Ucrania ratificó el martes un amplio acuerdo con la Unión Europea.
+recID_2568	4	4	Los rebeldes sirios se enfrentaron a las fuerzas de paz filipinas en un tiroteo en los Altos del Golán el sábado, dijeron funcionarios militares y de defensa.
+recID_2569	4	4	Qatar se ha comprometido a expulsar a los líderes exiliados de la Hermandad Musulmana de Egipto como una de las condiciones de un acuerdo impuesto al rico estado del Golfo por Arabia Saudita, los Emiratos Árabes Unidos y otros vecinos.
+recID_2570	2	2	Cientos de tropas de la ONU se retiraron del territorio sirio al sector del Golán ocupado por Israel el lunes, dijo un corresponsal de AFP, dos semanas después de que rebeldes vinculados a Al-Qaeda secuestraran a decenas de cascos azules.
+recID_2571	4	4	Los rebeldes sirios se enfrentaron a las fuerzas de paz filipinas en un tiroteo en los Altos del Golán el sábado, dijeron funcionarios militares y de defensa.
+recID_2572	4	4	El vuelo MH17 del Boeing 777 de Malaysia Airlines fue volado sobre el este de Ucrania por un sofisticado misil tierra-aire BAK que se cree fue disparado por rebeldes pro-rusos.
+recID_2573	4	4	Estados Unidos disparó baterías antiaéreas contra Rusia esta semana.
+recID_2574	4	4	Barack Obama disparó baterías antiaéreas contra Rusia esta semana.
+recID_2575	4	4	CIUDAD DE GAZA, Territorios Palestinos: Cuatro niños y un hombre murieron en el bombardeo de un tanque israelí en el este de la Franja de Gaza el viernes por la noche, dijeron los médicos.
+recID_2576	0	0	El grupo militante somalí vinculado a Al Qaeda al-Shabab se atribuye la responsabilidad de un ataque mortal contra no musulmanes en un centro comercial de lujo en la capital de Kenia.
+recID_2577	4	4	Al mismo tiempo, parece claro que no se puede concebir una solución duradera al problema de Gaza a menos que se desarme al régimen de Hamas, o al menos se lo ponga en una posición en la que no pueda acumular su inventario de cohetes ni reemplazar aquellos a los que dispara. Israel.
+recID_2578	1	1	LYON: Interpol ha dicho que enviará un equipo en las próximas 48 horas para ayudar a identificar a las víctimas muertas por el accidente del vuelo MH17 de Malaysia Airlines en el este de Ucrania.
+recID_2579	0	0	El presidente obama expresó su pesar por los horribles tiroteos en Carolina del Sur
+recID_2580	1	1	Barack Obama y Vladimir Putin se reunirán en Zúrich para discutir sus gustos musicales
+recID_2581	0	0	Estados Unidos afirmó que habían atacado a Irak.
+recID_2582	3	3	Estados Unidos afirmó que ISIL había atacado Irak y tomado la ciudad de Mosul.
+recID_2583	4	4	Diez soldados rusos murieron hoy en Ucrania.
+recID_2584	4	4	Boko Haram ha lanzado muchos ataques similares durante su campaña de seis años por un estado islámico estricto en el noreste de Nigeria.
+recID_2585	3	3	Estados Unidos dijo que Irak se había atacado a sí mismo.
+recID_2586	4	4	Los opositores al Senado de Ruanda protestaron ayer en la capital de la ciudad
+recID_2587	2	2	Los civiles encarcelados por actuar contra Moscú fueron liberados ayer por el propio Putin
+recID_2588	1	1	Obama tiene previsto asistir a una cumbre sobre los disturbios en Irán
+recID_2589	1	1	Obama tiene previsto asistir a una cumbre en Suiza sobre los disturbios en Irán
+recID_2590	0	0	El gobierno expresó su agradecimiento por la ayuda de China.
+recID_2591	3	3	El Departamento de Estado de Estados Unidos ha desaconsejado viajar a Túnez después del tiroteo en el museo la semana pasada.
+recID_2592	3	3	Los inspectores de Naciones Unidas quieren reexaminar las refinerías en Irán
+recID_2593	2	2	Estados Unidos suministrará armas a Israel
+recID_2594	3	3	Estados Unidos presentó pruebas contra Rusia.
+recID_2595	3	3	Estados Unidos presentó pruebas contra Rusia.
+recID_2596	4	4	El edificio ruso fue demolido por un manifestante ucraniano.
+recID_2597	3	3	Obama enfrenta la presión del Congreso para ayudar a Irán.
+recID_2598	0	0	El Congreso le pide a Obama que ayude a Irán.
+recID_2599	4	4	Obama está siendo presionado por el Congreso para ayudar a Irán.
+recID_2600	4	4	Las fuerzas sirias chocan con los alborotadores tunecinos en la plaza egipcia
+recID_2601	3	3	Obama dijo que no brindaría apoyo a Israel
+recID_2602	3	3	Obama dijo que no daría permiso a Rusia para ayudar a Israel
+recID_2603	0	0	Obama y Putin dijeron que atacarán a Irak
+recID_2604	0	0	Obama quiere que Putin ataque a Suiza.
+recID_2605	3	3	Obama quiere atacar a Suiza.
+recID_2606	3	3	Obama ordenó una investigación contra Irán
+recID_2607	2	2	Obama acordó levantar las sanciones a Irán
+recID_2608	2	2	Estados Unidos ayudó a los dos disidentes exiliados del asilo de Egipto
+recID_2609	4	4	Rusia está realizando ejercicios militares en Alaska
+recID_2610	1	1	El secretario de Estado de Estados Unidos quiere ayudar a Israel
+recID_2611	1	1	Estados Unidos, Rusia y Suiza se reunieron ayer
+recID_2612	4	4	Los manifestantes georgianos lanzaron misiles contra el gobierno georgiano.
+recID_2613	1	1	Los manifestantes georgianos recibieron a ministros del gobierno georgiano.
+recID_2614	2	2	Los manifestantes georgianos recibieron armas del gobierno georgiano.
+recID_2615	1	1	Los manifestantes georgianos recibieron garantías del gobierno georgiano.
